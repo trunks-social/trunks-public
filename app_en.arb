@@ -2665,7 +2665,7 @@
     "description": "Success text for profile updates."
   },
 
-  "profilePageProfileUpdateFailure": "Successfully updated profile",
+  "profilePageProfileUpdateFailure": "Fail to update profile",
   "@profilePageProfileUpdateFailure": {
     "description": "Failure text for profile updates."
   },
@@ -3040,7 +3040,7 @@
     "description": "The feed settings page title."
   },
 
-  "feedSettingsPageMediaDefaultsBase": "Hide poster marked sensitive content",
+  "feedSettingsPageMediaDefaultsBase": "Hide posts marked as sensitive content",
   "@feedSettingsPageMediaDefaultsBase": {
     "description": "The feed settings page media default for showing post marked sensitive content."
   },
