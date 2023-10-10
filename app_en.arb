@@ -1,0 +1,3662 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+
+  "ok": "Ok",
+  "@ok": {
+    "description": "Common ok option"
+  },
+
+  "on": "On",
+  "@on": {
+    "description": "Common on option"
+  },
+
+  "off": "Off",
+  "@off": {
+    "description": "Common off option"
+  },
+
+  "accept": "Accept",
+  "@accept": {
+    "description": "Common accept option"
+  },
+
+  "create": "Create",
+  "@create": {
+    "description": "Common create option"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Common cancel option"
+  },
+
+  "reset": "Reset",
+  "@reset": {
+    "description": "Common reset option"
+  },
+
+  "logIn": "Log in",
+  "@logIn": {
+    "description": "Common log in option"
+  },
+
+  "signOut": "Sign out",
+  "@signOut": {
+    "description": "Common sign out option"
+  },
+
+  "delete": "Delete",
+  "@delete": {
+    "description": "Common delete option"
+  },
+
+  "add": "Add",
+  "@add": {
+    "description": "Common add option"
+  },
+
+  "remove": "Remove",
+  "@remove": {
+    "description": "Common remove option"
+  },
+
+  "show": "Show",
+  "@show": {
+    "description": "Common show option"
+  },
+
+  "hide": "Hide",
+  "@hide": {
+    "description": "Common hide option"
+  },
+
+  "edit": "Edit",
+  "@edit": {
+    "description": "Common edit option"
+  },
+
+  "clear": "Clear",
+  "@clear": {
+    "description": "Common clear option"
+  },
+
+  "bookmark": "Bookmark",
+  "@bookmark": {
+    "description": "Common bookmark option"
+  },
+
+  "pin": "Pin",
+  "@pin": {
+    "description": "Common pin option"
+  },
+
+  "unpin": "Unpin",
+  "@unpin": {
+    "description": "Common unpin option"
+  },
+
+  "reply": "Reply",
+  "@reply": {
+    "description": "Common reply option"
+  },
+
+  "follow": "Follow",
+  "@follow": {
+    "description": "Common follow option"
+  },
+
+  "pending": "Pending",
+  "@pending": {
+    "description": "Common pending option"
+  },
+
+  "unfollow": "Unfollow",
+  "@unfollow": {
+    "description": "Common unfollow option"
+  },
+
+  "askToFollow": "Ask to follow",
+  "@askToFollow": {
+    "description": "Common ask to follow option"
+  },
+
+  "filter": "Filter",
+  "@filter": {
+    "description": "Common filter option"
+  },
+
+  "unfilter": "Unfilter",
+  "@unfilter": {
+    "description": "Common unfilter option"
+  },
+
+  "share": "Share",
+  "@share": {
+    "description": "Common share option"
+  },
+
+  "quote": "Quote",
+  "@quote": {
+    "description": "Common quote option"
+  },
+
+  "exit": "Exit",
+  "@exit": {
+    "description": "Common exit option"
+  },
+
+  "save": "Save",
+  "@save": {
+    "description": "Common save option"
+  },
+
+  "loading": "Loading",
+  "@loading": {
+    "description": "Common loading text"
+  },
+
+  "saving": "Saving",
+  "@saving": {
+    "description": "Common saving text"
+  },
+
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "Common refresh option"
+  },
+
+  "retry": "Retry",
+  "@retry": {
+    "description": "Common retry option"
+  },
+
+  "oops": "Whoops, something went wrong",
+  "@oops": {
+    "description": "Common oops/error text."
+  },
+
+  "about": "About",
+  "@about": {
+    "description": "Common about option"
+  },
+
+  "unableToLoad": "Unable to load content",
+  "@unableToLoad": {
+    "description": "Common load error text."
+  },
+
+  "filterAll": "all",
+  "@filterAll": {
+    "description": "Common all filter option"
+  },
+
+  "quantitySeconds": "{time} second(s)",
+  "@quantitySeconds": {
+    "description": "Quantity of time in seconds",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityMinutes": "{time} minute(s)",
+  "@quantityMinutes": {
+    "description": "Quantity of time in minutes",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityHours": "{time} hour(s)",
+  "@quantityHours": {
+    "description": "Quantity of time in hours",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityDays": "{time} day(s)",
+  "@quantityDays": {
+    "description": "Quantity of time in days",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityVotes": "{voteCount} vote(s)",
+  "@quantityVotes": {
+    "description": "Quantity of votes",
+    "placeholders": {
+      "voteCount": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityBoosts": "{boostCount} boost(s)",
+  "@quantityBoosts": {
+    "description": "Quantity of boosts",
+    "placeholders": {
+      "boostCount": {
+        "type": "String",
+        "example": "13k"
+      }
+    }
+  },
+
+  "quantityFavorites": "{favoriteCount} favorite(s)",
+  "@quantityFavorites": {
+    "description": "Quantity of favorites",
+    "placeholders": {
+      "favoriteCount": {
+        "type": "String",
+        "example": "13k"
+      }
+    }
+  },
+
+  "visibilityPublic": "Public",
+  "@visibilityPublic": {
+    "description": "The public visibility of a post."
+  },
+
+  "visibilityUnlisted": "Unlisted",
+  "@visibilityUnlisted": {
+    "description": "The unlisted visibility of a post."
+  },
+
+  "visibilityPrivate": "Private",
+  "@visibilityPrivate": {
+    "description": "The private visibility of a post."
+  },
+
+  "visibilityDirect": "Direct",
+  "@visibilityDirect": {
+    "description": "The direct visibility of a post."
+  },
+
+  "commentSortBest": "best",
+  "@commentSortBest": {
+    "description": "The best comment sort option."
+  },
+
+  "commentSortChronological": "chronological",
+  "@commentSortChronological": {
+    "description": "The chronological comment sort option."
+  },
+
+  "commentSortControversial": "controversial",
+  "@commentSortControversial": {
+    "description": "The controversial comment sort option."
+  },
+
+  "mainDescription": "is a modern Mastodon client that's fast, easy to use, and customizable. It's the perfect way to follow your interests on Mastodon, no matter what device you're using.",
+  "@mainDescription": {
+    "description": "The text describing trunks.social on the main login page."
+  },
+
+  "mainPromo": "Download today on your mobile devices, tablets, and mac, or use the web client to get access to one of the best Mastodon cross-platform experiences possible.",
+  "@mainPromo": {
+    "description": "The text promoting trunks and its apps on the main login page."
+  },
+
+  "mainAppDownloadHeaderText": "Download the apps",
+  "@mainAppDownloadHeaderText": {
+    "description": "The header text on the main login page that supersedes the app link downloads."
+  },
+
+  "mainExploreHeaderText": "Explore trending posts",
+  "@mainExploreHeaderText": {
+    "description": "The header text on the main login page that supersedes the trending posts."
+  },
+
+  "adaptiveHomeSearchAction": "search",
+  "@adaptiveHomeSearchAction": {
+    "description": "The FAB search action."
+  },
+
+  "adaptiveHomeCreateListAction": "create list",
+  "@adaptiveHomeCreateListAction": {
+    "description": "The FAB create list action."
+  },
+
+  "adaptiveHomeComposeAction": "compose",
+  "@adaptiveHomeComposeAction": {
+    "description": "The FAB compose action."
+  },
+
+  "adaptiveHomeNavDestinationHome": "home",
+  "@adaptiveHomeNavDestinationHome": {
+    "description": "The tab or navigation text for the current users home feed."
+  },
+
+  "adaptiveHomeNavDestinationExplore": "explore",
+  "@adaptiveHomeNavDestinationExplore": {
+    "description": "The tab or navigation text for the explore feed."
+  },
+
+  "adaptiveHomeNavDestinationNotifications": "notifications",
+  "@adaptiveHomeNavDestinationNotifications": {
+    "description": "The tab or navigation text for the notifications feed."
+  },
+
+  "adaptiveHomeNavDestinationPublic": "public",
+  "@adaptiveHomeNavDestinationPublic": {
+    "description": "The tab or navigation text for the federated or public feed."
+  },
+
+  "adaptiveHomeNavDestinationLocal": "local",
+  "@adaptiveHomeNavDestinationLocal": {
+    "description": "The tab or navigation text for the current users server feed."
+  },
+
+  "adaptiveHomeNavDestinationBookmarks": "bookmarks",
+  "@adaptiveHomeNavDestinationBookmarks": {
+    "description": "The tab or navigation text for the current users bookmarks feed."
+  },
+
+  "adaptiveHomeNavDestinationFavorites": "favorites",
+  "@adaptiveHomeNavDestinationFavorites": {
+    "description": "The tab or navigation text for the current users favorites feed."
+  },
+
+  "adaptiveHomeNavDestinationLists": "lists",
+  "@adaptiveHomeNavDestinationLists": {
+    "description": "The tab or navigation text for the current users lists feed."
+  },
+
+  "adaptiveHomeWebLinksHeader": "links",
+  "@adaptiveHomeWebLinksHeader": {
+    "description": "The header text on web clients that supersedes mobile app links and other stuff."
+  },
+
+  "adaptiveHomeSearchButtonTooltip": "Search",
+  "@adaptiveHomeSearchButtonTooltip": {
+    "description": "The search button tooltip text."
+  },
+
+  "adaptiveHomeRefreshButtonTooltip": "Refresh",
+  "@adaptiveHomeRefreshButtonTooltip": {
+    "description": "The refresh button tooltip text."
+  },
+
+  "adaptiveHomeSettingsButtonTooltip": "Settings",
+  "@adaptiveHomeSettingsButtonTooltip": {
+    "description": "The settings button tooltip text."
+  },
+
+  "adaptiveHomeListsButtonTooltip": "Lists",
+  "@adaptiveHomeListsButtonTooltip": {
+    "description": "The lists button tooltip text."
+  },
+
+  "adaptiveHomeBookmarksButtonTooltip": "Bookmarks",
+  "@adaptiveHomeBookmarksButtonTooltip": {
+    "description": "The bookmarks button tooltip text."
+  },
+
+  "adaptiveHomeFavoritesButtonTooltip": "Favorites",
+  "@adaptiveHomeFavoritesButtonTooltip": {
+    "description": "The favorites button tooltip text."
+  },
+
+  "adaptiveHomeShortcutsButtonTooltip": "Shortcuts",
+  "@adaptiveHomeShortcutsButtonTooltip": {
+    "description": "The shortcuts button tooltip text."
+  },
+
+  "adaptiveHomeManageAccountsButtonTooltip": "Manage Accounts",
+  "@adaptiveHomeManageAccountsButtonTooltip": {
+    "description": "The manage accounts button tooltip text."
+  },
+
+  "adaptiveHomeSettingsPopupButton": "settings",
+  "@adaptiveHomeSettingsPopupButton": {
+    "description": "The popup button text for settings when you click on the current user avatar."
+  },
+
+  "adaptiveHomeManageAccountsPopupButton": "manage accounts",
+  "@adaptiveHomeManageAccountsPopupButton": {
+    "description": "The popup button text for manage accounts when you click on the current user avatar."
+  },
+
+  "adaptiveHomePinnedShortcutsHeader": "pinned shortcuts",
+  "@adaptiveHomePinnedShortcutsHeader": {
+    "description": "The header text that supersedes shortcuts pinned by a user."
+  },
+
+  "adaptiveHomeMobileLinksHeader": "apps",
+  "@adaptiveHomeMobileLinksHeader": {
+    "description": "The header text on mobile clients that supersedes mobile app links and other stuff."
+  },
+
+  "adaptiveHomeShortcutsEmpty": "You have no shortcuts! Add them by touching the pin icon on instances, hashtags, or lists.",
+  "@adaptiveHomeShortcutsEmpty": {
+    "description": "The empty text when a user does not have any shortcuts."
+  },
+
+  "adaptiveHomeMarkAsReadButton": "mark as read",
+  "@adaptiveHomeMarkAsReadButton": {
+    "description": "The button text to mark notifications as read."
+  },
+
+  "adminReportNotificationCreatedAt": "created at",
+  "@adminReportNotificationCreatedAt": {
+    "description": "The header text for the create at time of an admin report notification"
+  },
+
+  "adminReportNotificationContextAccount": "account",
+  "@adminReportNotificationContextAccount": {
+    "description": "The header text for the account the notification is about for an admin report notification"
+  },
+
+  "adminReportNotificationActionTaken": "action taken",
+  "@adminReportNotificationActionTaken": {
+    "description": "The header text for the action taken against the account for an admin report notification"
+  },
+
+  "adminReportNotificationCategory": "category",
+  "@adminReportNotificationCategory": {
+    "description": "The header text for the category for an admin report notification"
+  },
+
+  "adminReportNotificationComment": "comment",
+  "@adminReportNotificationComment": {
+    "description": "The header text for the comment for an admin report notification"
+  },
+
+  "reportPageTitle": "report",
+  "@reportPageTitle": {
+    "description": "The report page title"
+  },
+
+  "reportPageReportingProgress": "Reporting...",
+  "@reportPageReportingProgress": {
+    "description": "The progress text when submitting a report."
+  },
+
+  "reportPageReportSubmitted": "Report submitted",
+  "@reportPageReportSubmitted": {
+    "description": "The confirmation text after a report is submitted."
+  },
+
+  "reportPageReportFailed": "Failed to submit report.",
+  "@reportPageReportFailed": {
+    "description": "The failure text after a report fails to submit."
+  },
+
+  "reportPageBackNavigation": "Back",
+  "@reportPageBackNavigation": {
+    "description": "The navigation text for going back in the report flow."
+  },
+
+  "reportPageNextNavigation": "Next",
+  "@reportPageNextNavigation": {
+    "description": "The navigation text for going forward in the report flow."
+  },
+
+  "reportPageDoneNavigation": "Done",
+  "@reportPageDoneNavigation": {
+    "description": "The navigation text for going ending the report flow."
+  },
+
+  "reportPageSubmitNavigation": "Submit report",
+  "@reportPageSubmitNavigation": {
+    "description": "The navigation text for submitting a report in the report flow."
+  },
+
+  "reportPageTellUsAboutPost": "Tell us what's going on with this post",
+  "@reportPageTellUsAboutPost": {
+    "description": "The title text for asking the user about the post they are reporting."
+  },
+
+  "reportPageTellUsAboutProfile": "Tell us what's going on with this profile",
+  "@reportPageTellUsAboutProfile": {
+    "description": "The title text for asking the user about the profile they are reporting."
+  },
+
+  "reportPageChoose": "Choose the best match",
+  "@reportPageChoose": {
+    "description": "The subtitle text asking the user to choose the best option regarding the report."
+  },
+
+  "reportPageOptionDontLikeTitle": "I don't like it",
+  "@reportPageOptionDontLikeTitle": {
+    "description": "The option text for when the user does not like a post."
+  },
+
+  "reportPageOptionDontLikeSubtitle": "It is not something you want to see.",
+  "@reportPageOptionDontLikeSubtitle": {
+    "description": "The option subtitle or description text for when the user does not like a post."
+  },
+
+  "reportPageOptionSpamTitle": "It's spam",
+  "@reportPageOptionSpamTitle": {
+    "description": "The option text for when the user thinks a post or profile is spam"
+  },
+
+  "reportPageOptionSpamSubtitle": "Malicious links, fake engagement, or repetitive results.",
+  "@reportPageOptionSpamSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is spam"
+  },
+
+  "reportPageOptionViolationTitle": "It violates server rules",
+  "@reportPageOptionViolationTitle": {
+    "description": "The option text for when the user thinks a post or profile is violating server rules"
+  },
+
+  "reportPageOptionViolationSubtitle": "You are aware that it breaks specific rules.",
+  "@reportPageOptionViolationSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is violating server rules"
+  },
+
+  "reportPageOptionUncategorizedTitle": "It's something else",
+  "@reportPageOptionUncategorizedTitle": {
+    "description": "The option text for when the user thinks a post or profile is reportable for some other reason"
+  },
+
+  "reportPageOptionUncategorizedSubtitle": "This issue does not fit in any other categories.",
+  "@reportPageOptionUncategorizedSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is reportable for some other reason"
+  },
+
+  "reportPageContentDontLikeTitle": "Don't want to see this?",
+  "@reportPageContentDontLikeTitle": {
+    "description": "The content text for when the user has chosen the option for not liking a post."
+  },
+
+  "reportPageContentDontLikeSubtitle": "Here are your options for controlling what you see.",
+  "@reportPageContentDontLikeSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for not liking a post."
+  },
+
+  "reportPageContentSpamTitle": "Are there any posts that back up this report?",
+  "@reportPageContentSpamTitle": {
+    "description": "The content text for when the user has chosen the option for spam."
+  },
+
+  "reportPageContentSpamSubtitle": "Select all that apply",
+  "@reportPageContentSpamSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for spam."
+  },
+
+  "reportPageContentViolationTitle": "Which rules are being violated?",
+  "@reportPageContentViolationTitle": {
+    "description": "The content text for when the user has chosen the option for violation."
+  },
+
+  "reportPageContentViolationSubtitle": "Select all that apply",
+  "@reportPageContentViolationSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for violation."
+  },
+
+  "reportPageContentUncategorizedTitle": "Are there any posts that back up this report?",
+  "@reportPageContentUncategorizedTitle": {
+    "description": "The content text for when the user has chosen the option for uncategorized reports."
+  },
+
+  "reportPageContentUncategorizedSubtitle": "Select all that apply",
+  "@reportPageContentUncategorizedSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for uncategorized reports."
+  },
+
+  "reportPageCommentInputHint": "Additional comments",
+  "@reportPageCommentInputHint": {
+    "description": "The hint text for the input field when a user wants to add additional comments."
+  },
+
+  "reportPageAnotherServer": "The account is from another server, send an anonymous copy of the report there as well?",
+  "@reportPageAnotherServer": {
+    "description": "The text for when the reported account is from another server."
+  },
+
+  "reportPageForwardToAccount": "Forward to @{account}",
+  "@reportPageForwardToAccount": {
+    "description": "The text, with an account placeholder, where a report can be forwarded to",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "reportPageContentCommentsTitle": "Is there anything else we should know?",
+  "@reportPageContentCommentsTitle": {
+    "description": "The content text for the last step of reporting a post or profile."
+  },
+
+  "reportPageContentCommentsSubtitle": "Add any comments for context during review",
+  "@reportPageContentCommentsSubtitle": {
+    "description": "The content subtitle text for the last step of reporting a post or profile."
+  },
+
+  "reportPageMuteAccountAction": "Mute @{account}",
+  "@reportPageMuteAccountAction": {
+    "description": "The action text, with account placeholder, for muting an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "reportPageMuteAccountActionDescription": "You will not see their posts. They can still follow you and see your posts and will not know that they are muted.",
+  "@reportPageMuteAccountActionDescription": {
+    "description": "The action description for muting an account"
+  },
+
+  "reportPageBlockAccountAction": "Block @{account}",
+  "@reportPageBlockAccountAction": {
+    "description": "The action text, with account placeholder, for blocking an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "reportPageBlockAccountActionDescription": "You will not see their posts. They will not be able to see your posts or follow you. They will be able to tell that they are blocked.",
+  "@reportPageBlockAccountActionDescription": {
+    "description": "The action description for blocking an account"
+  },
+
+  "notificationsPageTitle": "notifications",
+  "@notificationsPageTitle": {
+    "description": "The title of the notifications page."
+  },
+
+  "notificationsPageAllFilter": "all",
+  "@notificationsPageAllFilter": {
+    "description": "The filter category for all notifications."
+  },
+
+  "notificationsPageMentionFilter": "mentions",
+  "@notificationsPageMentionFilter": {
+    "description": "The filter category for mention notifications."
+  },
+
+  "notificationsPageFollowedFilter": "followed accounts",
+  "@notificationsPageFollowedFilter": {
+    "description": "The filter category for followed accounts notifications."
+  },
+
+
+  "notificationsPageBoostFilter": "boosts",
+  "@notificationsPageBoostFilter": {
+    "description": "The filter category for boost notifications."
+  },
+
+  "notificationsPageFollowFilter": "follows",
+  "@notificationsPageFollowFilter": {
+    "description": "The filter category for follow notifications."
+  },
+
+  "notificationsPageFollowRequestFilter": "follow requests",
+  "@notificationsPageFollowRequestFilter": {
+    "description": "The filter category for follow request notifications."
+  },
+
+  "notificationsPageFavoriteFilter": "favorites",
+  "@notificationsPageFavoriteFilter": {
+    "description": "The filter category for favorite notifications."
+  },
+
+  "notificationsPagePollFilter": "polls",
+  "@notificationsPagePollFilter": {
+    "description": "The filter category for poll notifications."
+  },
+
+  "notificationsPageEditFilter": "edits",
+  "@notificationsPageEditFilter": {
+    "description": "The filter category for edit notifications."
+  },
+
+  "notificationsPageAdminSignUpFilter": "admin sign ups",
+  "@notificationsPageAdminSignUpFilter": {
+    "description": "The filter category for admin sign up notifications."
+  },
+
+  "notificationsPageAdminReportFilter": "admin report",
+  "@notificationsPageAdminReportFilter": {
+    "description": "The filter category for admin report notifications."
+  },
+
+  "notificationsPageErrorFailedToGetNewPage": "Something went wrong while fetching a new page.",
+  "@notificationsPageErrorFailedToGetNewPage": {
+    "description": "Error message when the client fails to fetch new notification content."
+  },
+
+  "notificationsPageErrorRetry": "Retry",
+  "@notificationsPageErrorRetry": {
+    "description": "Retry action on notification page fetch failure."
+  },
+
+  "notificationsPageMarkingAsReadProgress": "Marking as read",
+  "@notificationsPageMarkingAsReadProgress": {
+    "description": "Progress text when the notifications page is marked as read."
+  },
+
+  "notificationsPageMarkingAsReadComplete": "Alerts marked as read.",
+  "@notificationsPageMarkingAsReadComplete": {
+    "description": "Completed text when the notifications page is marked as read."
+  },
+
+  "notificationsPageMarkingAsReadFailure": "Failed to mark alerts as read.",
+  "@notificationsPageMarkingAsReadFailure": {
+    "description": "Failure text when the notifications page is being marked as read."
+  },
+
+  "notificationsPageGroupedNotificationContext": "{count} people",
+  "@notificationsPageGroupedNotificationContext": {
+    "description": "The notification text which states how many people also favorited, boosted, or followed the user.",
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "example": "3"
+      }
+    }
+  },
+
+  "notificationsPageFollowRequestApproval": "Approve follower request",
+  "@notificationsPageFollowRequestApproval": {
+    "description": "Approval text for a pending follower request."
+  },
+
+  "notificationsPageFollowRequestRejection": "Reject follower request",
+  "@notificationsPageFollowRequestRejection": {
+    "description": "Rejection text for a pending follower request."
+  },
+
+  "notificationsPageFollowedYou": "followed you",
+  "@notificationsPageFollowedYou": {
+    "description": "The notification text when someone new followed the user."
+  },
+
+  "notificationsPageMentionedYou": "mentioned you",
+  "@notificationsPageMentionedYou": {
+    "description": "The notification text when someone mentioned the user."
+  },
+
+  "notificationsPageBoostedYou": "boosted your post",
+  "@notificationsPageBoostedYou": {
+    "description": "The notification text when someone boosted the users post."
+  },
+
+  "notificationsPageFavoritedYou": "favorited your post",
+  "@notificationsPageFavoritedYou": {
+    "description": "The notification text when someone favorited the users post."
+  },
+
+  "notificationsPageFollowedUserPosted": "posted",
+  "@notificationsPageFollowedUserPosted": {
+    "description": "The notification text when someone the user follows posts."
+  },
+
+  "notificationsPageRequestedToFollowYou": "requested to follow you",
+  "@notificationsPageRequestedToFollowYou": {
+    "description": "The notification text when someone requests to follow the user."
+  },
+
+  "notificationsPageEndedTheirPoll": "ended their poll",
+  "@notificationsPageEndedTheirPoll": {
+    "description": "The notification text when a poll a user has voted on has ended."
+  },
+
+  "notificationsPageUpdatedTheirPost": "updated their post",
+  "@notificationsPageUpdatedTheirPost": {
+    "description": "The notification text when a post the user has interacted with has been updated."
+  },
+
+  "notificationsPageUserSignedUp": "signed up",
+  "@notificationsPageUserSignedUp": {
+    "description": "The notification text when a new user signs up on the server the user is an admin on."
+  },
+
+  "notificationsPageUserReported": "reported a post",
+  "@notificationsPageUserReported": {
+    "description": "The notification text when another user reports a post on the server the user is an admin on."
+  },
+
+  "commonAccountSwitchProgress": "Switching to @{account}",
+  "@commonAccountSwitchProgress": {
+    "description": "The action text, with account placeholder, for switching to an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "commonActionHiddenByUser": "Hidden by user",
+  "@commonActionHiddenByUser": {
+    "description": "The text displayed when a user hides a post intentionally."
+  },
+
+  "commonActionCopiedPostToClipboard": "Copied post link to clipboard",
+  "@commonActionCopiedPostToClipboard": {
+    "description": "The text displayed when a user copies a post to the clipboard."
+  },
+
+  "commonActionCopiedTrunksLinkToClipboard": "Copied trunks link to clipboard",
+  "@commonActionCopiedTrunksLinkToClipboard": {
+    "description": "The text displayed when a user copies a trunks link of a post to the clipboard."
+  },
+
+  "commonActionBoostProgress": "Boosting...",
+  "@commonActionBoostProgress": {
+    "description": "The progress text displayed when a user is boosting a post."
+  },
+  "commonActionBoostSuccess": "Boosted post by @{account}",
+  "@commonActionBoostSuccess": {
+      "description": "The action text, with account placeholder, for boosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionBoostFailure": "Failed to boost post by @{account}",
+  "@commonActionBoostFailure": {
+      "description": "The action text, with account placeholder, for boosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnboostProgress": "Unboosting...",
+  "@commonActionUnboostProgress": {
+    "description": "The progress text displayed when a user is unboosting a post."
+  },
+  "commonActionUnboostSuccess": "Unboosted post by @{account}",
+  "@commonActionUnboostSuccess": {
+      "description": "The action text, with account placeholder, for unboosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnboostFailure": "Failed to unboost post by @{account}",
+  "@commonActionUnboostFailure": {
+      "description": "The action text, with account placeholder, for unboosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionFavoriteProgress": "Favoriting...",
+  "@commonActionFavoriteProgress": {
+    "description": "The progress text displayed when a user is favoriting a post."
+  },
+  "commonActionFavoriteSuccess": "Favorited post by @{account}",
+  "@commonActionFavoriteSuccess": {
+      "description": "The action text, with account placeholder, for favoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionFavoriteFailure": "Failed to favorite post by @{account}",
+  "@commonActionFavoriteFailure": {
+      "description": "The action text, with account placeholder, for favoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnfavoriteProgress": "Unfavoriting...",
+  "@commonActionUnfavoriteProgress": {
+    "description": "The progress text displayed when a user is unfavoriting a post."
+  },
+  "commonActionUnfavoriteSuccess": "Unfavorited post by @{account}",
+  "@commonActionUnfavoriteSuccess": {
+      "description": "The action text, with account placeholder, for unfavoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnfavoriteFailure": "Failed to unfavorite post by @{account}",
+  "@commonActionUnfavoriteFailure": {
+      "description": "The action text, with account placeholder, for unfavoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionMute": "Mute",
+  "@commonActionMute": {
+    "description": "The text displayed for the mute action."
+  },
+  "commonActionMuteProgress": "Muting...",
+  "@commonActionMuteProgress": {
+    "description": "The progress text displayed for the mute action."
+  },
+  "commonActionMuteFailure": "Failed to mute @{account}",
+  "@commonActionMuteFailure": {
+      "description": "The action text, with account placeholder, for muting an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnmuteProgress": "Unmuting...",
+  "@commonActionUnmuteProgress": {
+    "description": "The progress text displayed for the unmute action."
+  },
+  "commonActionUnmuteSuccess": "Unmuted @{account}",
+  "@commonActionUnmuteSuccess": {
+      "description": "The action text, with account placeholder, for unmuting an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnmuteFailure": "Failed to unmute @{account}",
+  "@commonActionUnmuteFailure": {
+      "description": "The action text, with account placeholder, for unmuting an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionMuteAccountPrompt": "Mute account?",
+  "@commonActionMuteAccountPrompt": {
+    "description": "The text displayed for the mute account prompt."
+  },
+  "commonActionMuteAccountPromptIndefiniteOption": "Mute indefinitely",
+  "@commonActionMuteAccountPromptIndefiniteOption": {
+    "description": "The text displayed for the indefinite option in the mute prompt."
+  },
+  "commonActionMuteAccountPromptMinutesOption": "Mute for {time} minute(s)",
+  "@commonActionMuteAccountPromptMinutesOption": {
+    "description": "The text displayed for the minutes based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "5"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptHoursOption": "Mute for {time} hour(s)",
+  "@commonActionMuteAccountPromptHoursOption": {
+    "description": "The text displayed for the hour based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptWeeksOption": "Mute for {time} week(s)",
+  "@commonActionMuteAccountPromptWeeksOption": {
+    "description": "The text displayed for the week based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptIndefiniteOptionSuccess": "Muted @{account} indefinitely",
+  "@commonActionMuteAccountPromptIndefiniteOptionSuccess": {
+    "description": "The text displayed for the indefinite based time mute.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptTimeOptionSuccess": "Muted @{account} for",
+  "@commonActionMuteAccountPromptTimeOptionSuccess": {
+    "description": "The text displayed for the time based time mute.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "commonActionMuteConversationProgress": "Muting conversation...",
+  "@commonActionMuteConversationProgress": {
+    "description": "The progress text displayed when a user is muting a conversation."
+  },
+  "commonActionMuteConversationSuccess": "Muted conversation",
+  "@commonActionMuteConversationSuccess": {
+    "description": "The action text, with account placeholder, for muting a conversation."
+  },
+  "commonActionMuteConversationFailure": "Failed to mute conversation",
+  "@commonActionMuteConversationFailure": {
+    "description": "The action text, with account placeholder, for muting a conversation."
+  },
+
+  "commonActionUnmuteConversationProgress": "Muting conversation...",
+  "@commonActionUnmuteConversationProgress": {
+    "description": "The progress text displayed when a user is muting a conversation."
+  },
+  "commonActionUnmuteConversationSuccess": "Muted conversation",
+  "@commonActionUnmuteConversationSuccess": {
+    "description": "The action text, with account placeholder, for muting a conversation"
+  },
+  "commonActionUnmuteConversationFailure": "Failed to mute conversation",
+  "@commonActionUnmuteConversationFailure": {
+    "description": "The action text, with account placeholder, for muting a conversation"
+  },
+
+  "commonActionBlockPrompt": "Block account?",
+  "@commonActionBlockPrompt": {
+    "description": "The text displayed for the block account prompt."
+  },
+  "commonActionBlockPromptAreYouSure": "Are you sure you want to block @{account}?",
+  "@commonActionBlockPromptAreYouSure": {
+    "description": "The text displayed for the block account prompt confirmation.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionBlockPromptAction": "Block",
+  "@commonActionBlockPromptAction": {
+    "description": "The text displayed for block action in the prompt."
+  },
+
+  "commonActionBlockingProgress": "Blocking...",
+  "@commonActionBlockingProgress": {
+    "description": "The progress text displayed for the block action."
+  },
+  "commonActionBlockingSuccess": "Blocking @{account}",
+  "@commonActionBlockingSuccess": {
+      "description": "The action text, with account placeholder, for blocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionBlockingFailure": "Failed to block @{account}",
+  "@commonActionBlockingFailure": {
+      "description": "The action text, with account placeholder, for blocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnblockingProgress": "Unblocking...",
+  "@commonActionUnblockingProgress": {
+    "description": "The progress text displayed for the unblock action."
+  },
+  "commonActionUnblockingSuccess": "Unblocking @{account}",
+  "@commonActionUnblockingSuccess": {
+      "description": "The action text, with account placeholder, for unblocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnblockingFailure": "Failed to unblock @{account}",
+  "@commonActionUnblockingFailure": {
+      "description": "The action text, with account placeholder, for unblocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionBlockServerPrompt": "Block server?",
+  "@commonActionBlockServerPrompt": {
+    "description": "The text displayed for the block server prompt."
+  },
+  "commonActionBlockServerPromptAreYouSure": "Are you sure you want to block {server}. Doing so will also remove any followers you have from that domain.",
+  "@commonActionBlockServerPromptAreYouSure": {
+    "description": "The text displayed for the block account server confirmation.",
+    "placeholders": {
+      "server": {
+        "type": "String",
+        "example": "mstdn.social"
+      }
+    }
+  },
+  "commonActionBlockServerPromptAction": "Block",
+  "@commonActionBlockServerPromptAction": {
+    "description": "The text displayed for block action in the prompt."
+  },
+
+  "commonActionDeletePrompt": "Delete post?",
+  "@commonActionDeletePrompt": {
+    "description": "The text displayed for the delete post prompt."
+  },
+  "commonActionDeletePromptAreYouSure": "Are you sure you want to delete this post?",
+  "@commonActionDeletePromptAreYouSure": {
+    "description": "The text displayed for the post deletion confirmation."
+  },
+  "commonActionDeletePromptAction": "Delete",
+  "@commonActionDeletePromptAction": {
+    "description": "The text displayed for delete post action in the prompt."
+  },
+
+  "commonActionDeletingProgress": "Deleting...",
+  "@commonActionDeletingProgress": {
+    "description": "The progress text displayed when a user is deleting a post."
+  },
+  "commonActionDeletingSuccess": "Deleted post",
+  "@commonActionDeletingSuccess": {
+    "description": "The success text for deleting a post."
+  },
+  "commonActionDeletingFailure": "Failed to delete post",
+  "@commonActionDeletingFailure": {
+    "description": "The failure text for deleting a post."
+  },
+
+  "commonActionPinningProgress": "Pinning...",
+  "@commonActionPinningProgress": {
+    "description": "The progress text displayed when a user is pinning a post."
+  },
+  "commonActionPinningSuccess": "Pinned post",
+  "@commonActionPinningSuccess": {
+    "description": "The success text for pinning a post."
+  },
+  "commonActionPinningFailure": "Failed to pin post",
+  "@commonActionPinningFailure": {
+    "description": "The failure text for pinning a post."
+  },
+
+  "commonActionUnpinningProgress": "Unpinning...",
+  "@commonActionUnpinningProgress": {
+    "description": "The progress text displayed when a user is unpinning a post."
+  },
+  "commonActionUnpinningSuccess": "Unpinned post",
+  "@commonActionUnpinningSuccess": {
+    "description": "The success text for unpinning a post."
+  },
+  "commonActionUnpinningFailure": "Failed to unpin post",
+  "@commonActionUnpinningFailure": {
+    "description": "The failure text for unpinning a post."
+  },
+
+  "commonActionUnbookmarkingProgress": "Unbookmarking...",
+  "@commonActionUnbookmarkingProgress": {
+    "description": "The progress text displayed when a user is unbookmarking a post."
+  },
+  "commonActionUnbookmarkingSuccess": "Unbookmarked post",
+  "@commonActionUnbookmarkingSuccess": {
+    "description": "The success text for unbookmarking a post."
+  },
+  "commonActionUnbookmarkingFailure": "Failed to unbookmark post",
+  "@commonActionUnbookmarkingFailure": {
+    "description": "The failure text for unbookmarking a post."
+  },
+
+  "commonActionBookmarkingProgress": "Bookmarking...",
+  "@commonActionBookmarkingProgress": {
+    "description": "The progress text displayed when a user is bookmarking a post."
+  },
+  "commonActionBookmarkingSuccess": "Bookmarked post",
+  "@commonActionBookmarkingSuccess": {
+    "description": "The success text for bookmarking a post."
+  },
+  "commonActionBookmarkingFailure": "Failed to bookmark post",
+  "@commonActionBookmarkingFailure": {
+    "description": "The failure text for bookmarking a post."
+  },
+
+  "commonActionApprovingProgress": "Approving...",
+  "@commonActionApprovingProgress": {
+    "description": "The progress text displayed for the follow request approving action."
+  },
+  "commonActionApprovingSuccess": "Approved @{account}",
+  "@commonActionApprovingSuccess": {
+      "description": "The action text, with account placeholder, for approving a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionApprovingFailure": "Failed to approve @{account}",
+  "@commonActionApprovingFailure": {
+      "description": "The action text, with account placeholder, for approving a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionRejectingProgress": "Rejecting...",
+  "@commonActionRejectingProgress": {
+    "description": "The progress text displayed for the follow request rejecting action."
+  },
+  "commonActionRejectingSuccess": "Rejected @{account}",
+  "@commonActionRejectingSuccess": {
+      "description": "The action text, with account placeholder, for rejecting a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionRejectingFailure": "Failed to reject @{account}",
+  "@commonActionRejectingFailure": {
+      "description": "The action text, with account placeholder, for rejecting a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionDeleteFilterPrompt": "Delete ${filter} filter?",
+  "@commonActionDeleteFilterPrompt": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeleteFilterPromptAreYouSure": "Are you sure you want to delete the ${filter} filter?",
+  "@commonActionDeleteFilterPromptAreYouSure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeleteFilterAction": "Delete",
+  "@commonActionDeleteFilterAction": {
+    "description": "The action text displayed for the delete filter action."
+  },
+
+  "commonActionDeletingFilterProgress": "Deleting ${filter} filter...",
+  "@commonActionDeletingFilterProgress": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeletingFilterSuccess": "Deleted ${filter} filter",
+  "@commonActionDeletingFilterSuccess": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeletingFilterFailure": "Failed to delete ${filter}",
+  "@commonActionDeletingFilterFailure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+
+  "commonActionCreatingFilterProgress": "Creating ${filter} filter...",
+  "@commonActionCreatingFilterProgress": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionCreatingFilterSuccess": "Created ${filter} filter",
+  "@commonActionCreatingFilterSuccess": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionCreatingFilterFailure": "Failed to create ${filter}",
+  "@commonActionCreatingFilterFailure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+
+  "commonActionUpdatingFilterProgress": "Updating ${filter} filter...",
+  "@commonActionUpdatingFilterProgress": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionUpdatingFilterSuccess": "Updated ${filter} filter",
+  "@commonActionUpdatingFilterSuccess": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionUpdatingFilterFailure": "Failed to update ${filter}",
+  "@commonActionUpdatingFilterFailure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+
+  "commonActionPublishingProgress": "Publishing post...",
+  "@commonActionPublishingProgress": {
+    "description": "The progress text displayed when a user is publishing a post."
+  },
+  "commonActionPublishingSuccess": "Published post",
+  "@commonActionPublishingSuccess": {
+    "description": "The success text for publishing a post."
+  },
+  "commonActionPublishingFailure": "Failed to publish post",
+  "@commonActionPublishingFailure": {
+    "description": "The failure text for publishing a post."
+  },
+
+  "commonActionSchedulingProgress": "Scheduling post...",
+  "@commonActionSchedulingProgress": {
+    "description": "The progress text displayed when a user is scheduling a post."
+  },
+  "commonActionSchedulingSuccess": "Scheduled post",
+  "@commonActionSchedulingSuccess": {
+    "description": "The success text for scheduling a post."
+  },
+  "commonActionSchedulingFailure": "Failed to schedule post",
+  "@commonActionSchedulingFailure": {
+    "description": "The failure text for scheduling a post."
+  },
+
+  "commonActionUpdatingProgress": "Updating post...",
+  "@commonActionUpdatingProgress": {
+    "description": "The progress text displayed when a user is updating a post."
+  },
+  "commonActionUpdatingSuccess": "Updated post",
+  "@commonActionUpdatingSuccess": {
+    "description": "The success text for updating a post."
+  },
+
+  "commonActionFollowingProgress": "Following...",
+  "@commonActionFollowingProgress": {
+    "description": "The progress text displayed for the following action."
+  },
+  "commonActionFollowingSuccess": "Followed {account}",
+  "@commonActionFollowingSuccess": {
+      "description": "The action text, with account placeholder, for following an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionFollowingFailure": "Failed to follow {account}",
+  "@commonActionFollowingFailure": {
+      "description": "The action text, with account placeholder, for following an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnfollowingProgress": "Unfollowing...",
+  "@commonActionUnfollowingProgress": {
+    "description": "The progress text displayed for the unfollowing action."
+  },
+  "commonActionUnfollowingSuccess": "Unfollowed {account}",
+  "@commonActionUnfollowingSuccess": {
+      "description": "The action text, with account placeholder, for unfollowing an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnfollowingFailure": "Failed to unfollow {account}",
+  "@commonActionUnfollowingFailure": {
+      "description": "The action text, with account placeholder, for unfollowing an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionAddingProgress": "Adding...",
+  "@commonActionAddingProgress": {
+    "description": "The progress text displayed for the adding an account to a list action."
+  },
+  "commonActionAddingSuccess": "Added @{account}",
+  "@commonActionAddingSuccess": {
+      "description": "The action text, with account placeholder, for adding an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionAddingFailure": "Failed to add account @{account}",
+  "@commonActionAddingFailure": {
+      "description": "The action text, with account placeholder, for adding an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionRemovingProgress": "Removing...",
+  "@commonActionRemovingProgress": {
+    "description": "The progress text displayed for the removing an account to a list action."
+  },
+  "commonActionRemovingSuccess": "Removed @{account}",
+  "@commonActionRemovingSuccess": {
+      "description": "The action text, with account placeholder, for removing an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionRemovingFailure": "Failed to add remove @{account}",
+  "@commonActionRemovingFailure": {
+      "description": "The action text, with account placeholder, for removing an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionDeleteListPrompt": "Delete list?",
+  "@commonActionDeleteListPrompt": {
+    "description": "The text displayed for the delete list prompt."
+  },
+  "commonActionDeleteListPromptAreYouSure": "Are you sure you want to delete this list?",
+  "@commonActionDeleteListPromptAreYouSure": {
+    "description": "The text displayed for the delete list prompt confirmation."
+  },
+  "commonActionDeleteListPromptAction": "Delete",
+  "@commonActionDeleteListPromptAction": {
+    "description": "The text displayed for delete action in the prompt."
+  },
+
+  "commonActionDeleteListProgress": "Deleting...",
+  "@commonActionDeleteListProgress": {
+    "description": "The progress text displayed for the delete list action."
+  },
+  "commonActionDeleteListSuccess": "Deleted {list}",
+  "@commonActionDeleteListSuccess": {
+      "description": "The action text, with account placeholder, for deleting a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+  "commonActionDeleteListFailure": "Failed to delete {list}",
+  "@commonActionDeleteListFailure": {
+      "description": "The action text, with account placeholder, for deleting a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+
+  "commonActionCreateListProgress": "Creating...",
+  "@commonActionCreateListProgress": {
+    "description": "The progress text displayed for the create list action."
+  },
+  "commonActionCreateListSuccess": "Created {list}",
+  "@commonActionCreateListSuccess": {
+      "description": "The action text, with account placeholder, for creating a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+  "commonActionCreateListFailure": "Failed to create {list}",
+  "@commonActionCreateListFailure": {
+      "description": "The action text, with account placeholder, for creating a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+
+  "commonActionVoteProgress": "Voting...",
+  "@commonActionVoteProgress": {
+    "description": "The text displayed for the voting progress."
+  },
+  "commonActionVoteSuccess": "Voted on poll",
+  "@commonActionVoteSuccess": {
+    "description": "The text displayed for the voting success."
+  },
+  "commonActionVoteFailure": "Failed to vote on poll",
+  "@commonActionVoteFailure": {
+    "description": "The text displayed for the voting failure."
+  },
+
+  "commonActionTranslatingProgress": "Translating...",
+  "@commonActionTranslatingProgress": {
+    "description": "The text displayed for the translating progress."
+  },
+  "commonActionTranslatingSuccess": "Translated",
+  "@commonActionTranslatingSuccess": {
+    "description": "The text displayed for the translating success."
+  },
+  "commonActionTranslatingFailure": "Failed to translate. Contact your server admin to report translation bugs",
+  "@commonActionTranslatingFailure": {
+    "description": "The text displayed for the translating failure."
+  },
+
+  "commonActionDeleteScheduledPostPrompt": "Delete scheduled post?",
+  "@commonActionDeleteScheduledPostPrompt": {
+    "description": "The text displayed for the scheduled post delete prompt."
+  },
+  "commonActionDeleteScheduledPostPromptAreYouSure": "Are you sure you want to delete this scheduled post?",
+  "@commonActionDeleteScheduledPostPromptAreYouSure": {
+    "description": "The text displayed for the scheduled post delete confirmation."
+  },
+  "commonActionDeleteScheduledPostPromptAction": "Delete",
+  "@commonActionDeleteScheduledPostPromptAction": {
+    "description": "The text displayed for delete action in the prompt."
+  },
+
+  "commonActionDeleteScheduledPostProgress": "Deleting scheduled post...",
+  "@commonActionDeleteScheduledPostProgress": {
+    "description": "The text displayed for the deleting scheduled post progress."
+  },
+  "commonActionDeleteScheduledPostSuccess": "Deleted scheduled post",
+  "@commonActionDeleteScheduledPostSuccess": {
+    "description": "The text displayed for the deleting scheduled post success."
+  },
+  "commonActionDeleteScheduledPostFailure": "Failed to delete scheduled post",
+  "@commonActionDeleteScheduledPostFailure": {
+    "description": "The text displayed for the deleting scheduled post failure."
+  },
+
+  "commonNavigateHomeTooltip": "Navigate home",
+  "@commonNavigateHomeTooltip": {
+    "description": "The home button tooltip text."
+  },
+
+  "errorPageTitle": "Error",
+  "@errorPageTitle": {
+    "description": "The title of the error page."
+  },
+
+  "errorPageContent": "Uh oh, something went wrong.",
+  "@errorPageContent": {
+    "description": "The content of the error page."
+  },
+
+  "errorPageAction": "Go Back",
+  "@errorPageAction": {
+    "description": "The action of the error page button."
+  },
+
+  "pollExpirationNever": "never",
+  "@pollExpirationNever": {
+    "description": "The never poll expiration choice."
+  },
+
+  "listFirstPageError": "Failed to load content",
+  "@listFirstPageError": {
+    "description": "Page text when list fails to load content at first."
+  },
+
+  "listFirstPageErrorAction": "Retry",
+  "@listFirstPageErrorAction": {
+    "description": "Page action text when list fails to load content at first."
+  },
+
+  "listFirstPageNoItems": "No items found",
+  "@listFirstPageNoItems": {
+    "description": "Page text when list has no content."
+  },
+
+  "listFirstPageNoItemsAction": "Refresh",
+  "@listFirstPageNoItemsAction": {
+    "description": "Page action text when list has no content."
+  },
+
+  "listFirstPageNoMoreItems": "No more items found",
+  "@listFirstPageNoMoreItems": {
+    "description": "Page text when list has no more content."
+  },
+
+  "visibilityDescriptionPublic": "Visible to everyone, shown in public timelines",
+  "@visibilityDescriptionPublic": {
+    "description": "The description of the public visibility setting."
+  },
+
+  "visibilityDescriptionPublic": "Visible to everyone, shown in public timelines",
+  "@visibilityDescriptionPublic": {
+    "description": "The description of the public visibility setting."
+  },
+
+  "visibilityDescriptionUnlisted": "Visible to public, but not included in public timelines.",
+  "@visibilityDescriptionUnlisted": {
+    "description": "The description of the unlisted visibility setting."
+  },
+
+  "visibilityDescriptionPrivate": "Visible to followers only, and to any mentioned users.",
+  "@visibilityDescriptionPrivate": {
+    "description": "The description of the private visibility setting."
+  },
+
+  "visibilityDescriptionDirect": "Visible only to mentioned users.",
+  "@visibilityDescriptionDirect": {
+    "description": "The description of the direct visibility setting."
+  },
+
+  "loginPageTitle": "login",
+  "@loginPageTitle": {
+    "description": "The title of the login page."
+  },
+
+  "readMoreTextButton": "read more",
+  "@readMoreTextButton": {
+    "description": "The text button to expand long text to read more."
+  },
+
+  "pollVoteAction": "vote",
+  "@pollVoteAction": {
+    "description": "The action to vote in a poll."
+  },
+
+  "pollExpirationNever": "Never closes",
+  "@pollExpirationNever": {
+    "description": "The poll never closes, never expires."
+  },
+
+  "pollExpirationExpired": "Closed",
+  "@pollExpirationExpired": {
+    "description": "The poll is closed"
+  },
+
+  "pollExpirationClosesIn": "Closes",
+  "@pollExpirationClosesIn": {
+    "description": "The prefix for duration of when a poll will close."
+  },
+
+  "pollEnterTextHereHint": "Enter poll option here...",
+  "@pollEnterTextHereHint": {
+    "description": "The hint for entering a poll option."
+  },
+
+  "postResolverProgress": "Resolving post...",
+  "@postResolverProgress": {
+    "description": "The progress text for resolving a non local (on the users server) post."
+  },
+
+  "accountResolverProgress": "Resolving account...",
+  "@accountResolverProgress": {
+    "description": "The progress text for resolving a non local (on the users server) account."
+  },
+
+  "accountResolverFailure": "Failed to resolve account.",
+  "@accountResolverFailure": {
+    "description": "The failure text for resolving a non local (on the users server) account."
+  },
+
+  "composePageSaveDraftPromptTitle": "Save draft?",
+  "@composePageSaveDraftPromptTitle": {
+    "description": "The compose page save draft prompt title."
+  },
+
+  "composePageSaveDraftPromptContent": "Would you like to save your current draft?",
+  "@composePageSaveDraftPromptContent": {
+    "description": "The compose page save draft prompt content."
+  },
+
+  "composePageSaveDraftPromptDiscard": "Exit without saving",
+  "@composePageSaveDraftPromptDiscard": {
+    "description": "The compose page save draft prompt discard option."
+  },
+
+  "composePageSaveDraftPromptSave": "Save & exit",
+  "@composePageSaveDraftPromptSave": {
+    "description": "The compose page save draft prompt save option."
+  },
+
+  "composePageExit": "Exit compose",
+  "@composePageExit": {
+    "description": "The compose page exit tooltip."
+  },
+
+  "composePageTitleCreate": "compose",
+  "@composePageTitleCreate": {
+    "description": "The compose page title when creating a new post."
+  },
+
+  "composePageTitleEdit": "edit",
+  "@composePageTitleEdit": {
+    "description": "The compose page title when editing a post."
+  },
+
+  "composePageLanguageTooltip": "post language",
+  "@composePageLanguageTooltip": {
+    "description": "The compose page language button tooltip."
+  },
+
+  "composePageLanguageLoadFailure": "Unable to load languages",
+  "@composePageLanguageLoadFailure": {
+    "description": "The compose page language button loading failure."
+  },
+
+  "composePageDrafts": "drafts",
+  "@composePageDrafts": {
+    "description": "The compose drafts button."
+  },
+
+  "composePageDraftsEmpty": "You have no drafts",
+  "@composePageDraftsEmpty": {
+    "description": "The compose drafts empty content."
+  },
+
+  "composePageScheduledPosts": "scheduled posts",
+  "@composePageScheduledPosts": {
+    "description": "The compose scheduled posts button."
+  },
+
+  "composePageScheduledPostsProgress": "Loading scheduled posts...",
+  "@composePageScheduledPostsProgress": {
+    "description": "The compose scheduled posts progress button for loading."
+  },
+
+  "composePageScheduledPostsEmpty": "You have no scheduled posts. Long press on the publish button to schedule a new post.",
+  "@composePageScheduledPostsEmpty": {
+    "description": "The compose scheduled posts empty content."
+  },
+
+  "composePageScheduledPostsCancelTooltip": "Cancel scheduled post",
+  "@composePageScheduledPostsCancelTooltip": {
+    "description": "The compose scheduled posts cancel action tooltip."
+  },
+
+  "composePageScheduledPostsFailure": "Couldn't load scheduled posts",
+  "@composePageScheduledPostsFailure": {
+    "description": "The compose scheduled posts loading failure."
+  },
+
+  "composePageScheduledFiveMinuteWarning": "Scheduled post must be at least 5 minutes into the future",
+  "@composePageScheduledFiveMinuteWarning": {
+    "description": "The compose scheduled posts warning for notifying that posts need to be at least 5 minutes into the future."
+  },
+
+  "composePageFormattingHelp": "formatting help",
+  "@composePageFormattingHelp": {
+    "description": "The compose formatting help button."
+  },
+
+  "composePageAttachCopiedImageSuggestion": "Attach copied image",
+  "@composePageAttachCopiedImageSuggestion": {
+    "description": "Suggestion shown when there is a copied image in the clipboard."
+  },
+
+  "composePageWriteTab": "write",
+  "@composePageWriteTab": {
+    "description": "The compose page write tab."
+  },
+
+  "composePagePreviewTab": "preview",
+  "@composePagePreviewTab": {
+    "description": "The compose page preview tab."
+  },
+
+  "composePageContentLabelCategoryTitle": "content label",
+  "@composePageContentLabelCategoryTitle": {
+    "description": "The compose page content label category title."
+  },
+
+  "composePageContentLabelCategoryDescription": "A content label hides your posts content with a label. Use it for warnings, spoilers, sensitive topics, or for anything you want less eyes on.",
+  "@composePageContentLabelCategoryDescription": {
+    "description": "The compose page content label category description."
+  },
+
+  "composePageContentLabelHint": "Enter a content label",
+  "@composePageContentLabelHint": {
+    "description": "The compose page content label input hint text"
+  },
+
+  "composePageReplyingToHeader": "Replying to @{account}...",
+  "@composePageReplyingToHeader": {
+      "description": "The header for when the user is replying to another post.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "composePageLabelMediaAsSensitive": "Label media as sensitive?",
+  "@composePageLabelMediaAsSensitive": {
+    "description": "The compose page checkbox for marking attached media as sensitive."
+  },
+
+  "composePageAttachmentsTooltip": "Attachments",
+  "@composePageAttachmentsTooltip": {
+    "description": "The compose page attachments button tooltip."
+  },
+
+  "composePagePollsTooltip": "Polls",
+  "@composePagePollsTooltip": {
+    "description": "The compose page polls button tooltip."
+  },
+
+  "composePageEmojisTooltip": "Emojis",
+  "@composePageEmojisTooltip": {
+    "description": "The compose page emojis button tooltip."
+  },
+
+  "composePageCWTooltip": "Content label",
+  "@composePageCWTooltip": {
+    "description": "The compose page content label button tooltip."
+  },
+
+  "composePageVisibilityTooltip": "Post visibility",
+  "@composePageVisibilityTooltip": {
+    "description": "The compose page post visibility button tooltip."
+  },
+
+  "composePagePublish": "Publish",
+  "@composePagePublish": {
+    "description": "The compose page publish button."
+  },
+
+  "composePageSchedule": "Schedule",
+  "@composePageSchedule": {
+    "description": "The compose page schedule button."
+  },
+
+  "composePageUpdate": "Update",
+  "@composePageUpdate": {
+    "description": "The compose page update button."
+  },
+
+  "composePageSchedulingFooter": "Scheduled",
+  "@composePageSchedulingFooter": {
+    "description": "The compose page scheduled footer."
+  },
+
+  "composePageAttachmentVideo": "Video",
+  "@composePageAttachmentVideo": {
+    "description": "The compose page video attachment button."
+  },
+
+  "composePageAttachmentImage": "Image",
+  "@composePageAttachmentImage": {
+    "description": "The compose page image attachment button."
+  },
+
+  "composePagePollOptionAdd": "Add Option",
+  "@composePagePollOptionAdd": {
+    "description": "The compose page poll add option."
+  },
+
+  "composePageContentPollOptionsCategoryTitle": "options",
+  "@composePageContentPollOptionsCategoryTitle": {
+    "description": "The compose page poll options category title."
+  },
+
+  "composePageContentPollOptionsCategoryDescription": "These are the options which represent your poll.",
+  "@composePageContentPollOptionsCategoryDescription": {
+    "description": "The compose page poll options category description."
+  },
+
+  "composePagePollMultipleChoice": "Multiple choice",
+  "@composePagePollMultipleChoice": {
+    "description": "The compose page checkbox for marking a poll as multiple choice."
+  },
+
+  "composePageContentExpirationCategoryTitle": "expiration",
+  "@composePageContentExpirationCategoryTitle": {
+    "description": "The compose page poll expiration category title."
+  },
+
+  "composePageContentExpirationCategoryDescription": "This is when your poll should expire.",
+  "@composePageContentExpirationCategoryDescription": {
+    "description": "The compose page poll expiration category description."
+  },
+
+  "composePagePollHeader": "poll",
+  "@composePagePollHeader": {
+    "description": "The compose page poll prompt title."
+  },
+
+  "composePageSuggestions": "Suggestions",
+  "@composePageSuggestions": {
+    "description": "The compose page suggestions header."
+  },
+
+  "composePageAllAccountsSuggestion": "all accounts",
+  "@composePageAllAccountsSuggestion": {
+    "description": "The compose page all accounts suggestion."
+  },
+
+  "composePageTagAllSuggestion": "tag all",
+  "@composePageTagAllSuggestion": {
+    "description": "The compose page tag all suggestion."
+  },
+
+  "composePageInputHint": "What's on your mind?",
+  "@composePageInputHint": {
+    "description": "The compose page input hint."
+  },
+
+  "composePageAttachmentFailure": "Failed to insert attachment",
+  "@composePageAttachmentFailure": {
+    "description": "The compose page attachment failure."
+  },
+
+  "composePageAttachmentUploadFailure": "Failed to upload attachment",
+  "@composePageAttachmentUploadFailure": {
+    "description": "The compose page attachment upload failure."
+  },
+
+  "composePageScheduleFailure": "Cannot schedule message, adjust scheduled time to be at least 5 minutes into the future.",
+  "@composePageScheduleFailure": {
+    "description": "The compose page schedule failure."
+  },
+
+  "composePageTooLongFailure": "Cannot send message. It's too long.",
+  "@composePageTooLongFailure": {
+    "description": "The compose page too long failure."
+  },
+
+  "composePageMediaOptionsPromptTitle": "Media options",
+  "@composePageMediaOptionsPromptTitle": {
+    "description": "The compose page media options prompt title."
+  },
+
+  "composePageMediaOptionsPromptModify": "Modify content description",
+  "@composePageMediaOptionsPromptModify": {
+    "description": "The compose page media options prompt modify option."
+  },
+
+  "composePageMediaOptionsPromptAdd": "Add content description",
+  "@composePageMediaOptionsPromptAdd": {
+    "description": "The compose page media options prompt add option."
+  },
+
+  "composePageContentDescriptionPromptTitle": "Content description",
+  "@composePageContentDescriptionPromptTitle": {
+    "description": "The compose page content description prompt title."
+  },
+
+  "composePageContentDescriptionPromptInput": "Enter content description",
+  "@composePageContentDescriptionPromptInput": {
+    "description": "The compose page content description prompt input hint."
+  },
+
+  "reachPageTitle": "reach",
+  "@reachPageTitle": {
+    "description": "The reach page title."
+  },
+
+  "detailPagePostTitle": "post to @{account}",
+  "@detailPagePostTitle": {
+      "description": "The title for the detail page for when reading a post from a another user.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "detailPageThreadTitle": "thread by @{account}",
+  "@detailPageThreadTitle": {
+      "description": "The title for the detail page for when reading a thread from a another user.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "detailPageShowContext": "Show context",
+  "@detailPageShowContext": {
+    "description": "The show context button on another uses post/thread."
+  },
+
+  "detailPageShowMoreComments": "View {number} more comment(s)",
+  "@detailPageShowMoreComments": {
+    "description": "The button text for showing more comments.",
+    "placeholders": {
+      "number": {
+        "type": "num",
+        "example": "5"
+      }
+    }
+  },
+
+  "detailPageShowAllSensitiveContent": "show all sensitive content",
+  "@detailPageShowAllSensitiveContent": {
+    "description": "The chip button to show all sensitive content."
+  },
+
+  "detailPageUnrollAsArticle": "unroll as article",
+  "@detailPageUnrollAsArticle": {
+    "description": "The chip button to unroll a thread as an article."
+  },
+
+  "editPageCurrent": "current",
+  "@editPageCurrent": {
+    "description": "The edit page current edit header."
+  },
+
+  "editPageOriginal": "original",
+  "@editPageOriginal": {
+    "description": "The edit page original edit header."
+  },
+
+  "editPageLoadFailure": "Unable to load edit history",
+  "@editPageLoadFailure": {
+    "description": "The edit page loading failure."
+  },
+
+  "imageViewerPageOpenBrowser": "Open in web browser",
+  "@imageViewerPageOpenBrowser": {
+    "description": "The viewer page browser button."
+  },
+
+  "exploreConfigPageTitle": "explore sources",
+  "@exploreConfigPageTitle": {
+    "description": "The explore config page title."
+  },
+
+  "exploreConfigPageEmpty": "You have no external explore sources, click + to create one.",
+  "@exploreConfigPageEmpty": {
+    "description": "The explore config page empty content."
+  },
+
+  "exploreConfigPageAdd": "add source",
+  "@exploreConfigPageAdd": {
+    "description": "The explore config page add source button."
+  },
+
+  "exploreConfigPageRemoveTooltip": "Remove explore source",
+  "@exploreConfigPageRemoveTooltip": {
+    "description": "The explore config page add source button."
+  },
+
+  "exploreConfigPageAddSourcePromptTitle": "Add a source for explore",
+  "@exploreConfigPageAddSourcePromptTitle": {
+    "description": "The explore config page add source prompt"
+  },
+
+  "explorePageTitle": "explore",
+  "@explorePageTitle": {
+    "description": "The explore page title."
+  },
+
+  "explorePageCategoryPosts": "posts",
+  "@explorePageCategoryPosts": {
+    "description": "The explore page posts category."
+  },
+
+  "explorePageCategoryPostViewMoreTooltip": "View more trending posts",
+  "@explorePageCategoryPostViewMoreTooltip": {
+    "description": "The explore page posts category view more tooltip."
+  },
+
+  "explorePageCategoryTags": "tags",
+  "@explorePageCategoryTags": {
+    "description": "The explore page tags category."
+  },
+
+  "explorePageCategoryTagsViewMoreTooltip": "View more trending tags",
+  "@explorePageCategoryTagsViewMoreTooltip": {
+    "description": "The explore page tags category view more tooltip."
+  },
+
+  "explorePageCategoryLinks": "links",
+  "@explorePageCategoryLinks": {
+    "description": "The explore page links category."
+  },
+
+  "explorePageCategoryLinksViewMoreTooltip": "View more trending links",
+  "@explorePageCategoryLinksViewMoreTooltip": {
+    "description": "The explore page links category view more tooltip."
+  },
+
+  "explorePageCategoryFollowSuggestions": "follow suggestions",
+  "@explorePageCategoryFollowSuggestions": {
+    "description": "The explore page follow suggestions category."
+  },
+
+  "explorePageTrendingText": "trending {content}",
+  "@explorePageTrendingText": {
+      "description": "The header text for trending content",
+      "placeholders": {
+        "content": {
+          "type": "String",
+          "example": "posts"
+        }
+      }
+  },
+
+  "serverDetailsMonthlyUsers": "monthly users",
+  "@serverDetailsMonthlyUsers": {
+    "description": "Server details monthly users header."
+  },
+
+  "serverDetailsDescription": "description",
+  "@serverDetailsDescription": {
+    "description": "Server details description."
+  },
+
+  "serverDetailsContactAccount": "contact account",
+  "@serverDetailsContactAccount": {
+    "description": "Server details contact account."
+  },
+
+  "serverDetailsStats": "stats",
+  "@serverDetailsStats": {
+    "description": "Server details stats."
+  },
+
+  "searchPageAccountsHeader": "accounts",
+  "@searchPageAccountsHeader": {
+    "description": "Search page accounts category header."
+  },
+
+  "searchPageTagsHeader": "tags",
+  "@searchPageTagsHeader": {
+    "description": "Search page tags category header."
+  },
+
+  "searchPagePostsHeader": "posts",
+  "@searchPagePostsHeader": {
+    "description": "Search page posts category header."
+  },
+
+  "searchPageServersHeader": "servers",
+  "@searchPageServersHeader": {
+    "description": "Search page servers category header."
+  },
+
+  "searchPageLoadMore": "Load more",
+  "@searchPageLoadMore": {
+    "description": "Search page load more action."
+  },
+
+  "searchPageInputHint": "Search...",
+  "@searchPageInputHint": {
+    "description": "Search page main input hint."
+  },
+
+  "searchPageInputHint": "Search...",
+  "@searchPageInputHint": {
+    "description": "Search page main input hint."
+  },
+
+  "searchPageActionTooltip": "Perform search",
+  "@searchPageActionTooltip": {
+    "description": "Search page main input action tooltip."
+  },
+
+  "feedCardHidePostAction": "Hide post",
+  "@feedCardHidePostAction": {
+    "description": "Feed card hide post action."
+  },
+
+  "feedCardOpenOnAction": "Open on {host}",
+  "@feedCardOpenOnAction": {
+      "description": "Feed card open on original server action.",
+      "placeholders": {
+        "host": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "feedCardCopyTrunksLinkAction": "Copy trunks link",
+  "@feedCardCopyTrunksLinkAction": {
+    "description": "Feed card copy trunks link action."
+  },
+
+  "feedCardMuteConversationAction": "Mute conversation",
+  "@feedCardMuteConversationAction": {
+    "description": "Feed card mute conversation action."
+  },
+
+  "feedCardUnmuteConversationAction": "Unmute conversation",
+  "@feedCardUnmuteConversationAction": {
+    "description": "Feed card unmute conversation action."
+  },
+
+  "feedCardTranslateAction": "Translate",
+  "@feedCardTranslateAction": {
+    "description": "Feed card translate action."
+  },
+
+  "feedCardPinPostAction": "Pin post",
+  "@feedCardPinPostAction": {
+    "description": "Feed card pin post action."
+  },
+
+  "feedCardUnpinPostAction": "Unpin post",
+  "@feedCardUnpinPostAction": {
+    "description": "Feed card unpin post action."
+  },
+
+  "feedCardReportPostAction": "Report post",
+  "@feedCarReportPostAction": {
+    "description": "Feed card report post action."
+  },
+
+  "feedCardPostSourceTextPromptTitle": "Post source text",
+  "@feedCardPostSourceTextPromptTitle": {
+    "description": "Feed card post source prompt title"
+  },
+
+  "feedCardViewReachAction": "View reach",
+  "@feedCardViewReachAction": {
+    "description": "Feed card view reach action."
+  },
+
+  "feedCardEditedStatus": "edited",
+  "@feedCardEditedStatus": {
+    "description": "Signifies that a post has been edited."
+  },
+
+  "feedCardContentLabelPrefix": "content label",
+  "@feedCardContentLabelPrefix": {
+    "description": "The prefix for any content label on a post."
+  },
+
+  "feedCardContentLabelPrefixDescription": "This user has placed a spoiler on this post. Click \"show content\" to view the content",
+  "@feedCardContentLabelPrefixDescription": {
+    "description": "The prefix description for any content label on a post."
+  },
+
+  "feedCardFilteredStatus": "filtered",
+  "@feedCardFilteredStatus": {
+    "description": "Signifies that a post has been filtered with a content label."
+  },
+
+  "feedCardFilteredStatusDescription": "This content was filtered by one of your filters",
+  "@feedCardFilteredStatusDescription": {
+    "description": "The description for when a post has been filtered with a content label."
+  },
+
+  "feedCardSensitiveMediaStatus": "sensitive media",
+  "@feedCardSensitiveMediaStatus": {
+    "description": "Signifies that a post has been marked as containing sensitive media with a content label."
+  },
+
+  "feedCardSensitiveMediaStatusDescription": "This user marked this media as sensitive, but did not put a content label",
+  "@feedCardSensitiveMediaStatusDescription": {
+    "description": "The description for when a post has been marked as containing sensitive media with a content label."
+  },
+
+  "feedCardTranslatedStatus": "Translated from {language} using {service}",
+  "@feedCardTranslatedStatus": {
+      "description": "Signifies that the post has been translated.",
+      "placeholders": {
+        "language": {
+          "type": "String",
+          "example": "chinese"
+        },
+        "service": {
+          "type": "String",
+          "example": "magic translator machine"
+        }
+      }
+  },
+
+  "feedCardOngoingThreadAnnotation": "as ongoing thread",
+  "@feedCardOngoingThreadAnnotation": {
+    "description": "Annotation denoting that the post is part of an ongoing thread."
+  },
+
+  "feedCardAsReplyAnnotation": "as reply",
+  "@feedCardAsReplyAnnotation": {
+    "description": "Annotation denoting that the post is a reply, but we don't know to what."
+  },
+
+  "feedCardAsContextAnnotation": "as context",
+  "@feedCardAsContextAnnotation": {
+    "description": "Annotation denoting that the post is in context to a child post."
+  },
+
+  "feedCardInReplyToAnnotation": "in reply to",
+  "@feedCardInReplyToAnnotation": {
+    "description": "Annotation denoting that the post is a reply to a specific account."
+  },
+
+  "feedCardBoostedByAnnotation": "boosted by",
+  "@feedCardBoostedByAnnotation": {
+    "description": "Annotation denoting that the post is boosted by a specific account."
+  },
+
+  "feedCardPinnedByAnnotation": "pinned by",
+  "@feedCardPinnedByAnnotation": {
+    "description": "Annotation denoting that the post is pinned by a specific account."
+  },
+
+  "feedCardVerifiedTooltip": "Verified at {domains}",
+  "@feedCardVerifiedTooltip": {
+      "description": "Feed card tooltip for verifications.",
+      "placeholders": {
+        "domains": {
+          "type": "String",
+          "example": "mstdn.social, mastodon.social"
+        }
+      }
+  },
+
+  "feedCardEditPostHistoryTooltip": "See post edit history",
+  "@feedCardEditPostHistoryTooltip": {
+    "description": "Feed card tooltip for post edit history"
+  },
+
+  "feedCardOpenUrlFailure": "Unable to open url",
+  "@feedCardOpenUrlFailure": {
+    "description": "Feed card failure when opening a url."
+  },
+
+  "feedCardQuoteBoostFailure": "Cannot quote boost non public posts",
+  "@feedCardQuoteBoostFailure": {
+    "description": "Feed card failure on boost when trying to quote non public post."
+  },
+
+  "feedMediaStillProcessing": "Media is still processing.",
+  "@feedMediaStillProcessing": {
+    "description": "Feed media text when it's still processing."
+  },
+
+  "feedMediaFullScreenButtonTooltip": "Open in fullscreen",
+  "@feedMediaFullScreenButtonTooltip": {
+    "description": "Feed media full screen button tooltip."
+  },
+
+  "feedMediaFullScreenExitButtonTooltip": "Exit fullscreen",
+  "@feedMediaFullScreenExitButtonTooltip": {
+    "description": "Feed media full screen exit button tooltip."
+  },
+
+  "feedPageMultiColumnViewTooltip": "multi column view",
+  "@feedPageMultiColumnViewTooltip": {
+    "description": "Feed page multi column button tooltip."
+  },
+
+  "feedPageSingleColumnViewTooltip": "single column view",
+  "@feedPageSingleColumnViewTooltip": {
+    "description": "Feed page single column button tooltip."
+  },
+
+  "feedPageOriginalFilter": "original",
+  "@feedPageOriginalFilter": {
+    "description": "The filter category for original posts."
+  },
+
+  "feedPageRepliesFilter": "replies",
+  "@feedPageRepliesFilter": {
+    "description": "The filter category for replies posts."
+  },
+
+  "feedPageBoostsFilter": "boosts",
+  "@feedPageBoostsFilter": {
+    "description": "The filter category for boosts posts."
+  },
+
+  "feedPageLoggedOut": "You are logged out. Sign back in to view content.",
+  "@feedPageLoggedOut": {
+    "description": "The error message when the user is logged out on the feed."
+  },
+
+  "feedPageCaughtUp": "You're all caught up!",
+  "@feedPageCaughtUp": {
+    "description": "The message when the user is caught up in their feed."
+  },
+
+  "feedPageLeftOff": "This is where you left off!",
+  "@feedPageLeftOff": {
+    "description": "The message for where the user left off in their feed."
+  },
+
+  "feedPageSkipToNewest": "Skip to newest posts",
+  "@feedPageSkipToNewest": {
+    "description": "The feed page action for skipping to newest posts."
+  },
+
+  "feedPageEmptyContent": "Your home timeline is empty! Find some content to follow on the explore tab.",
+  "@feedPageEmptyContent": {
+    "description": "The feed page empty content text."
+  },
+
+  "feedPageEmptyContentWithFilters": "Unable to find content for those filters.",
+  "@feedPageEmptyContentWithFilters": {
+    "description": "The feed page empty content text when any filters are enabled."
+  },
+
+  "feedPageUnableToOpenPost": "Unable to resolve post",
+  "@feedPageUnableToOpenPost": {
+    "description": "The feed page failure when resolving a post from another server."
+  },
+
+  "listsPageTitle": "lists",
+  "@listsPageTitle": {
+    "description": "The title of the lists page."
+  },
+
+  "listsPageCreateListPromptTitle": "Create list",
+  "@listsPageCreateListPromptTitle": {
+    "description": "The lists page create list prompt title."
+  },
+
+  "listsPageCreateListPromptHint": "Enter list title",
+  "@listsPageCreateListPromptHint": {
+    "description": "The lists page create list prompt hint."
+  },
+
+  "listsPageEmptyContent": "You have no lists, create one!",
+  "@listsPageEmptyContent": {
+    "description": "The lists page empty content text."
+  },
+
+  "listsPageViewAccountsAction": "View accounts in list",
+  "@listsPageViewAccountsAction": {
+    "description": "The lists page view accounts in list action."
+  },
+
+  "loginPageUnableToContactServer": "Unable to contact server.",
+  "@loginPageUnableToContactServer": {
+    "description": "The error text when the app is unable to contact the server the user is attempting to log into."
+  },
+
+  "loginPageUnableToLogin": "Error while logging in",
+  "@loginPageUnableToLogin": {
+    "description": "The error text when there is a general failure to log in."
+  },
+
+  "loginPageLoggedOut": "You've been logged out",
+  "@loginPageLoggedOut": {
+    "description": "The message when the user is logged."
+  },
+
+  "loginPageRemoveAccountPromptTitle": "Remove account?",
+  "@loginPageRemoveAccountPromptTitle": {
+    "description": "The prompt title for removing an account."
+  },
+
+  "loginPageRemoveAccountPromptContent": "Removing account will remove metadata used to quickly sign back in; continue?",
+  "@loginPageRemoveAccountPromptContent": {
+    "description": "The prompt content for removing an account."
+  },
+
+  "loginPageServerInputHint": "Server (ex: mastodon.social)",
+  "@loginPageServerInputHint": {
+    "description": "The hint for input for logging into a server."
+  },
+
+  "loginPageServerFailure": "Unable to locate mastodon server: {domain}",
+  "@loginPageServerFailure": {
+      "description": "Failure text when a server cannot be found",
+      "placeholders": {
+        "domain": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "loginPageAddAccountPromptTitle": "Add account",
+  "@loginPageAddAccountPromptTitle": {
+    "description": "The prompt title for adding an account."
+  },
+
+  "loginPageUseExternalBrowserCheckbox": "Use external browser to login?",
+  "@loginPageUseExternalBrowserCheckbox": {
+    "description": "The checkbox for using an external browser to login."
+  },
+
+  "loginPageServerAgreement": "By logging in you agree to the rules and policies of {domain}. Click to view them.",
+  "@loginPageServerAgreement": {
+      "description": "Failure text when a server cannot be found",
+      "placeholders": {
+        "domain": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "profilePageCategoryPosts": "posts",
+  "@profilePageCategoryPosts": {
+    "description": "The posts category of a profile."
+  },
+
+  "profilePageCategoryActivity": "activity",
+  "@profilePageCategoryActivity": {
+    "description": "The activity category of a profile."
+  },
+
+  "profilePageCategoryMedia": "media",
+  "@profilePageCategoryMedia": {
+    "description": "The media category of a profile."
+  },
+
+  "profilePageUnfollowPromptTitle": "Unfollow?",
+  "@profilePageUnfollowPromptTitle": {
+    "description": "The profile page unfollow prompt title."
+  },
+
+  "profilePageUnfollowPromptContent": "Are you sure you want to unfollow @{account}?",
+  "@profilePageUnfollowPromptContent": {
+      "description": "Prompt content for unfollowing a user.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "profilePageProfileUpdateSuccess": "Successfully updated profile",
+  "@profilePageProfileUpdateSuccess": {
+    "description": "Success text for profile updates."
+  },
+
+  "profilePageProfileUpdateFailure": "Successfully updated profile",
+  "@profilePageProfileUpdateFailure": {
+    "description": "Failure text for profile updates."
+  },
+
+  "profileFollowers": "followers",
+  "@profileFollowers": {
+    "description": "Followers title for a profile."
+  },
+
+  "profileFollowing": "following",
+  "@profileFollowing": {
+    "description": "Following title for a profile."
+  },
+
+  "profileFollowedTags": "followed tags",
+  "@profileFollowedTags": {
+    "description": "Followed tags title for a profile."
+  },
+
+  "profileFollowers": "followers",
+  "@profileFollowers": {
+    "description": "Followers title for a profile."
+  },
+
+  "profileFollowingAll": "following",
+  "@profileFollowingAll": {
+    "description": "Following title for a profile."
+  },
+
+  "profileBlockedAccounts": "blocked accounts",
+  "@profileBlockedAccounts": {
+    "description": "Blocked accounts title for a profile."
+  },
+
+  "profileBlockedServers": "blocked domains",
+  "@profileBlockedServers": {
+    "description": "Blocked domains title for a profile."
+  },
+
+  "profileMutedAccounts": "muted accounts",
+  "@profileMutedAccounts": {
+    "description": "Muted accounts title for a profile."
+  },
+
+  "profileList": "list",
+  "@profileList": {
+    "description": "List title for a profile."
+  },
+
+  "profileTabAccounts": "Accounts",
+  "@profileTabAccounts": {
+    "description": "Tab title for accounts."
+  },
+
+  "profileTabTags": "Tags",
+  "@profileTabTags": {
+    "description": "Tab title for tags."
+  },
+
+  "profileStatsPosts": "Posts",
+  "@profileStatsPosts": {
+    "description": "Stats title for posts on a profile."
+  },
+
+  "profileStatsFollowing": "Following",
+  "@profileStatsFollowing": {
+    "description": "Stats title for following on a profile."
+  },
+
+  "profileStatsFollowers": "Followers",
+  "@profileStatsFollowers": {
+    "description": "Stats title for followers on a profile."
+  },
+
+  "profileStatsUnblockAccountTooltip": "Unblock account",
+  "@profileStatsUnblockAccountTooltip": {
+    "description": "Tooltip for unblocking an account."
+  },
+
+  "profileStatsUnblockServerTooltip": "Unblock server",
+  "@profileStatsUnblockServerTooltip": {
+    "description": "Tooltip for unblocking a server."
+  },
+
+  "profileStatsUnmuteAccountTooltip": "Unmute account",
+  "@profileStatsUnmuteAccountTooltip": {
+    "description": "Tooltip for unmuting an account."
+  },
+
+  "profileStatsUnfollowTagTooltip": "Unfollow tag",
+  "@profileStatsUnfollowTagTooltip": {
+    "description": "Tooltip for unfollowing a tag."
+  },
+
+  "profilePageManageListsPromptTitle": "Manage lists",
+  "@profilePageManageListsPromptTitle": {
+    "description": "Manage lists prompt title."
+  },
+
+  "profilePageBioSection": "bio",
+  "@profilePageBioSection": {
+    "description": "The bio section on a profile."
+  },
+
+  "profilePageBioSectionInputHint": "Enter information about yourself!",
+  "@profilePageBioSectionInputHint": {
+    "description": "The bio section input hint on a profile."
+  },
+
+  "profilePageCustomFieldSection": "custom fields",
+  "@profilePageCustomFieldSection": {
+    "description": "The custom fields section on a profile."
+  },
+
+  "profilePageCustomFieldSectionAddAction": "add field",
+  "@profilePageCustomFieldSectionAddAction": {
+    "description": "The custom fields section add action on a profile."
+  },
+
+  "profilePageAccountMovedSection": "new account",
+  "@profilePageAccountMovedSection": {
+    "description": "The account moved section on a profile."
+  },
+
+  "profilePageAccountMovedContent": "Account has moved to @${username} on ${domain}",
+  "@profilePageAccountMovedContent": {
+      "description": "Signifies that the post has been translated.",
+      "placeholders": {
+        "username": {
+          "type": "String",
+          "example": "L33tAdmin"
+        },
+        "domain": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "profilePageRelationshipSection": "relationship",
+  "@profilePageRelationshipSection": {
+    "description": "The relationship section on a profile."
+  },
+
+  "profilePageServerSection": "server",
+  "@profilePageServerSection": {
+    "description": "The server section on a profile."
+  },
+
+  "profilePageStatsSection": "stats",
+  "@profilePageStatsSection": {
+    "description": "The stats section on a profile."
+  },
+
+  "profilePageJoinedSection": "joined",
+  "@profilePageJoinedSection": {
+    "description": "The joined section on a profile."
+  },
+
+  "profilePageStatusSection": "status",
+  "@profilePageStatusSection": {
+    "description": "The status section on a profile."
+  },
+
+  "profilePageStatusHuman": "human",
+  "@profilePageStatusHuman": {
+    "description": "The human status on profile."
+  },
+
+  "profilePageStatusHumanAccount": "Human Account",
+  "@profilePageStatusHumanAccount": {
+    "description": "The human status editable option on profile."
+  },
+
+  "profilePageStatusHumanDescription": "user is likely a human" ,
+  "@profilePageStatusHumanDescription": {
+    "description": "The human status description on profile."
+  },
+
+  "profilePageStatusRobot": "robot",
+  "@profilePageStatusRobot": {
+    "description": "The robot status on a profile."
+  },
+
+  "profilePageStatusRobotAccount": "Bot Account",
+  "@profilePageStatusRobotAccount": {
+    "description": "The robot status editable option on a profile."
+  },
+
+  "profilePageStatusRobotDescription": "user is likely a robot" ,
+  "@profilePageStatusRobotDescription": {
+    "description": "The robot status description on profile."
+  },
+
+  "profilePageStatusLocked": "locked",
+  "@profilePageStatusLocked": {
+    "description": "The locked status on a profile."
+  },
+
+  "profilePageStatusLockedAccount": "Require approval for follows",
+  "@profilePageStatusLockedAccount": {
+    "description": "The locked status editable option on a profile."
+  },
+
+  "profilePageStatusLockedDescription": "user requires approval for follows",
+  "@profilePageStatusLockedDescription": {
+    "description": "The locked status description on profile."
+  },
+
+  "profilePageStatusUnlocked": "unlocked",
+  "@profilePageStatusUnlocked": {
+    "description": "The unlocked status on a profile."
+  },
+
+  "profilePageStatusUnlockedAccount": "Don't require approval for follows",
+  "@profilePageStatusUnlockedAccount": {
+    "description": "The unlocked status editable option on a profile."
+  },
+
+  "profilePageStatusUnlockedDescription": "user does not require approval for follows",
+  "@profilePageStatusUnlockedDescription": {
+    "description": "The unlocked status description on profile."
+  },
+
+  "profilePageStatusVisible": "visible",
+  "@profilePageStatusVisible": {
+    "description": "The visible status on a profile."
+  },
+
+  "profilePageStatusVisibleAccount": "Discoverable through the directory.",
+  "@profilePageStatusVisibleAccount": {
+    "description": "The visible status editable option on a profile."
+  },
+
+  "profilePageStatusVisibleDescription": "user is discoverable in the directory",
+  "@profilePageStatusVisibleDescription": {
+    "description": "The visible status description on profile."
+  },
+
+  "profilePageStatusHidden": "hidden",
+  "@profilePageStatusHidden": {
+    "description": "The hidden status on a profile."
+  },
+
+  "profilePageStatusHiddenAccount": "Not discoverable through the directory",
+  "@profilePageStatusHiddenAccount": {
+    "description": "The hidden status editable option on a profile."
+  },
+
+  "profilePageStatusHiddenDescription": "user is hidden from directory",
+  "@profilePageStatusHiddenDescription": {
+    "description": "The hidden status description on profile."
+  },
+
+  "profilePageRelationShipMuted": "Muted by you",
+  "@profilePageRelationShipMuted": {
+    "description": "The profile relationship muted by user description"
+  },
+
+  "profilePageRelationShipBlocked": "Blocked by you",
+  "@profilePageRelationShipBlocked": {
+    "description": "The profile relationship blocking user description"
+  },
+
+  "profilePageRelationShipBlockedBy": "Blocking you",
+  "@profilePageRelationShipBlockedBy": {
+    "description": "The profile relationship blocked by user description"
+  },
+
+  "profilePageRelationShipFollowing": "Followed by you",
+  "@profilePageRelationShipFollowing": {
+    "description": "The profile relationship following user description"
+  },
+
+  "profilePageRelationShipFollowedBy": "Following you",
+  "@profilePageRelationShipFollowedBy": {
+    "description": "The profile relationship followed by user description"
+  },
+
+  "profilePageRelationShipDomainBlocked": "Domain blocked by you",
+  "@profilePageRelationShipDomainBlocked": {
+    "description": "The profile relationship domain blocking description"
+  },
+
+  "profilePageMessageUserAction": "Message",
+  "@profilePageMessageUserAction": {
+    "description": "The profile page message action."
+  },
+
+  "profilePageMuteUserAction": "Mute user",
+  "@profilePageMuteUserAction": {
+    "description": "The profile page mute user action."
+  },
+
+  "profilePageUnmuteUserAction": "Unmute user",
+  "@profilePageUnmuteUserAction": {
+    "description": "The profile page unmute user action."
+  },
+
+  "profilePageBlockUserAction": "Block user",
+  "@profilePageBlockUserAction": {
+    "description": "The profile page block user action."
+  },
+
+  "profilePageUnblockUserAction": "Unblock user",
+  "@profilePageUnblockUserAction": {
+    "description": "The profile page unblock user action."
+  },
+
+  "profilePageBlockDomainAction": "Block domain",
+  "@profilePageBlockDomainAction": {
+    "description": "The profile page block domain action."
+  },
+
+  "profilePageUnblockDomainAction": "Unblock domain",
+  "@profilePageUnblockDomainAction": {
+    "description": "The profile page unblock domain action."
+  },
+
+  "profilePageReportUserAction": "Report user",
+  "@profilePageReportUserAction": {
+    "description": "The profile page report user action."
+  },
+
+  "profilePageModifyListUserAction": "Add to/Remove from lists",
+  "@profilePageModifyListUserAction": {
+    "description": "The profile page list adding/removing user action."
+  },
+
+  "profilePageEditAvatarImageTooltip": "Pick image for avatar",
+  "@profilePageEditAvatarImageTooltip": {
+    "description": "The profile page avatar edit image tooltip."
+  },
+
+  "profilePageEditBackgroundImageTooltip": "Pick image for background",
+  "@profilePageEditBackgroundImageTooltip": {
+    "description": "The profile page background edit image tooltip."
+  },
+
+  "accessibilitySettingsPageTitle": "accessibility settings",
+  "@accessibilitySettingsPageTitle": {
+    "description": "The accessibility settings page title."
+  },
+
+  "accessibilitySettingsPageGlobalTextSection": "Global text",
+  "@accessibilitySettingsPageGlobalTextSection": {
+    "description": "The global text editing section title."
+  },
+
+  "accessibilitySettingsPageGlobalTextFontScale": "Font scale",
+  "@accessibilitySettingsPageGlobalTextFontScale": {
+    "description": "The global text editing section font scale."
+  },
+
+  "accessibilitySettingsPageGlobalTextLineSpacingScale": "Line spacing scale",
+  "@accessibilitySettingsPageGlobalTextLineSpacingScale": {
+    "description": "The global text editing section line spacing scale."
+  },
+
+  "accessibilitySettingsPagePostTextSection": "Post text",
+  "@accessibilitySettingsPagePostTextSection": {
+    "description": "The post text editing section title."
+  },
+
+  "accessibilitySettingsPagePostTextFontSizeDelta": "Body font size delta",
+  "@accessibilitySettingsPagePostTextFontSizeDelta": {
+    "description": "The post text editing section body font size delta."
+  },
+
+  "feedSettingsPageTitle": "feed settings",
+  "@feedSettingsPageTitle": {
+    "description": "The feed settings page title."
+  },
+
+  "feedSettingsPageMediaDefaultsBase": "Hide poster marked sensitive content",
+  "@feedSettingsPageMediaDefaultsBase": {
+    "description": "The feed settings page media default for showing post marked sensitive content."
+  },
+
+  "feedSettingsPageMediaDefaultsShow": "Show all sensitive content",
+  "@feedSettingsPageMediaDefaultsShow": {
+    "description": "The feed settings page media default for showing all sensitive content."
+  },
+
+  "feedSettingsPageMediaDefaultsHide": "Hide all sensitive content",
+  "@feedSettingsPageMediaDefaultsHide": {
+    "description": "The feed settings page media default for hiding sensitive content."
+  },
+
+  "feedSettingsHomeFeedModeTitle": "Home feed mode",
+  "@feedSettingsHomeFeedModeTitle": {
+    "description": "Home feed mode title."
+  },
+
+  "feedSettingsRecentModeTitle": "Always show recent mode",
+  "@feedSettingsRecentModeTitle": {
+    "description": "The feed setting for always showing recent content on the home feed."
+  },
+
+  "feedSettingsRecentModeTitle": "Recent mode",
+  "@feedSettingsRecentModeTitle": {
+    "description": "The feed setting for always showing recent content on the home feed."
+  },
+
+  "feedSettingsRecentModeDescription": "Home feed will always load to the most recent post, at the top of your feed.",
+  "@feedSettingsRecentModeDescription": {
+    "description": "The feed setting description for always showing recent content on the home feed."
+  },
+
+  "feedSettingsRememberModeTitle": "Remember mode",
+  "@feedSettingsRememberModeTitle": {
+    "description": "The feed setting for always remembering the last read position on the home feed."
+  },
+
+  "feedSettingsRememberModeDescription": "Home feed will always try to remember your last read position, and resume from there.",
+  "@feedSettingsRememberModeDescription": {
+    "description": "The feed setting description for always remembering the last read position on the home feed."
+  },
+
+  "feedSettingsDigestModeTitle": "Digest mode",
+  "@feedSettingsDigestModeTitle": {
+    "description": "The feed setting for showing the user only the content they haven't seen."
+  },
+
+  "feedSettingsDigestModeDescription": "Home feed will load only posts that you most likely haven't read since last time.",
+  "@feedSettingsDigestModeDescription": {
+    "description": "The feed setting description for showing the user only the content they haven't seen."
+  },
+
+  "feedSettingsFeaturesSectionTitle": "Feed features",
+  "@feedSettingsFeaturesSectionTitle": {
+    "description": "Feed features title."
+  },
+
+  "feedSettingsStreamHomeToggle": "Stream home feed",
+  "@feedSettingsStreamHomeToggle": {
+    "description": "Stream home feed toggle."
+  },
+
+  "feedSettingsStreamHomeToggleDescription": "When enabled, new posts will stream in on the home page. When disabled, a \"show more\" button will be presented instead.",
+  "@feedSettingsStreamHomeToggleDescription": {
+    "description": "Stream home feed toggle description."
+  },
+
+  "feedSettingsStreamHomeToggleDescriptionAlt": "Streaming home is only available for \"Recent mode\" home feed mode",
+  "@feedSettingsStreamHomeToggleDescriptionAlt": {
+    "description": "Stream home feed toggle description alternative."
+  },
+
+  "feedSettingsConversationGroupingToggle": "Conversation grouping in feeds",
+  "@feedSettingsConversationGroupingToggle": {
+    "description": "Conversation grouping toggle."
+  },
+
+  "feedSettingsContextFetchingToggle": "Context fetching for grouped conversations in feeds",
+  "@feedSettingsContextFetchingToggle": {
+    "description": "Context fetching toggle."
+  },
+
+  "feedSettingsContextFetchingToggleDescription": "Only has an impact if conversations grouping is enabled.",
+  "@feedSettingsContextFetchingToggleDescription": {
+    "description": "Context fetching toggle description."
+  },
+
+  "feedSettingsBehaviorsSectionTitle": "Viewing behaviors",
+  "@feedSettingsBehaviorsSectionTitle": {
+    "description": "Viewing behaviors section title."
+  },
+
+  "feedSettingsTranslateLanguagePromptTitle": "translate language",
+  "@feedSettingsTranslateLanguagePromptTitle": {
+    "description": "Translate prompt language title."
+  },
+
+  "feedSettingsTranslateLanguageTitle": "Translate locale/language",
+  "@feedSettingsTranslateLanguageTitle": {
+    "description": "Translate language setting title."
+  },
+
+  "feedSettingsTranslateLanguageDescription": "The default language the 'translate' feature should attempt to translate content to.",
+  "@feedSettingsTranslateLanguageDescription": {
+    "description": "Translate language setting description."
+  },
+
+  "feedSettingsTranslateLanguageTooltip": "View translate language options",
+  "@feedSettingsTranslateLanguageTooltip": {
+    "description": "Translate language setting tooltip."
+  },
+
+  "feedSettingsSensitiveMediaDropdown": "Sensitive media options",
+  "@feedSettingsSensitiveMediaDropdown": {
+    "description": "Sensitive media options dropdown."
+  },
+
+  "feedSettingsContentLabelBehaviorToggle": "Always expand posts with content labels",
+  "@feedSettingsContentLabelBehaviorToggle": {
+    "description": "Content label behavior toggle."
+  },
+
+  "feedSettingsShowPreviewBehaviorToggle": "Show link previews",
+  "@feedSettingsShowPreviewBehaviorToggle": {
+    "description": "Preview links behavior toggle."
+  },
+
+  "feedSettingsPlayGifsBehaviorToggle": "Play gifs automatically",
+  "@feedSettingsPlayGifsBehaviorToggle": {
+    "description": "Play gifs behavior toggle."
+  },
+
+  "feedSettingsHideMutedBehaviorToggle": "Hide muted conversations from feeds",
+  "@feedSettingsHideMutedBehaviorToggle": {
+    "description": "Hide muted conversations behavior toggle."
+  },
+
+  "feedSettingsMediaAspectDropdown": "Media aspect ratio",
+  "@feedSettingsMediaAspectDropdown": {
+    "description": "Media aspect ratio dropdown."
+  },
+
+  "feedSettingsMediaAspectDropdownWarning": "Full resolution could cause 'jumpy' or laggy scrolling behavior",
+  "@feedSettingsMediaAspectDropdownWarning": {
+    "description": "Media aspect ratio dropdown warning."
+  },
+
+  "feedSettingsAutoCollapseDropdown": "Auto collapse character limit",
+  "@feedSettingsAutoCollapseDropdown": {
+    "description": "Auto collapse dropdown."
+  },
+
+  "feedSettingsAutoCollapseDropdownDescription": "The character limit of a post before it is collapsed automatically and 'read more' is appended.",
+  "@feedSettingsAutoCollapseDropdownDescription": {
+    "description": "Auto collapse dropdown description."
+  },
+
+  "feedSettingsSingleColumnToggle": "Prefer single column feeds",
+  "@feedSettingsSingleColumnToggle": {
+    "description": "Prefer single column toggle."
+  },
+
+  "feedSettingsSingleColumnToggleDescription": "In landscape on mobile or on large screen devices, prefer a single column feed over a multi column feed.",
+  "@feedSettingsSingleColumnToggleDescription": {
+    "description": "Prefer single column toggle description."
+  },
+
+  "feedSettingsShowButtonsToggle": "Always show buttons on feed cards",
+  "@feedSettingsShowButtonsToggle": {
+    "description": "Show buttons toggle."
+  },
+
+  "feedSettingsShowButtonsToggleDescription": "Whether or not to show reply/boost/favorite buttons on all feed cards all of the time.",
+  "@feedSettingsShowButtonsToggleDescription": {
+    "description": "Show buttons toggle description."
+  },
+
+  "filterPageContextWidgetChoiceHomeAndList": "home and lists",
+  "@filterPageContextWidgetChoiceHomeAndList": {
+    "description": "The filter page's context widget choice chip for home and lists."
+  },
+
+  "filterPageContextWidgetChoiceNotifications": "notifications",
+  "@filterPageContextWidgetChoiceNotifications": {
+    "description": "The filter page's context widget choice chip for notifications."
+  },
+
+  "filterPageContextWidgetChoicePublic": "public timelines",
+  "@filterPageContextWidgetChoicePublic": {
+    "description": "The filter page's context widget choice chip for public timelines."
+  },
+
+  "filterPageContextWidgetChoiceThreads": "threads",
+  "@filterPageContextWidgetChoiceThreads": {
+    "description": "The filter page's context widget choice chip for threads."
+  },
+
+  "filterPageContextWidgetChoiceAccounts": "accounts",
+  "@filterPageContextWidgetChoiceAccounts": {
+    "description": "The filter page's context widget choice chip for accounts."
+  },
+
+  "filterPageTitleCreate": "create filter",
+  "@filterPageTitleCreate": {
+    "description": "The filter page title when creating a new filter."
+  },
+
+  "filterPageTitleEdit": "edit filter",
+  "@filterPageTitleEdit": {
+    "description": "The filter page title when editing a filter."
+  },
+
+  "filterPageCreateNameCategory": "name",
+  "@filterPageCreateNameCategory": {
+    "description": "The filter page name category."
+  },
+
+  "filterPageCreateExpirationCategory": "expiration",
+  "@filterPageCreateExpirationCategory": {
+    "description": "The filter page expiration category."
+  },
+
+  "filterPageCreateContextCategory": "context",
+  "@filterPageCreateContextCategory": {
+    "description": "The filter page context category."
+  },
+
+  "filterPageCreateContextCategoryDescription": "The context in which the filter should apply.",
+  "@filterPageCreateContextCategoryDescription": {
+    "description": "The filter page context category description."
+  },
+
+  "filterPageCreateActionsCategory": "actions",
+  "@filterPageCreateActionsCategory": {
+    "description": "The filter page actions category."
+  },
+
+  "filterPageCreateActionsCategoryDescription": "The action that should be taken when content is to be filtered.\n\nwarn - will show content behind a content label text.\nhide - will hide the content entirely from the context.",
+  "@filterPageCreateActionsCategoryDescription": {
+    "description": "The filter page actions category description."
+  },
+
+  "filterPageCreateKeywordsCategory": "keywords",
+  "@filterPageCreateKeywordsCategory": {
+    "description": "The filter page keywords category."
+  },
+
+  "filterPageCreateActionsWarn": "warn",
+  "@filterPageCreateActionsWarn": {
+    "description": "The filter page warn action."
+  },
+
+  "filterPageCreateActionsHide": "hide",
+  "@filterPageCreateActionsHide": {
+    "description": "The filter page hide action."
+  },
+
+  "filterPageCreateFilterKeywordPromptTitle": "Add filter keyword",
+  "@filterPageCreateFilterKeywordPromptTitle": {
+    "description": "The filter page filter keyword prompt title."
+  },
+
+  "filterPageCreateFilterKeywordPromptHint": "Enter keyword to filter...",
+  "@filterPageCreateFilterKeywordPromptHint": {
+    "description": "The filter page filter keyword prompt hint."
+  },
+
+  "filterPageCreateFilterKeywordPromptMatchWordCheckbox": "Match whole word?",
+  "@filterPageCreateFilterKeywordPromptMatchWordCheckbox": {
+    "description": "The filter page filter keyword prompt match word checkbox."
+  },
+
+  "filterPageTitle": "filters",
+  "@filterPageTitle": {
+    "description": "The filters page title."
+  },
+
+  "filterExpirationNever": "Never expires",
+  "@filterExpirationNever": {
+    "description": "The filter never expires."
+  },
+
+  "filterExpirationExpired": "Expired",
+  "@filterExpirationExpired": {
+    "description": "The filter is expired."
+  },
+
+  "filterExpirationExpiresPrefix": "Expires in",
+  "@filterExpirationExpiresPrefix": {
+    "description": "The filter expiration prefix, usually followed by a quantity of time."
+  },
+
+  "filterPageEmpty": "You have no filters, click + to create one.",
+  "@filterPageEmpty": {
+    "description": "The filters page empty content."
+  },
+
+  "filterSummary": "Filters in {feedTypes} with {filterAction}",
+  "@filterSummary": {
+      "description": "The summary at the bottom of the listed filter.",
+      "placeholders": {
+        "feedTypes": {
+          "type": "String",
+          "example": "home and lists, notifications"
+        },
+        "filterAction": {
+          "type": "String",
+          "example": "warn"
+        }
+      }
+  },
+
+  "notificationSettingsPageTitle": "notification settings",
+  "@notificationSettingsPageTitle": {
+    "description": "The notification settings page title."
+  },
+
+  "notificationSettingsPagePushSection": "Push",
+  "@notificationSettingsPagePushSection": {
+    "description": "The notification settings page push section."
+  },
+
+  "notificationSettingsPagePushToggle": "Push notifications",
+  "@notificationSettingsPagePushToggle": {
+    "description": "The notification settings page push notifications toggle."
+  },
+
+  "notificationSettingsPageSubscriptionsSection": "Subscriptions",
+  "@notificationSettingsPageSubscriptionsSection": {
+    "description": "The notification settings page subscriptions section."
+  },
+
+  "notificationSettingsPageMentionsToggle": "Mentions",
+  "@notificationSettingsPageMentionsToggle": {
+    "description": "The notification settings page mentions notifications toggle."
+  },
+
+  "notificationSettingsPageFollowsToggle": "Follows",
+  "@notificationSettingsPageFollowsToggle": {
+    "description": "The notification settings page follows notifications toggle."
+  },
+
+  "notificationSettingsPageFollowRequestsToggle": "Follow requests",
+  "@notificationSettingsPageFollowRequestsToggle": {
+    "description": "The notification settings page follow requests notifications toggle."
+  },
+
+  "notificationSettingsPageBoostsToggle": "Boosts",
+  "@notificationSettingsPageBoostsToggle": {
+    "description": "The notification settings page boosts notifications toggle."
+  },
+
+  "notificationSettingsPageFavoritesToggle": "Favorites",
+  "@notificationSettingsPageFavoritesToggle": {
+    "description": "The notification settings page favorites notifications toggle."
+  },
+
+  "notificationSettingsPageUpdatingProgress": "Updating subscriptions...",
+  "@notificationSettingsPageUpdatingProgress": {
+    "description": "The notification settings page subscription update progress text."
+  },
+
+  "notificationSettingsPageUpdatingFailure": "Failed to update alert settings",
+  "@notificationSettingsPageUpdatingFailure": {
+    "description": "The notification settings page subscription update failure text."
+  },
+
+  "themeSettingsPageTitle": "theme settings",
+  "@themeSettingsPageTitle": {
+    "description": "The theme settings page title."
+  },
+
+  "themeSettingsPageLightThemeHeader": "current light theme",
+  "@themeSettingsPageLightThemeHeader": {
+    "description": "The theme settings page light theme header."
+  },
+
+  "themeSettingsPageLightThemeTitle": "Light theme",
+  "@themeSettingsPageLightThemeTitle": {
+    "description": "The theme settings page light theme title."
+  },
+
+  "themeSettingsPageLightThemeDescription": "Will be used when dark mode is disabled.",
+  "@themeSettingsPageLightThemeDescription": {
+    "description": "The theme settings page light theme description."
+  },
+
+  "themeSettingsPageDarkThemeHeader": "current dark theme",
+  "@themeSettingsPageDarkThemeHeader": {
+    "description": "The theme settings page light theme header."
+  },
+
+  "themeSettingsPageDarkThemeTitle": "Dark theme",
+  "@themeSettingsPageDarkThemeTitle": {
+    "description": "The theme settings page light theme title."
+  },
+
+  "themeSettingsPageDarkThemeDescription": "Will be used when dark mode is enabled.",
+  "@themeSettingsPageDarkThemeDescription": {
+    "description": "The theme settings page light theme description."
+  },
+
+  "themeSettingsOLEDFriendlyToggle": "OLED friendly",
+  "@themeSettingsOLEDFriendlyToggle": {
+    "description": "The theme settings page OLED toggle."
+  },
+
+  "themeSettingsOLEDFriendlyToggleDescription": "OLED friendly will prefer deep blacks and bright whites while harmonize the remaining palette colors to match.",
+  "@themeSettingsOLEDFriendlyToggleDescription": {
+    "description": "The theme settings page OLED toggle description."
+  },
+
+  "themeSettingsAndroidDynamicToggle": "Dynamic theme enabled",
+  "@themeSettingsAndroidDynamicToggle": {
+    "description": "The theme settings page android dynamic theme toggle."
+  },
+
+  "themeSettingsAndroidDynamicToggleDescription":  "Dynamic theme will utilize various operating system theming attributes to create a color palette for light and dark mode.",
+  "@themeSettingsAndroidDynamicToggleDescription": {
+    "description": "The theme settings page android dynamic theme toggle description."
+  },
+
+  "themeSettingsConfigurationSection": "Configure theme",
+  "@themeSettingsConfigurationSection": {
+    "description": "The theme settings page configure section."
+  },
+
+  "themeSettingsPageCurrentHeader": "current theme",
+  "@themeSettingsPageCurrentHeader": {
+    "description": "The theme settings page current theme header."
+  },
+
+  "experimentSettingsPageTitle": "experiment settings",
+  "@experimentSettingsPageTitle": {
+    "description": "The experiment settings page title."
+  },
+
+  "experimentSettingsFeaturesSection": "Experimental features",
+  "@experimentSettingsFeaturesSection": {
+    "description": "The experiment settings page feature section."
+  },
+
+  "privacyPolicyPageTitle": "privacy policy",
+  "@privacyPolicyPageTitle": {
+    "description": "The privacy policy settings page title."
+  },
+
+  "settingsPageTitle": "settings",
+  "@settingsPageTitle": {
+    "description": "The settings page title."
+  },
+
+  "settingsPageSignOutPromptContent": "Signing out will remove your authenticated account and any cached details; continue?",
+  "@settingsPageSignOutPromptContent": {
+    "description": "The settings page sign out prompt content."
+  },
+
+  "settingsPageDarkModeOption": "Dark mode",
+  "@settingsPageDarkModeOption": {
+    "description": "The settings page dark mode setting."
+  },
+
+  "settingsPageAppSettingsSection": "App Settings",
+  "@settingsPageAppSettingsSection": {
+    "description": "The settings page app settings section."
+  },
+
+  "settingsPageThemeSettingsOption": "Theme settings",
+  "@settingsPageThemeSettingsOption": {
+    "description": "The settings page theme setting."
+  },
+
+  "settingsPageRestrictionsSection": "Restrictions",
+  "@settingsPageRestrictionsSection": {
+    "description": "The settings page rstrictions section."
+  },
+
+  "settingsPageMutedUsersOption": "Muted users",
+  "@settingsPageMutedUsersOption": {
+    "description": "The settings page muted users setting."
+  },
+
+  "settingsPageBlockedUsersOption": "Blocked users",
+  "@settingsPageBlockedUsersOption": {
+    "description": "The settings page blocked users setting."
+  },
+
+  "settingsPageBlockedDomainsOption": "Blocked domains",
+  "@settingsPageBlockedDomainsOption": {
+    "description": "The settings page blocked domains setting."
+  },
+
+  "settingsPageFiltersOption": "Filters",
+  "@settingsPageFiltersOption": {
+    "description": "The settings page filters setting."
+  },
+
+  "settingsPagePostingBehaviorsSection": "Posting Behaviors",
+  "@settingsPagePostingBehaviorsSection": {
+    "description": "The settings page post behaviors section."
+  },
+
+  "settingsPagePostPrivacyOption": "Default post privacy",
+  "@settingsPagePostPrivacyOption": {
+    "description": "The settings page default post privacy setting."
+  },
+
+  "settingsPageMediaSensitivityOption": "Always mark media posted by me as sensitive",
+  "@settingsPageMediaSensitivityOption": {
+    "description": "The settings page media sensitivity setting."
+  },
+
+  "settingsPagePostLanguageOption": "Posting locale/language",
+  "@settingsPagePostLanguageOption": {
+    "description": "The settings page post language setting."
+  },
+
+  "settingsPageShowActionsOption": "Show action updates",
+  "@settingsPageShowActionsOption": {
+    "description": "The settings page show action setting."
+  },
+
+  "settingsPageShowActionsOptionDescription": "When action updates are enabled, progress and affirmation are shown for any input.",
+  "@settingsPageShowActionsOptionDescription": {
+    "description": "The settings page show action setting description."
+  },
+
+  "settingsPageAccountsSection": "Accounts",
+  "@settingsPageAccountsSection": {
+    "description": "The settings page accounts section."
+  },
+
+  "settingsPageSignOutOption": "Sign out of account",
+  "@settingsPageSignOutOption": {
+    "description": "The settings page sign out setting."
+  },
+
+  "settingsPageManageAccountsOption": "Manage accounts",
+  "@settingsPageManageAccountsOption": {
+    "description": "The settings page manage accounts setting."
+  },
+
+  "settingsPageAboutSection": "About",
+  "@settingsPageAboutSection": {
+    "description": "The settings page about section."
+  },
+
+  "settingsPageFollowOption": "Follow @trunksapp",
+  "@settingsPageFollowOption": {
+    "description": "The settings page follow trunks app setting."
+  },
+
+  "settingsPageLicensesOption": "Licenses",
+  "@settingsPageLicensesOption": {
+    "description": "The settings page licenses setting."
+  },
+
+  "settingsPagePrivacyPolicyOption": "Privacy Policy",
+  "@settingsPagePrivacyPolicyOption": {
+    "description": "The settings page privacy policy setting."
+  },
+
+  "settingsPageMadeInOption": "Made with ❤️ in the rain of Seattle",
+  "@settingsPageMadeInOption": {
+    "description": "The settings page made in setting."
+  },
+
+  "settingsPageExperimentsOption": "Experiments",
+  "@settingsPageExperimentsOption": {
+    "description": "The settings page experiments setting."
+  },
+
+  "settingsPageVersionOption": "Version",
+  "@settingsPageVersionOption": {
+    "description": "The settings page version setting."
+  },
+
+  "settingsPagePushNotificationsOption": "Push notifications",
+  "@settingsPagePushNotificationsOption": {
+    "description": "The settings page push notifications setting."
+  },
+
+  "settingsPageAccessibilityOption": "Accessibility",
+  "@settingsPageAccessibilityOption": {
+    "description": "The settings page accessibility setting."
+  },
+
+  "settingsPageFeedSettingsOption": "Feed Settings",
+  "@settingsPageFeedSettingsOption": {
+    "description": "The settings page feed setting."
+  },
+
+  "settingsPageThreadSettingsOption": "Thread Settings",
+  "@settingsPageThreadSettingsOption": {
+    "description": "The settings page thread setting."
+  },
+
+  "settingsPageExperienceSection": "Experience settings",
+  "@settingsPageExperienceSection": {
+    "description": "The settings page experience section."
+  },
+
+  "threadSettingsPageTitle": "thread settings",
+  "@threadSettingsPageTitle": {
+    "description": "The thread settings page title."
+  },
+
+  "threadSettingsPageDefaultsSection": "Defaults",
+  "@threadSettingsPageDefaultsSection": {
+    "description": "The defaults section title for thread settings."
+  },
+
+  "threadSettingsPageDefaultCommentSortTitle": "Comment sort",
+  "@threadSettingsPageDefaultCommentSortTitle": {
+    "description": "The default comment sort for threads."
+  }
+}
