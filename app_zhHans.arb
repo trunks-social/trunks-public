@@ -1,0 +1,3662 @@
+{
+  "helloWorld": "你好世界！",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+
+  "ok": "确认",
+  "@ok": {
+    "description": "Common ok option"
+  },
+
+  "on": "开启",
+  "@on": {
+    "description": "Common on option"
+  },
+
+  "off": "关闭",
+  "@off": {
+    "description": "Common off option"
+  },
+
+  "accept": "接受",
+  "@accept": {
+    "description": "Common accept option"
+  },
+
+  "create": "创建",
+  "@create": {
+    "description": "Common create option"
+  },
+
+  "cancel": "取消",
+  "@cancel": {
+    "description": "Common cancel option"
+  },
+
+  "reset": "重置",
+  "@reset": {
+    "description": "Common reset option"
+  },
+
+  "logIn": "登录",
+  "@logIn": {
+    "description": "Common log in option"
+  },
+
+  "signOut": "注销",
+  "@signOut": {
+    "description": "Common sign out option"
+  },
+
+  "delete": "删除",
+  "@delete": {
+    "description": "Common delete option"
+  },
+
+  "add": "添加",
+  "@add": {
+    "description": "Common add option"
+  },
+
+  "remove": "移除",
+  "@remove": {
+    "description": "Common remove option"
+  },
+
+  "show": "显示",
+  "@show": {
+    "description": "Common show option"
+  },
+
+  "hide": "隐藏",
+  "@hide": {
+    "description": "Common hide option"
+  },
+
+  "edit": "编辑",
+  "@edit": {
+    "description": "Common edit option"
+  },
+
+  "clear": "清除",
+  "@clear": {
+    "description": "Common clear option"
+  },
+
+  "bookmark": "收藏",
+  "@bookmark": {
+    "description": "Common bookmark option"
+  },
+
+  "pin": "钉选",
+  "@pin": {
+    "description": "Common pin option"
+  },
+
+  "unpin": "取消钉选",
+  "@unpin": {
+    "description": "Common unpin option"
+  },
+
+  "reply": "回复",
+  "@reply": {
+    "description": "Common reply option"
+  },
+
+  "follow": "关注",
+  "@follow": {
+    "description": "Common follow option"
+  },
+
+  "pending": "进行中",
+  "@pending": {
+    "description": "Common pending option"
+  },
+
+  "unfollow": "取消关注",
+  "@unfollow": {
+    "description": "Common unfollow option"
+  },
+
+  "askToFollow": "申请关注",
+  "@askToFollow": {
+    "description": "Common ask to follow option"
+  },
+
+  "filter": "过滤",
+  "@filter": {
+    "description": "Common filter option"
+  },
+
+  "unfilter": "取消过滤",
+  "@unfilter": {
+    "description": "Common unfilter option"
+  },
+
+  "share": "分享",
+  "@share": {
+    "description": "Common share option"
+  },
+
+  "quote": "引用",
+  "@quote": {
+    "description": "Common quote option"
+  },
+
+  "exit": "退出",
+  "@exit": {
+    "description": "Common exit option"
+  },
+
+  "save": "保存",
+  "@save": {
+    "description": "Common save option"
+  },
+
+  "loading": "正在加载",
+  "@loading": {
+    "description": "Common loading text"
+  },
+
+  "saving": "正在保存",
+  "@saving": {
+    "description": "Common saving text"
+  },
+
+  "refresh": "刷新",
+  "@refresh": {
+    "description": "Common refresh option"
+  },
+
+  "retry": "重试",
+  "@retry": {
+    "description": "Common retry option"
+  },
+
+  "oops": "糟糕，出错了",
+  "@oops": {
+    "description": "Common oops/error text."
+  },
+
+  "about": "关于",
+  "@about": {
+    "description": "Common about option"
+  },
+
+  "unableToLoad": "无法加载内容",
+  "@unableToLoad": {
+    "description": "Common load error text."
+  },
+
+  "filterAll": "所有",
+  "@filterAll": {
+    "description": "Common all filter option"
+  },
+
+  "quantitySeconds": "{time} 秒",
+  "@quantitySeconds": {
+    "description": "Quantity of time in seconds",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityMinutes": "{time} 分",
+  "@quantityMinutes": {
+    "description": "Quantity of time in minutes",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityHours": "{time} 时",
+  "@quantityHours": {
+    "description": "Quantity of time in hours",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityDays": "{time} 天",
+  "@quantityDays": {
+    "description": "Quantity of time in days",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityVotes": "{voteCount} 票",
+  "@quantityVotes": {
+    "description": "Quantity of votes",
+    "placeholders": {
+      "voteCount": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+
+  "quantityBoosts": "{boostCount} 转发",
+  "@quantityBoosts": {
+    "description": "Quantity of boosts",
+    "placeholders": {
+      "boostCount": {
+        "type": "String",
+        "example": "13k"
+      }
+    }
+  },
+
+  "quantityFavorites": "{favoriteCount} 赞",
+  "@quantityFavorites": {
+    "description": "Quantity of favorites",
+    "placeholders": {
+      "favoriteCount": {
+        "type": "String",
+        "example": "13k"
+      }
+    }
+  },
+
+  "visibilityPublic": "公共",
+  "@visibilityPublic": {
+    "description": "The public visibility of a post."
+  },
+
+  "visibilityUnlisted": "不公开",
+  "@visibilityUnlisted": {
+    "description": "The unlisted visibility of a post."
+  },
+
+  "visibilityPrivate": "私密",
+  "@visibilityPrivate": {
+    "description": "The private visibility of a post."
+  },
+
+  "visibilityDirect": "指定",
+  "@visibilityDirect": {
+    "description": "The direct visibility of a post."
+  },
+
+  "commentSortBest": "最佳评论",
+  "@commentSortBest": {
+    "description": "The best comment sort option."
+  },
+
+  "commentSortChronological": "时间顺序",
+  "@commentSortChronological": {
+    "description": "The chronological comment sort option."
+  },
+
+  "commentSortControversial": "讨论热度",
+  "@commentSortControversial": {
+    "description": "The controversial comment sort option."
+  },
+
+  "mainDescription": "是一款快速、易用、可定制的现代化 Mastodon 客户端。无论在什么设备上，它都会是你在 Mastodon 关注感兴趣话题的绝佳选择。",
+  "@mainDescription": {
+    "description": "The text describing trunks.social on the main login page."
+  },
+
+  "mainPromo": "即刻下载到你的手机、平板、Mac 或直接使用网页客户端，感受或许是目前最佳的 Mastodon 跨平台体验吧。",
+  "@mainPromo": {
+    "description": "The text promoting trunks and its apps on the main login page."
+  },
+
+  "mainAppDownloadHeaderText": "下载应用",
+  "@mainAppDownloadHeaderText": {
+    "description": "The header text on the main login page that supersedes the app link downloads."
+  },
+
+  "mainExploreHeaderText": "探索热门帖文",
+  "@mainExploreHeaderText": {
+    "description": "The header text on the main login page that supersedes the trending posts."
+  },
+
+  "adaptiveHomeSearchAction": "搜索",
+  "@adaptiveHomeSearchAction": {
+    "description": "The FAB search action."
+  },
+
+  "adaptiveHomeCreateListAction": "创建列表",
+  "@adaptiveHomeCreateListAction": {
+    "description": "The FAB create list action."
+  },
+
+  "adaptiveHomeComposeAction": "创作",
+  "@adaptiveHomeComposeAction": {
+    "description": "The FAB compose action."
+  },
+
+  "adaptiveHomeNavDestinationHome": "主页",
+  "@adaptiveHomeNavDestinationHome": {
+    "description": "The tab or navigation text for the current users home feed."
+  },
+
+  "adaptiveHomeNavDestinationExplore": "探索",
+  "@adaptiveHomeNavDestinationExplore": {
+    "description": "The tab or navigation text for the explore feed."
+  },
+
+  "adaptiveHomeNavDestinationNotifications": "通知",
+  "@adaptiveHomeNavDestinationNotifications": {
+    "description": "The tab or navigation text for the notifications feed."
+  },
+
+  "adaptiveHomeNavDestinationPublic": "公共",
+  "@adaptiveHomeNavDestinationPublic": {
+    "description": "The tab or navigation text for the federated or public feed."
+  },
+
+  "adaptiveHomeNavDestinationLocal": "本地",
+  "@adaptiveHomeNavDestinationLocal": {
+    "description": "The tab or navigation text for the current users server feed."
+  },
+
+  "adaptiveHomeNavDestinationBookmarks": "收藏",
+  "@adaptiveHomeNavDestinationBookmarks": {
+    "description": "The tab or navigation text for the current users bookmarks feed."
+  },
+
+  "adaptiveHomeNavDestinationFavorites": "喜爱",
+  "@adaptiveHomeNavDestinationFavorites": {
+    "description": "The tab or navigation text for the current users favorites feed."
+  },
+
+  "adaptiveHomeNavDestinationLists": "列表",
+  "@adaptiveHomeNavDestinationLists": {
+    "description": "The tab or navigation text for the current users lists feed."
+  },
+
+  "adaptiveHomeWebLinksHeader": "链接",
+  "@adaptiveHomeWebLinksHeader": {
+    "description": "The header text on web clients that supersedes mobile app links and other stuff."
+  },
+
+  "adaptiveHomeSearchButtonTooltip": "搜索",
+  "@adaptiveHomeSearchButtonTooltip": {
+    "description": "The search button tooltip text."
+  },
+
+  "adaptiveHomeRefreshButtonTooltip": "刷新",
+  "@adaptiveHomeRefreshButtonTooltip": {
+    "description": "The refresh button tooltip text."
+  },
+
+  "adaptiveHomeSettingsButtonTooltip": "设置",
+  "@adaptiveHomeSettingsButtonTooltip": {
+    "description": "The settings button tooltip text."
+  },
+
+  "adaptiveHomeListsButtonTooltip": "列表",
+  "@adaptiveHomeListsButtonTooltip": {
+    "description": "The lists button tooltip text."
+  },
+
+  "adaptiveHomeBookmarksButtonTooltip": "收藏",
+  "@adaptiveHomeBookmarksButtonTooltip": {
+    "description": "The bookmarks button tooltip text."
+  },
+
+  "adaptiveHomeFavoritesButtonTooltip": "喜爱",
+  "@adaptiveHomeFavoritesButtonTooltip": {
+    "description": "The favorites button tooltip text."
+  },
+
+  "adaptiveHomeShortcutsButtonTooltip": "快捷方式",
+  "@adaptiveHomeShortcutsButtonTooltip": {
+    "description": "The shortcuts button tooltip text."
+  },
+
+  "adaptiveHomeManageAccountsButtonTooltip": "管理账户",
+  "@adaptiveHomeManageAccountsButtonTooltip": {
+    "description": "The manage accounts button tooltip text."
+  },
+
+  "adaptiveHomeSettingsPopupButton": "设置",
+  "@adaptiveHomeSettingsPopupButton": {
+    "description": "The popup button text for settings when you click on the current user avatar."
+  },
+
+  "adaptiveHomeManageAccountsPopupButton": "管理账户",
+  "@adaptiveHomeManageAccountsPopupButton": {
+    "description": "The popup button text for manage accounts when you click on the current user avatar."
+  },
+
+  "adaptiveHomePinnedShortcutsHeader": "已钉选快捷方式",
+  "@adaptiveHomePinnedShortcutsHeader": {
+    "description": "The header text that supersedes shortcuts pinned by a user."
+  },
+
+  "adaptiveHomeMobileLinksHeader": "应用",
+  "@adaptiveHomeMobileLinksHeader": {
+    "description": "The header text on mobile clients that supersedes mobile app links and other stuff."
+  },
+
+  "adaptiveHomeShortcutsEmpty": "你还没有快捷方式！在实例、话题标签或列表上点击钉选图标可进行创建。",
+  "@adaptiveHomeShortcutsEmpty": {
+    "description": "The empty text when a user does not have any shortcuts."
+  },
+
+  "adaptiveHomeMarkAsReadButton": "标记为已读",
+  "@adaptiveHomeMarkAsReadButton": {
+    "description": "The button text to mark notifications as read."
+  },
+
+  "adminReportNotificationCreatedAt": "创建于",
+  "@adminReportNotificationCreatedAt": {
+    "description": "The header text for the create at time of an admin report notification"
+  },
+
+  "adminReportNotificationContextAccount": "账户",
+  "@adminReportNotificationContextAccount": {
+    "description": "The header text for the account the notification is about for an admin report notification"
+  },
+
+  "adminReportNotificationActionTaken": "已采取措施",
+  "@adminReportNotificationActionTaken": {
+    "description": "The header text for the action taken against the account for an admin report notification"
+  },
+
+  "adminReportNotificationCategory": "类别",
+  "@adminReportNotificationCategory": {
+    "description": "The header text for the category for an admin report notification"
+  },
+
+  "adminReportNotificationComment": "评论",
+  "@adminReportNotificationComment": {
+    "description": "The header text for the comment for an admin report notification"
+  },
+
+  "reportPageTitle": "报告",
+  "@reportPageTitle": {
+    "description": "The report page title"
+  },
+
+  "reportPageReportingProgress": "正在报告…",
+  "@reportPageReportingProgress": {
+    "description": "The progress text when submitting a report."
+  },
+
+  "reportPageReportSubmitted": "报告已提交",
+  "@reportPageReportSubmitted": {
+    "description": "The confirmation text after a report is submitted."
+  },
+
+  "reportPageReportFailed": "无法提交报告。",
+  "@reportPageReportFailed": {
+    "description": "The failure text after a report fails to submit."
+  },
+
+  "reportPageBackNavigation": "返回",
+  "@reportPageBackNavigation": {
+    "description": "The navigation text for going back in the report flow."
+  },
+
+  "reportPageNextNavigation": "下一步",
+  "@reportPageNextNavigation": {
+    "description": "The navigation text for going forward in the report flow."
+  },
+
+  "reportPageDoneNavigation": "完成",
+  "@reportPageDoneNavigation": {
+    "description": "The navigation text for going ending the report flow."
+  },
+
+  "reportPageSubmitNavigation": "提交报告",
+  "@reportPageSubmitNavigation": {
+    "description": "The navigation text for submitting a report in the report flow."
+  },
+
+  "reportPageTellUsAboutPost": "告诉我们该帖文的具体情况",
+  "@reportPageTellUsAboutPost": {
+    "description": "The title text for asking the user about the post they are reporting."
+  },
+
+  "reportPageTellUsAboutProfile": "告诉我们该账户的具体情况",
+  "@reportPageTellUsAboutProfile": {
+    "description": "The title text for asking the user about the profile they are reporting."
+  },
+
+  "reportPageChoose": "选择最帖切的选项",
+  "@reportPageChoose": {
+    "description": "The subtitle text asking the user to choose the best option regarding the report."
+  },
+
+  "reportPageOptionDontLikeTitle": "我不喜欢该帖文",
+  "@reportPageOptionDontLikeTitle": {
+    "description": "The option text for when the user does not like a post."
+  },
+
+  "reportPageOptionDontLikeSubtitle": "你不想看到这种内容。",
+  "@reportPageOptionDontLikeSubtitle": {
+    "description": "The option subtitle or description text for when the user does not like a post."
+  },
+
+  "reportPageOptionSpamTitle": "它是垃圾信息",
+  "@reportPageOptionSpamTitle": {
+    "description": "The option text for when the user thinks a post or profile is spam"
+  },
+
+  "reportPageOptionSpamSubtitle": "恶意链接、虚假互动或重复内容。",
+  "@reportPageOptionSpamSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is spam"
+  },
+
+  "reportPageOptionViolationTitle": "它违反了服务器规则",
+  "@reportPageOptionViolationTitle": {
+    "description": "The option text for when the user thinks a post or profile is violating server rules"
+  },
+
+  "reportPageOptionViolationSubtitle": "你确信它违反了特定规则。",
+  "@reportPageOptionViolationSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is violating server rules"
+  },
+
+  "reportPageOptionUncategorizedTitle": "其他原因",
+  "@reportPageOptionUncategorizedTitle": {
+    "description": "The option text for when the user thinks a post or profile is reportable for some other reason"
+  },
+
+  "reportPageOptionUncategorizedSubtitle": "该问题并不适用于其他类别。",
+  "@reportPageOptionUncategorizedSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is reportable for some other reason"
+  },
+
+  "reportPageContentDontLikeTitle": "不想看到该内容？",
+  "@reportPageContentDontLikeTitle": {
+    "description": "The content text for when the user has chosen the option for not liking a post."
+  },
+
+  "reportPageContentDontLikeSubtitle": "你可以通过如下选项控制可见内容。",
+  "@reportPageContentDontLikeSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for not liking a post."
+  },
+
+  "reportPageContentSpamTitle": "有其他帖文可以佐证该报告吗？",
+  "@reportPageContentSpamTitle": {
+    "description": "The content text for when the user has chosen the option for spam."
+  },
+
+  "reportPageContentSpamSubtitle": "选择所有与之相符的",
+  "@reportPageContentSpamSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for spam."
+  },
+
+  "reportPageContentViolationTitle": "被违反的是哪条规则？",
+  "@reportPageContentViolationTitle": {
+    "description": "The content text for when the user has chosen the option for violation."
+  },
+
+  "reportPageContentViolationSubtitle": "选择所有与之相符的",
+  "@reportPageContentViolationSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for violation."
+  },
+
+  "reportPageContentUncategorizedTitle": "有其他帖文可以佐证该报告吗？",
+  "@reportPageContentUncategorizedTitle": {
+    "description": "The content text for when the user has chosen the option for uncategorized reports."
+  },
+
+  "reportPageContentUncategorizedSubtitle": "选择所有与之相符的",
+  "@reportPageContentUncategorizedSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for uncategorized reports."
+  },
+
+  "reportPageCommentInputHint": "补充评论",
+  "@reportPageCommentInputHint": {
+    "description": "The hint text for the input field when a user wants to add additional comments."
+  },
+
+  "reportPageAnotherServer": "该账户来自另一实例，要发送一份匿名的报告副本吗？",
+  "@reportPageAnotherServer": {
+    "description": "The text for when the reported account is from another server."
+  },
+
+  "reportPageForwardToAccount": "转发给 @{account}",
+  "@reportPageForwardToAccount": {
+    "description": "The text, with an account placeholder, where a report can be forwarded to",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "reportPageContentCommentsTitle": "还有什么信息是你希望我们应该了解的？",
+  "@reportPageContentCommentsTitle": {
+    "description": "The content text for the last step of reporting a post or profile."
+  },
+
+  "reportPageContentCommentsSubtitle": "在审核过程中添加任何背景说明",
+  "@reportPageContentCommentsSubtitle": {
+    "description": "The content subtitle text for the last step of reporting a post or profile."
+  },
+
+  "reportPageMuteAccountAction": "隐藏 @{account}",
+  "@reportPageMuteAccountAction": {
+    "description": "The action text, with account placeholder, for muting an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "reportPageMuteAccountActionDescription": "你不会再看见该账户的帖文。该账户仍可关注你并查看你的帖文，并且不会获知自己已经被你隐藏了。",
+  "@reportPageMuteAccountActionDescription": {
+    "description": "The action description for muting an account"
+  },
+
+  "reportPageBlockAccountAction": "屏蔽 @{account}",
+  "@reportPageBlockAccountAction": {
+    "description": "The action text, with account placeholder, for blocking an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "reportPageBlockAccountActionDescription": "你不会再看见该账户的帖文。该账户也无法查看你的帖文或关注你，账户所有者因此也会知道自己被屏蔽了。",
+  "@reportPageBlockAccountActionDescription": {
+    "description": "The action description for blocking an account"
+  },
+
+  "notificationsPageTitle": "通知",
+  "@notificationsPageTitle": {
+    "description": "The title of the notifications page."
+  },
+
+  "notificationsPageAllFilter": "所有",
+  "@notificationsPageAllFilter": {
+    "description": "The filter category for all notifications."
+  },
+
+  "notificationsPageMentionFilter": "提及",
+  "@notificationsPageMentionFilter": {
+    "description": "The filter category for mention notifications."
+  },
+
+  "notificationsPageFollowedFilter": "新增粉丝",
+  "@notificationsPageFollowedFilter": {
+    "description": "The filter category for followed accounts notifications."
+  },
+
+
+  "notificationsPageBoostFilter": "转发",
+  "@notificationsPageBoostFilter": {
+    "description": "The filter category for boost notifications."
+  },
+
+  "notificationsPageFollowFilter": "关注账户",
+  "@notificationsPageFollowFilter": {
+    "description": "The filter category for follow notifications."
+  },
+
+  "notificationsPageFollowRequestFilter": "关注请求",
+  "@notificationsPageFollowRequestFilter": {
+    "description": "The filter category for follow request notifications."
+  },
+
+  "notificationsPageFavoriteFilter": "喜爱",
+  "@notificationsPageFavoriteFilter": {
+    "description": "The filter category for favorite notifications."
+  },
+
+  "notificationsPagePollFilter": "投票",
+  "@notificationsPagePollFilter": {
+    "description": "The filter category for poll notifications."
+  },
+
+  "notificationsPageEditFilter": "编辑",
+  "@notificationsPageEditFilter": {
+    "description": "The filter category for edit notifications."
+  },
+
+  "notificationsPageAdminSignUpFilter": "管理员注册",
+  "@notificationsPageAdminSignUpFilter": {
+    "description": "The filter category for admin sign up notifications."
+  },
+
+  "notificationsPageAdminReportFilter": "管理员报告",
+  "@notificationsPageAdminReportFilter": {
+    "description": "The filter category for admin report notifications."
+  },
+
+  "notificationsPageErrorFailedToGetNewPage": "获取新页面时发生错误。",
+  "@notificationsPageErrorFailedToGetNewPage": {
+    "description": "Error message when the client fails to fetch new notification content."
+  },
+
+  "notificationsPageErrorRetry": "重试",
+  "@notificationsPageErrorRetry": {
+    "description": "Retry action on notification page fetch failure."
+  },
+
+  "notificationsPageMarkingAsReadProgress": "正在标记已读",
+  "@notificationsPageMarkingAsReadProgress": {
+    "description": "Progress text when the notifications page is marked as read."
+  },
+
+  "notificationsPageMarkingAsReadComplete": "通知已标记为已读。",
+  "@notificationsPageMarkingAsReadComplete": {
+    "description": "Completed text when the notifications page is marked as read."
+  },
+
+  "notificationsPageMarkingAsReadFailure": "无法标记通知为已读。",
+  "@notificationsPageMarkingAsReadFailure": {
+    "description": "Failure text when the notifications page is being marked as read."
+  },
+
+  "notificationsPageGroupedNotificationContext": "{count} 人",
+  "@notificationsPageGroupedNotificationContext": {
+    "description": "The notification text which states how many people also favorited, boosted, or followed the user.",
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "example": "3"
+      }
+    }
+  },
+
+  "notificationsPageFollowRequestApproval": "通过关注者请求",
+  "@notificationsPageFollowRequestApproval": {
+    "description": "Approval text for a pending follower request."
+  },
+
+  "notificationsPageFollowRequestRejection": "拒绝关注者请求",
+  "@notificationsPageFollowRequestRejection": {
+    "description": "Rejection text for a pending follower request."
+  },
+
+  "notificationsPageFollowedYou": "关注了你",
+  "@notificationsPageFollowedYou": {
+    "description": "The notification text when someone new followed the user."
+  },
+
+  "notificationsPageMentionedYou": "提到了你",
+  "@notificationsPageMentionedYou": {
+    "description": "The notification text when someone mentioned the user."
+  },
+
+  "notificationsPageBoostedYou": "转发了你的帖文",
+  "@notificationsPageBoostedYou": {
+    "description": "The notification text when someone boosted the users post."
+  },
+
+  "notificationsPageFavoritedYou": "对你的帖文表示喜爱",
+  "@notificationsPageFavoritedYou": {
+    "description": "The notification text when someone favorited the users post."
+  },
+
+  "notificationsPageFollowedUserPosted": "发布了帖文",
+  "@notificationsPageFollowedUserPosted": {
+    "description": "The notification text when someone the user follows posts."
+  },
+
+  "notificationsPageRequestedToFollowYou": "请求关注你",
+  "@notificationsPageRequestedToFollowYou": {
+    "description": "The notification text when someone requests to follow the user."
+  },
+
+  "notificationsPageEndedTheirPoll": "结束了投票",
+  "@notificationsPageEndedTheirPoll": {
+    "description": "The notification text when a poll a user has voted on has ended."
+  },
+
+  "notificationsPageUpdatedTheirPost": "更新了投票",
+  "@notificationsPageUpdatedTheirPost": {
+    "description": "The notification text when a post the user has interacted with has been updated."
+  },
+
+  "notificationsPageUserSignedUp": "已注册",
+  "@notificationsPageUserSignedUp": {
+    "description": "The notification text when a new user signs up on the server the user is an admin on."
+  },
+
+  "notificationsPageUserReported": "报告了一则帖文",
+  "@notificationsPageUserReported": {
+    "description": "The notification text when another user reports a post on the server the user is an admin on."
+  },
+
+  "commonAccountSwitchProgress": "正在切换至 @{account}",
+  "@commonAccountSwitchProgress": {
+    "description": "The action text, with account placeholder, for switching to an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "commonActionHiddenByUser": "被用户隐藏",
+  "@commonActionHiddenByUser": {
+    "description": "The text displayed when a user hides a post intentionally."
+  },
+
+  "commonActionCopiedPostToClipboard": "已复制帖文链接到剪帖板",
+  "@commonActionCopiedPostToClipboard": {
+    "description": "The text displayed when a user copies a post to the clipboard."
+  },
+
+  "commonActionCopiedTrunksLinkToClipboard": "已复制 trunks 链接到剪帖板",
+  "@commonActionCopiedTrunksLinkToClipboard": {
+    "description": "The text displayed when a user copies a trunks link of a post to the clipboard."
+  },
+
+  "commonActionBoostProgress": "正在转发…",
+  "@commonActionBoostProgress": {
+    "description": "The progress text displayed when a user is boosting a post."
+  },
+  "commonActionBoostSuccess": "已转发 @{account} 的帖文",
+  "@commonActionBoostSuccess": {
+      "description": "The action text, with account placeholder, for boosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionBoostFailure": "无法转发 @{account} 的帖文",
+  "@commonActionBoostFailure": {
+      "description": "The action text, with account placeholder, for boosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnboostProgress": "正在取消转发…",
+  "@commonActionUnboostProgress": {
+    "description": "The progress text displayed when a user is unboosting a post."
+  },
+  "commonActionUnboostSuccess": "已取消转发 @{account} 的帖文",
+  "@commonActionUnboostSuccess": {
+      "description": "The action text, with account placeholder, for unboosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnboostFailure": "无法取消转发 @{account} 的帖文",
+  "@commonActionUnboostFailure": {
+      "description": "The action text, with account placeholder, for unboosting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionFavoriteProgress": "正在标记为喜爱…",
+  "@commonActionFavoriteProgress": {
+    "description": "The progress text displayed when a user is favoriting a post."
+  },
+  "commonActionFavoriteSuccess": "已对 @{account} 的帖文表示喜爱",
+  "@commonActionFavoriteSuccess": {
+      "description": "The action text, with account placeholder, for favoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionFavoriteFailure": "无法对 @{account} 的帖文表示喜爱",
+  "@commonActionFavoriteFailure": {
+      "description": "The action text, with account placeholder, for favoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnfavoriteProgress": "取消喜爱…",
+  "@commonActionUnfavoriteProgress": {
+    "description": "The progress text displayed when a user is unfavoriting a post."
+  },
+  "commonActionUnfavoriteSuccess": "已取消对 @{account} 帖文的喜爱",
+  "@commonActionUnfavoriteSuccess": {
+      "description": "The action text, with account placeholder, for unfavoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnfavoriteFailure": "无法取消喜爱 @{account} 的帖文",
+  "@commonActionUnfavoriteFailure": {
+      "description": "The action text, with account placeholder, for unfavoriting a post from an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionMute": "隐藏",
+  "@commonActionMute": {
+    "description": "The text displayed for the mute action."
+  },
+  "commonActionMuteProgress": "正在隐藏…",
+  "@commonActionMuteProgress": {
+    "description": "The progress text displayed for the mute action."
+  },
+  "commonActionMuteFailure": "无法隐藏 @{account}",
+  "@commonActionMuteFailure": {
+      "description": "The action text, with account placeholder, for muting an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnmuteProgress": "正在取消隐藏…",
+  "@commonActionUnmuteProgress": {
+    "description": "The progress text displayed for the unmute action."
+  },
+  "commonActionUnmuteSuccess": "已取消隐藏 @{account}",
+  "@commonActionUnmuteSuccess": {
+      "description": "The action text, with account placeholder, for unmuting an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnmuteFailure": "无法取消隐藏 @{account} ",
+  "@commonActionUnmuteFailure": {
+      "description": "The action text, with account placeholder, for unmuting an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionMuteAccountPrompt": "隐藏账户？",
+  "@commonActionMuteAccountPrompt": {
+    "description": "The text displayed for the mute account prompt."
+  },
+  "commonActionMuteAccountPromptIndefiniteOption": "永久隐藏",
+  "@commonActionMuteAccountPromptIndefiniteOption": {
+    "description": "The text displayed for the indefinite option in the mute prompt."
+  },
+  "commonActionMuteAccountPromptMinutesOption": "隐藏 {time} 分钟",
+  "@commonActionMuteAccountPromptMinutesOption": {
+    "description": "The text displayed for the minutes based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "5"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptHoursOption": "隐藏 {time} 小时",
+  "@commonActionMuteAccountPromptHoursOption": {
+    "description": "The text displayed for the hour based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptWeeksOption": "隐藏 {time} 周",
+  "@commonActionMuteAccountPromptWeeksOption": {
+    "description": "The text displayed for the week based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptIndefiniteOptionSuccess": "已无限期隐藏 @{account}",
+  "@commonActionMuteAccountPromptIndefiniteOptionSuccess": {
+    "description": "The text displayed for the indefinite based time mute.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptTimeOptionSuccess": "已隐藏 @{account} ",
+  "@commonActionMuteAccountPromptTimeOptionSuccess": {
+    "description": "The text displayed for the time based time mute.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+
+  "commonActionMuteConversationProgress": "正在隐藏对话…",
+  "@commonActionMuteConversationProgress": {
+    "description": "The progress text displayed when a user is muting a conversation."
+  },
+  "commonActionMuteConversationSuccess": "已隐藏对话",
+  "@commonActionMuteConversationSuccess": {
+    "description": "The action text, with account placeholder, for muting a conversation."
+  },
+  "commonActionMuteConversationFailure": "无法隐藏对话",
+  "@commonActionMuteConversationFailure": {
+    "description": "The action text, with account placeholder, for muting a conversation."
+  },
+
+  "commonActionUnmuteConversationProgress": "正在隐藏对话…",
+  "@commonActionUnmuteConversationProgress": {
+    "description": "The progress text displayed when a user is muting a conversation."
+  },
+  "commonActionUnmuteConversationSuccess": "已隐藏对话",
+  "@commonActionUnmuteConversationSuccess": {
+    "description": "The action text, with account placeholder, for muting a conversation"
+  },
+  "commonActionUnmuteConversationFailure": "无法隐藏对话",
+  "@commonActionUnmuteConversationFailure": {
+    "description": "The action text, with account placeholder, for muting a conversation"
+  },
+
+  "commonActionBlockPrompt": "屏蔽账户？",
+  "@commonActionBlockPrompt": {
+    "description": "The text displayed for the block account prompt."
+  },
+  "commonActionBlockPromptAreYouSure": "你确定要屏蔽 @{account} 吗？",
+  "@commonActionBlockPromptAreYouSure": {
+    "description": "The text displayed for the block account prompt confirmation.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionBlockPromptAction": "屏蔽",
+  "@commonActionBlockPromptAction": {
+    "description": "The text displayed for block action in the prompt."
+  },
+
+  "commonActionBlockingProgress": "正在屏蔽…",
+  "@commonActionBlockingProgress": {
+    "description": "The progress text displayed for the block action."
+  },
+  "commonActionBlockingSuccess": "正在屏蔽 @{account}",
+  "@commonActionBlockingSuccess": {
+      "description": "The action text, with account placeholder, for blocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionBlockingFailure": "无法屏蔽 @{account}",
+  "@commonActionBlockingFailure": {
+      "description": "The action text, with account placeholder, for blocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnblockingProgress": "正在取消屏蔽…",
+  "@commonActionUnblockingProgress": {
+    "description": "The progress text displayed for the unblock action."
+  },
+  "commonActionUnblockingSuccess": "正在取消屏蔽 @{account}",
+  "@commonActionUnblockingSuccess": {
+      "description": "The action text, with account placeholder, for unblocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnblockingFailure": "无法解除屏蔽 @{account}",
+  "@commonActionUnblockingFailure": {
+      "description": "The action text, with account placeholder, for unblocking an account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionBlockServerPrompt": "屏蔽实例？",
+  "@commonActionBlockServerPrompt": {
+    "description": "The text displayed for the block server prompt."
+  },
+  "commonActionBlockServerPromptAreYouSure": "你确定要屏蔽 {server} 吗？该操作也将移除账户下来自该域名的所有关注者。",
+  "@commonActionBlockServerPromptAreYouSure": {
+    "description": "The text displayed for the block account server confirmation.",
+    "placeholders": {
+      "server": {
+        "type": "String",
+        "example": "mstdn.social"
+      }
+    }
+  },
+  "commonActionBlockServerPromptAction": "屏蔽",
+  "@commonActionBlockServerPromptAction": {
+    "description": "The text displayed for block action in the prompt."
+  },
+
+  "commonActionDeletePrompt": "删除帖文？",
+  "@commonActionDeletePrompt": {
+    "description": "The text displayed for the delete post prompt."
+  },
+  "commonActionDeletePromptAreYouSure": "你确定要删除该帖文吗？",
+  "@commonActionDeletePromptAreYouSure": {
+    "description": "The text displayed for the post deletion confirmation."
+  },
+  "commonActionDeletePromptAction": "删除",
+  "@commonActionDeletePromptAction": {
+    "description": "The text displayed for delete post action in the prompt."
+  },
+
+  "commonActionDeletingProgress": "正在删除…",
+  "@commonActionDeletingProgress": {
+    "description": "The progress text displayed when a user is deleting a post."
+  },
+  "commonActionDeletingSuccess": "已删除帖文",
+  "@commonActionDeletingSuccess": {
+    "description": "The success text for deleting a post."
+  },
+  "commonActionDeletingFailure": "无法删除帖文",
+  "@commonActionDeletingFailure": {
+    "description": "The failure text for deleting a post."
+  },
+
+  "commonActionPinningProgress": "正在钉选…",
+  "@commonActionPinningProgress": {
+    "description": "The progress text displayed when a user is pinning a post."
+  },
+  "commonActionPinningSuccess": "已钉选帖文",
+  "@commonActionPinningSuccess": {
+    "description": "The success text for pinning a post."
+  },
+  "commonActionPinningFailure": "无法钉选帖文",
+  "@commonActionPinningFailure": {
+    "description": "The failure text for pinning a post."
+  },
+
+  "commonActionUnpinningProgress": "正在取消钉选…",
+  "@commonActionUnpinningProgress": {
+    "description": "The progress text displayed when a user is unpinning a post."
+  },
+  "commonActionUnpinningSuccess": "已取消钉选帖文",
+  "@commonActionUnpinningSuccess": {
+    "description": "The success text for unpinning a post."
+  },
+  "commonActionUnpinningFailure": "无法取消钉选帖文",
+  "@commonActionUnpinningFailure": {
+    "description": "The failure text for unpinning a post."
+  },
+
+  "commonActionUnbookmarkingProgress": "正在取消收藏…",
+  "@commonActionUnbookmarkingProgress": {
+    "description": "The progress text displayed when a user is unbookmarking a post."
+  },
+  "commonActionUnbookmarkingSuccess": "已取消收藏帖文",
+  "@commonActionUnbookmarkingSuccess": {
+    "description": "The success text for unbookmarking a post."
+  },
+  "commonActionUnbookmarkingFailure": "无法取消收藏帖文",
+  "@commonActionUnbookmarkingFailure": {
+    "description": "The failure text for unbookmarking a post."
+  },
+
+  "commonActionBookmarkingProgress": "正在收藏…",
+  "@commonActionBookmarkingProgress": {
+    "description": "The progress text displayed when a user is bookmarking a post."
+  },
+  "commonActionBookmarkingSuccess": "已收藏帖文",
+  "@commonActionBookmarkingSuccess": {
+    "description": "The success text for bookmarking a post."
+  },
+  "commonActionBookmarkingFailure": "无法收藏帖文",
+  "@commonActionBookmarkingFailure": {
+    "description": "The failure text for bookmarking a post."
+  },
+
+  "commonActionApprovingProgress": "正在批准…",
+  "@commonActionApprovingProgress": {
+    "description": "The progress text displayed for the follow request approving action."
+  },
+  "commonActionApprovingSuccess": "已批准 @{account}",
+  "@commonActionApprovingSuccess": {
+      "description": "The action text, with account placeholder, for approving a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionApprovingFailure": "无法批准 @{account}",
+  "@commonActionApprovingFailure": {
+      "description": "The action text, with account placeholder, for approving a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionRejectingProgress": "正在拒绝…",
+  "@commonActionRejectingProgress": {
+    "description": "The progress text displayed for the follow request rejecting action."
+  },
+  "commonActionRejectingSuccess": "已拒绝 @{account}",
+  "@commonActionRejectingSuccess": {
+      "description": "The action text, with account placeholder, for rejecting a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionRejectingFailure": "无法拒绝 @{account}",
+  "@commonActionRejectingFailure": {
+      "description": "The action text, with account placeholder, for rejecting a follower account.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionDeleteFilterPrompt": "删除 ${filter} 过滤器吗？",
+  "@commonActionDeleteFilterPrompt": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeleteFilterPromptAreYouSure": "你确定要删除 ${filter} 过滤器吗？",
+  "@commonActionDeleteFilterPromptAreYouSure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeleteFilterAction": "删除",
+  "@commonActionDeleteFilterAction": {
+    "description": "The action text displayed for the delete filter action."
+  },
+
+  "commonActionDeletingFilterProgress": "正在删除 ${filter} 过滤器…",
+  "@commonActionDeletingFilterProgress": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeletingFilterSuccess": "已删除 ${filter} 过滤器",
+  "@commonActionDeletingFilterSuccess": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionDeletingFilterFailure": "无法删除 ${filter} 过滤器",
+  "@commonActionDeletingFilterFailure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+
+  "commonActionCreatingFilterProgress": "正在创建 ${filter} 过滤器…",
+  "@commonActionCreatingFilterProgress": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionCreatingFilterSuccess": "已创建 ${filter} 过滤器",
+  "@commonActionCreatingFilterSuccess": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionCreatingFilterFailure": "无法创建 ${filter} 过滤器",
+  "@commonActionCreatingFilterFailure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+
+  "commonActionUpdatingFilterProgress": "正在更新 ${filter} 过滤器…",
+  "@commonActionUpdatingFilterProgress": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionUpdatingFilterSuccess": "已更新 ${filter} 过滤器",
+  "@commonActionUpdatingFilterSuccess": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+  "commonActionUpdatingFilterFailure": "无法更新 ${filter} 过滤器",
+  "@commonActionUpdatingFilterFailure": {
+      "description": "Name of a filter",
+      "placeholders": {
+        "filter": {
+          "type": "String",
+          "example": "Cat Filter"
+        }
+      }
+  },
+
+  "commonActionPublishingProgress": "正在发布帖文…",
+  "@commonActionPublishingProgress": {
+    "description": "The progress text displayed when a user is publishing a post."
+  },
+  "commonActionPublishingSuccess": "已发布帖文",
+  "@commonActionPublishingSuccess": {
+    "description": "The success text for publishing a post."
+  },
+  "commonActionPublishingFailure": "无法发布帖文",
+  "@commonActionPublishingFailure": {
+    "description": "The failure text for publishing a post."
+  },
+
+  "commonActionSchedulingProgress": "尝试定时发送帖文…",
+  "@commonActionSchedulingProgress": {
+    "description": "The progress text displayed when a user is scheduling a post."
+  },
+  "commonActionSchedulingSuccess": "已设置帖文定时",
+  "@commonActionSchedulingSuccess": {
+    "description": "The success text for scheduling a post."
+  },
+  "commonActionSchedulingFailure": "无法设置定时帖文",
+  "@commonActionSchedulingFailure": {
+    "description": "The failure text for scheduling a post."
+  },
+
+  "commonActionUpdatingProgress": "正在更新帖文…",
+  "@commonActionUpdatingProgress": {
+    "description": "The progress text displayed when a user is updating a post."
+  },
+  "commonActionUpdatingSuccess": "已更新帖文",
+  "@commonActionUpdatingSuccess": {
+    "description": "The success text for updating a post."
+  },
+
+  "commonActionFollowingProgress": "正在关注…",
+  "@commonActionFollowingProgress": {
+    "description": "The progress text displayed for the following action."
+  },
+  "commonActionFollowingSuccess": "已关注 {account}",
+  "@commonActionFollowingSuccess": {
+      "description": "The action text, with account placeholder, for following an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionFollowingFailure": "无法关注 {account}",
+  "@commonActionFollowingFailure": {
+      "description": "The action text, with account placeholder, for following an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionUnfollowingProgress": "正在取消关注…",
+  "@commonActionUnfollowingProgress": {
+    "description": "The progress text displayed for the unfollowing action."
+  },
+  "commonActionUnfollowingSuccess": "已取消关注 {account}",
+  "@commonActionUnfollowingSuccess": {
+      "description": "The action text, with account placeholder, for unfollowing an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionUnfollowingFailure": "无法取消关注 {account}",
+  "@commonActionUnfollowingFailure": {
+      "description": "The action text, with account placeholder, for unfollowing an account or tag.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionAddingProgress": "正在添加…",
+  "@commonActionAddingProgress": {
+    "description": "The progress text displayed for the adding an account to a list action."
+  },
+  "commonActionAddingSuccess": "已添加 @{account}",
+  "@commonActionAddingSuccess": {
+      "description": "The action text, with account placeholder, for adding an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionAddingFailure": "无法添加账户 @{account}",
+  "@commonActionAddingFailure": {
+      "description": "The action text, with account placeholder, for adding an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionRemovingProgress": "正在移除…",
+  "@commonActionRemovingProgress": {
+    "description": "The progress text displayed for the removing an account to a list action."
+  },
+  "commonActionRemovingSuccess": "已移除 @{account}",
+  "@commonActionRemovingSuccess": {
+      "description": "The action text, with account placeholder, for removing an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+  "commonActionRemovingFailure": "无法移除 @{account}",
+  "@commonActionRemovingFailure": {
+      "description": "The action text, with account placeholder, for removing an account to a list.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "commonActionDeleteListPrompt": "删除列表？",
+  "@commonActionDeleteListPrompt": {
+    "description": "The text displayed for the delete list prompt."
+  },
+  "commonActionDeleteListPromptAreYouSure": "你确定要删除该列表吗？",
+  "@commonActionDeleteListPromptAreYouSure": {
+    "description": "The text displayed for the delete list prompt confirmation."
+  },
+  "commonActionDeleteListPromptAction": "删除",
+  "@commonActionDeleteListPromptAction": {
+    "description": "The text displayed for delete action in the prompt."
+  },
+
+  "commonActionDeleteListProgress": "正在删除…",
+  "@commonActionDeleteListProgress": {
+    "description": "The progress text displayed for the delete list action."
+  },
+  "commonActionDeleteListSuccess": "Deleted {list}",
+  "@commonActionDeleteListSuccess": {
+      "description": "The action text, with account placeholder, for deleting a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+  "commonActionDeleteListFailure": "无法删除 {list}",
+  "@commonActionDeleteListFailure": {
+      "description": "The action text, with account placeholder, for deleting a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+
+  "commonActionCreateListProgress": "正在创建…",
+  "@commonActionCreateListProgress": {
+    "description": "The progress text displayed for the create list action."
+  },
+  "commonActionCreateListSuccess": "已创建 {list}",
+  "@commonActionCreateListSuccess": {
+      "description": "The action text, with account placeholder, for creating a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+  "commonActionCreateListFailure": "无法创建 {list}",
+  "@commonActionCreateListFailure": {
+      "description": "The action text, with account placeholder, for creating a list.",
+      "placeholders": {
+        "list": {
+          "type": "String",
+          "example": "list one"
+        }
+      }
+  },
+
+  "commonActionVoteProgress": "正在投票…",
+  "@commonActionVoteProgress": {
+    "description": "The text displayed for the voting progress."
+  },
+  "commonActionVoteSuccess": "已投票",
+  "@commonActionVoteSuccess": {
+    "description": "The text displayed for the voting success."
+  },
+  "commonActionVoteFailure": "无法投票",
+  "@commonActionVoteFailure": {
+    "description": "The text displayed for the voting failure."
+  },
+
+  "commonActionTranslatingProgress": "正在翻译…",
+  "@commonActionTranslatingProgress": {
+    "description": "The text displayed for the translating progress."
+  },
+  "commonActionTranslatingSuccess": "已翻译",
+  "@commonActionTranslatingSuccess": {
+    "description": "The text displayed for the translating success."
+  },
+  "commonActionTranslatingFailure": "无法翻译。请向你的实例管理员报告翻译问题",
+  "@commonActionTranslatingFailure": {
+    "description": "The text displayed for the translating failure."
+  },
+
+  "commonActionDeleteScheduledPostPrompt": "删除定时帖文？",
+  "@commonActionDeleteScheduledPostPrompt": {
+    "description": "The text displayed for the scheduled post delete prompt."
+  },
+  "commonActionDeleteScheduledPostPromptAreYouSure": "你确定要删除该删除定时帖文吗？",
+  "@commonActionDeleteScheduledPostPromptAreYouSure": {
+    "description": "The text displayed for the scheduled post delete confirmation."
+  },
+  "commonActionDeleteScheduledPostPromptAction": "删除",
+  "@commonActionDeleteScheduledPostPromptAction": {
+    "description": "The text displayed for delete action in the prompt."
+  },
+
+  "commonActionDeleteScheduledPostProgress": "正在删除定时帖文…",
+  "@commonActionDeleteScheduledPostProgress": {
+    "description": "The text displayed for the deleting scheduled post progress."
+  },
+  "commonActionDeleteScheduledPostSuccess": "已删除定时帖文",
+  "@commonActionDeleteScheduledPostSuccess": {
+    "description": "The text displayed for the deleting scheduled post success."
+  },
+  "commonActionDeleteScheduledPostFailure": "无法删除定时帖文",
+  "@commonActionDeleteScheduledPostFailure": {
+    "description": "The text displayed for the deleting scheduled post failure."
+  },
+
+  "commonNavigateHomeTooltip": "前往主页",
+  "@commonNavigateHomeTooltip": {
+    "description": "The home button tooltip text."
+  },
+
+  "errorPageTitle": "错误",
+  "@errorPageTitle": {
+    "description": "The title of the error page."
+  },
+
+  "errorPageContent": "啊哦，遇到了一些问题。",
+  "@errorPageContent": {
+    "description": "The content of the error page."
+  },
+
+  "errorPageAction": "返回",
+  "@errorPageAction": {
+    "description": "The action of the error page button."
+  },
+
+  "pollExpirationNever": "从不",
+  "@pollExpirationNever": {
+    "description": "The never poll expiration choice."
+  },
+
+  "listFirstPageError": "无法加载内容",
+  "@listFirstPageError": {
+    "description": "Page text when list fails to load content at first."
+  },
+
+  "listFirstPageErrorAction": "重试",
+  "@listFirstPageErrorAction": {
+    "description": "Page action text when list fails to load content at first."
+  },
+
+  "listFirstPageNoItems": "找不到内容",
+  "@listFirstPageNoItems": {
+    "description": "Page text when list has no content."
+  },
+
+  "listFirstPageNoItemsAction": "刷新",
+  "@listFirstPageNoItemsAction": {
+    "description": "Page action text when list has no content."
+  },
+
+  "listFirstPageNoMoreItems": "没有更多内容",
+  "@listFirstPageNoMoreItems": {
+    "description": "Page text when list has no more content."
+  },
+
+  "visibilityDescriptionPublic": "对所有人可见，并且会出现在公共时间线",
+  "@visibilityDescriptionPublic": {
+    "description": "The description of the public visibility setting."
+  },
+
+  "visibilityDescriptionPublic": "对所有人可见，并且会出现在公共时间线",
+  "@visibilityDescriptionPublic": {
+    "description": "The description of the public visibility setting."
+  },
+
+  "visibilityDescriptionUnlisted": "对所有人可见，但不会出现在公共时间线中。",
+  "@visibilityDescriptionUnlisted": {
+    "description": "The description of the unlisted visibility setting."
+  },
+
+  "visibilityDescriptionPrivate": "仅对关注者及任何提到的用户可见。",
+  "@visibilityDescriptionPrivate": {
+    "description": "The description of the private visibility setting."
+  },
+
+  "visibilityDescriptionDirect": "仅对提到的用户可见。",
+  "@visibilityDescriptionDirect": {
+    "description": "The description of the direct visibility setting."
+  },
+
+  "loginPageTitle": "登录",
+  "@loginPageTitle": {
+    "description": "The title of the login page."
+  },
+
+  "readMoreTextButton": "阅读更多",
+  "@readMoreTextButton": {
+    "description": "The text button to expand long text to read more."
+  },
+
+  "pollVoteAction": "投票",
+  "@pollVoteAction": {
+    "description": "The action to vote in a poll."
+  },
+
+  "pollExpirationNever": "从不关闭",
+  "@pollExpirationNever": {
+    "description": "The poll never closes, never expires."
+  },
+
+  "pollExpirationExpired": "已关闭",
+  "@pollExpirationExpired": {
+    "description": "The poll is closed"
+  },
+
+  "pollExpirationClosesIn": "关闭",
+  "@pollExpirationClosesIn": {
+    "description": "The prefix for duration of when a poll will close."
+  },
+
+  "pollEnterTextHereHint": "在这里输入投票选项…",
+  "@pollEnterTextHereHint": {
+    "description": "The hint for entering a poll option."
+  },
+
+  "postResolverProgress": "正在解析帖文…",
+  "@postResolverProgress": {
+    "description": "The progress text for resolving a non local (on the users server) post."
+  },
+
+  "accountResolverProgress": "正在解析账户…",
+  "@accountResolverProgress": {
+    "description": "The progress text for resolving a non local (on the users server) account."
+  },
+
+  "accountResolverFailure": "无法解析账户。",
+  "@accountResolverFailure": {
+    "description": "The failure text for resolving a non local (on the users server) account."
+  },
+
+  "composePageSaveDraftPromptTitle": "保存草稿？",
+  "@composePageSaveDraftPromptTitle": {
+    "description": "The compose page save draft prompt title."
+  },
+
+  "composePageSaveDraftPromptContent": "你想保存你当前的草稿吗？",
+  "@composePageSaveDraftPromptContent": {
+    "description": "The compose page save draft prompt content."
+  },
+
+  "composePageSaveDraftPromptDiscard": "不保存并退出",
+  "@composePageSaveDraftPromptDiscard": {
+    "description": "The compose page save draft prompt discard option."
+  },
+
+  "composePageSaveDraftPromptSave": "保存并退出",
+  "@composePageSaveDraftPromptSave": {
+    "description": "The compose page save draft prompt save option."
+  },
+
+  "composePageExit": "退出创作",
+  "@composePageExit": {
+    "description": "The compose page exit tooltip."
+  },
+
+  "composePageTitleCreate": "创作",
+  "@composePageTitleCreate": {
+    "description": "The compose page title when creating a new post."
+  },
+
+  "composePageTitleEdit": "编辑",
+  "@composePageTitleEdit": {
+    "description": "The compose page title when editing a post."
+  },
+
+  "composePageLanguageTooltip": "帖文语言",
+  "@composePageLanguageTooltip": {
+    "description": "The compose page language button tooltip."
+  },
+
+  "composePageLanguageLoadFailure": "无法加载语言",
+  "@composePageLanguageLoadFailure": {
+    "description": "The compose page language button loading failure."
+  },
+
+  "composePageDrafts": "草稿箱",
+  "@composePageDrafts": {
+    "description": "The compose drafts button."
+  },
+
+  "composePageDraftsEmpty": "你没有草稿",
+  "@composePageDraftsEmpty": {
+    "description": "The compose drafts empty content."
+  },
+
+  "composePageScheduledPosts": "已定时帖文",
+  "@composePageScheduledPosts": {
+    "description": "The compose scheduled posts button."
+  },
+
+  "composePageScheduledPostsProgress": "正在加载已定时帖文…",
+  "@composePageScheduledPostsProgress": {
+    "description": "The compose scheduled posts progress button for loading."
+  },
+
+  "composePageScheduledPostsEmpty": "你没有已定时的帖文。长按发布按钮来设置一条新的定时帖文。",
+  "@composePageScheduledPostsEmpty": {
+    "description": "The compose scheduled posts empty content."
+  },
+
+  "composePageScheduledPostsCancelTooltip": "取消帖文定时",
+  "@composePageScheduledPostsCancelTooltip": {
+    "description": "The compose scheduled posts cancel action tooltip."
+  },
+
+  "composePageScheduledPostsFailure": "无法加载已定时的帖文",
+  "@composePageScheduledPostsFailure": {
+    "description": "The compose scheduled posts loading failure."
+  },
+
+  "composePageScheduledFiveMinuteWarning": "定时发布的帖文至少必须设置在 5 分钟后的未来",
+  "@composePageScheduledFiveMinuteWarning": {
+    "description": "The compose scheduled posts warning for notifying that posts need to be at least 5 minutes into the future."
+  },
+
+  "composePageFormattingHelp": "格式化帮助",
+  "@composePageFormattingHelp": {
+    "description": "The compose formatting help button."
+  },
+
+  "composePageAttachCopiedImageSuggestion": "贴上已复制的图像",
+  "@composePageAttachCopiedImageSuggestion": {
+    "description": "Suggestion shown when there is a copied image in the clipboard."
+  },
+
+  "composePageWriteTab": "编辑",
+  "@composePageWriteTab": {
+    "description": "The compose page write tab."
+  },
+
+  "composePagePreviewTab": "预览",
+  "@composePagePreviewTab": {
+    "description": "The compose page preview tab."
+  },
+
+  "composePageContentLabelCategoryTitle": "内容标记",
+  "@composePageContentLabelCategoryTitle": {
+    "description": "The compose page content label category title."
+  },
+
+  "composePageContentLabelCategoryDescription": "内容标记会将你的帖文隐藏在标记后方。你可以将它用在警告、剧透、敏感话题等任何不想引人注目的内容上。",
+  "@composePageContentLabelCategoryDescription": {
+    "description": "The compose page content label category description."
+  },
+
+  "composePageContentLabelHint": "输入内容标记",
+  "@composePageContentLabelHint": {
+    "description": "The compose page content label input hint text"
+  },
+
+  "composePageReplyingToHeader": "正在回复给 @{account}...",
+  "@composePageReplyingToHeader": {
+      "description": "The header for when the user is replying to another post.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "composePageLabelMediaAsSensitive": "标记媒体为敏感内容？",
+  "@composePageLabelMediaAsSensitive": {
+    "description": "The compose page checkbox for marking attached media as sensitive."
+  },
+
+  "composePageAttachmentsTooltip": "附件",
+  "@composePageAttachmentsTooltip": {
+    "description": "The compose page attachments button tooltip."
+  },
+
+  "composePagePollsTooltip": "投票",
+  "@composePagePollsTooltip": {
+    "description": "The compose page polls button tooltip."
+  },
+
+  "composePageEmojisTooltip": "Emoji 表情",
+  "@composePageEmojisTooltip": {
+    "description": "The compose page emojis button tooltip."
+  },
+
+  "composePageCWTooltip": "内容标记",
+  "@composePageCWTooltip": {
+    "description": "The compose page content label button tooltip."
+  },
+
+  "composePageVisibilityTooltip": "帖文可见性",
+  "@composePageVisibilityTooltip": {
+    "description": "The compose page post visibility button tooltip."
+  },
+
+  "composePagePublish": "发布",
+  "@composePagePublish": {
+    "description": "The compose page publish button."
+  },
+
+  "composePageSchedule": "定时",
+  "@composePageSchedule": {
+    "description": "The compose page schedule button."
+  },
+
+  "composePageUpdate": "更新",
+  "@composePageUpdate": {
+    "description": "The compose page update button."
+  },
+
+  "composePageSchedulingFooter": "已定时",
+  "@composePageSchedulingFooter": {
+    "description": "The compose page scheduled footer."
+  },
+
+  "composePageAttachmentVideo": "视频",
+  "@composePageAttachmentVideo": {
+    "description": "The compose page video attachment button."
+  },
+
+  "composePageAttachmentImage": "图像",
+  "@composePageAttachmentImage": {
+    "description": "The compose page image attachment button."
+  },
+
+  "composePagePollOptionAdd": "添加选项",
+  "@composePagePollOptionAdd": {
+    "description": "The compose page poll add option."
+  },
+
+  "composePageContentPollOptionsCategoryTitle": "选项",
+  "@composePageContentPollOptionsCategoryTitle": {
+    "description": "The compose page poll options category title."
+  },
+
+  "composePageContentPollOptionsCategoryDescription": "以下是要在你的投票展示的选项。",
+  "@composePageContentPollOptionsCategoryDescription": {
+    "description": "The compose page poll options category description."
+  },
+
+  "composePagePollMultipleChoice": "多选",
+  "@composePagePollMultipleChoice": {
+    "description": "The compose page checkbox for marking a poll as multiple choice."
+  },
+
+  "composePageContentExpirationCategoryTitle": "有效期",
+  "@composePageContentExpirationCategoryTitle": {
+    "description": "The compose page poll expiration category title."
+  },
+
+  "composePageContentExpirationCategoryDescription": "你的投票何时失效。",
+  "@composePageContentExpirationCategoryDescription": {
+    "description": "The compose page poll expiration category description."
+  },
+
+  "composePagePollHeader": "投票",
+  "@composePagePollHeader": {
+    "description": "The compose page poll prompt title."
+  },
+
+  "composePageSuggestions": "建议",
+  "@composePageSuggestions": {
+    "description": "The compose page suggestions header."
+  },
+
+  "composePageAllAccountsSuggestion": "所有账户",
+  "@composePageAllAccountsSuggestion": {
+    "description": "The compose page all accounts suggestion."
+  },
+
+  "composePageTagAllSuggestion": "标记全部",
+  "@composePageTagAllSuggestion": {
+    "description": "The compose page tag all suggestion."
+  },
+
+  "composePageInputHint": "你在想什么？",
+  "@composePageInputHint": {
+    "description": "The compose page input hint."
+  },
+
+  "composePageAttachmentFailure": "无法插入附件",
+  "@composePageAttachmentFailure": {
+    "description": "The compose page attachment failure."
+  },
+
+  "composePageAttachmentUploadFailure": "无法上传附件",
+  "@composePageAttachmentUploadFailure": {
+    "description": "The compose page attachment upload failure."
+  },
+
+  "composePageScheduleFailure": "无法设置消息定时，请将设定时间调整为至少未来 5 分钟以后。",
+  "@composePageScheduleFailure": {
+    "description": "The compose page schedule failure."
+  },
+
+  "composePageTooLongFailure": "无法发送信息。文本过长。",
+  "@composePageTooLongFailure": {
+    "description": "The compose page too long failure."
+  },
+
+  "composePageMediaOptionsPromptTitle": "媒体选项",
+  "@composePageMediaOptionsPromptTitle": {
+    "description": "The compose page media options prompt title."
+  },
+
+  "composePageMediaOptionsPromptModify": "编辑内容描述",
+  "@composePageMediaOptionsPromptModify": {
+    "description": "The compose page media options prompt modify option."
+  },
+
+  "composePageMediaOptionsPromptAdd": "添加内容描述",
+  "@composePageMediaOptionsPromptAdd": {
+    "description": "The compose page media options prompt add option."
+  },
+
+  "composePageContentDescriptionPromptTitle": "内容描述",
+  "@composePageContentDescriptionPromptTitle": {
+    "description": "The compose page content description prompt title."
+  },
+
+  "composePageContentDescriptionPromptInput": "输入内容描述",
+  "@composePageContentDescriptionPromptInput": {
+    "description": "The compose page content description prompt input hint."
+  },
+
+  "reachPageTitle": "互动情况",
+  "@reachPageTitle": {
+    "description": "The reach page title."
+  },
+
+  "detailPagePostTitle": "发帖给 @{account}",
+  "@detailPagePostTitle": {
+      "description": "The title for the detail page for when reading a post from a another user.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "detailPageThreadTitle": "@{account} 的帖文串",
+  "@detailPageThreadTitle": {
+      "description": "The title for the detail page for when reading a thread from a another user.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "detailPageShowContext": "显示上下文",
+  "@detailPageShowContext": {
+    "description": "The show context button on another uses post/thread."
+  },
+
+  "detailPageShowMoreComments": "还有 {number} 条评论",
+  "@detailPageShowMoreComments": {
+    "description": "The button text for showing more comments.",
+    "placeholders": {
+      "number": {
+        "type": "num",
+        "example": "5"
+      }
+    }
+  },
+
+  "detailPageShowAllSensitiveContent": "显示所有敏感内容",
+  "@detailPageShowAllSensitiveContent": {
+    "description": "The chip button to show all sensitive content."
+  },
+
+  "detailPageUnrollAsArticle": "长文视图",
+  "@detailPageUnrollAsArticle": {
+    "description": "The chip button to unroll a thread as an article."
+  },
+
+  "editPageCurrent": "当前",
+  "@editPageCurrent": {
+    "description": "The edit page current edit header."
+  },
+
+  "editPageOriginal": "原文",
+  "@editPageOriginal": {
+    "description": "The edit page original edit header."
+  },
+
+  "editPageLoadFailure": "无法加载编辑历史",
+  "@editPageLoadFailure": {
+    "description": "The edit page loading failure."
+  },
+
+  "imageViewerPageOpenBrowser": "在浏览器中打开",
+  "@imageViewerPageOpenBrowser": {
+    "description": "The viewer page browser button."
+  },
+
+  "exploreConfigPageTitle": "探索来源",
+  "@exploreConfigPageTitle": {
+    "description": "The explore config page title."
+  },
+
+  "exploreConfigPageEmpty": "你没有可探索的外部源，点击 + 来创建一个。",
+  "@exploreConfigPageEmpty": {
+    "description": "The explore config page empty content."
+  },
+
+  "exploreConfigPageAdd": "添加源",
+  "@exploreConfigPageAdd": {
+    "description": "The explore config page add source button."
+  },
+
+  "exploreConfigPageRemoveTooltip": "移除探索源",
+  "@exploreConfigPageRemoveTooltip": {
+    "description": "The explore config page add source button."
+  },
+
+  "exploreConfigPageAddSourcePromptTitle": "添加探索源",
+  "@exploreConfigPageAddSourcePromptTitle": {
+    "description": "The explore config page add source prompt"
+  },
+
+  "explorePageTitle": "探索",
+  "@explorePageTitle": {
+    "description": "The explore page title."
+  },
+
+  "explorePageCategoryPosts": "帖文",
+  "@explorePageCategoryPosts": {
+    "description": "The explore page posts category."
+  },
+
+  "explorePageCategoryPostViewMoreTooltip": "查看更多热门帖文",
+  "@explorePageCategoryPostViewMoreTooltip": {
+    "description": "The explore page posts category view more tooltip."
+  },
+
+  "explorePageCategoryTags": "标签",
+  "@explorePageCategoryTags": {
+    "description": "The explore page tags category."
+  },
+
+  "explorePageCategoryTagsViewMoreTooltip": "查看更多热门标签",
+  "@explorePageCategoryTagsViewMoreTooltip": {
+    "description": "The explore page tags category view more tooltip."
+  },
+
+  "explorePageCategoryLinks": "链接",
+  "@explorePageCategoryLinks": {
+    "description": "The explore page links category."
+  },
+
+  "explorePageCategoryLinksViewMoreTooltip": "查看更多热门链接",
+  "@explorePageCategoryLinksViewMoreTooltip": {
+    "description": "The explore page links category view more tooltip."
+  },
+
+  "explorePageCategoryFollowSuggestions": "关注建议",
+  "@explorePageCategoryFollowSuggestions": {
+    "description": "The explore page follow suggestions category."
+  },
+
+  "explorePageTrendingText": "热门 {content}",
+  "@explorePageTrendingText": {
+      "description": "The header text for trending content",
+      "placeholders": {
+        "content": {
+          "type": "String",
+          "example": "posts"
+        }
+      }
+  },
+
+  "serverDetailsMonthlyUsers": "月活用户",
+  "@serverDetailsMonthlyUsers": {
+    "description": "Server details monthly users header."
+  },
+
+  "serverDetailsDescription": "描述",
+  "@serverDetailsDescription": {
+    "description": "Server details description."
+  },
+
+  "serverDetailsContactAccount": "联系人账户",
+  "@serverDetailsContactAccount": {
+    "description": "Server details contact account."
+  },
+
+  "serverDetailsStats": "状态",
+  "@serverDetailsStats": {
+    "description": "Server details stats."
+  },
+
+  "searchPageAccountsHeader": "账户",
+  "@searchPageAccountsHeader": {
+    "description": "Search page accounts category header."
+  },
+
+  "searchPageTagsHeader": "标签",
+  "@searchPageTagsHeader": {
+    "description": "Search page tags category header."
+  },
+
+  "searchPagePostsHeader": "帖文",
+  "@searchPagePostsHeader": {
+    "description": "Search page posts category header."
+  },
+
+  "searchPageServersHeader": "服务器",
+  "@searchPageServersHeader": {
+    "description": "Search page servers category header."
+  },
+
+  "searchPageLoadMore": "加载更多",
+  "@searchPageLoadMore": {
+    "description": "Search page load more action."
+  },
+
+  "searchPageInputHint": "搜索…",
+  "@searchPageInputHint": {
+    "description": "Search page main input hint."
+  },
+
+  "searchPageInputHint": "搜索……",
+  "@searchPageInputHint": {
+    "description": "Search page main input hint."
+  },
+
+  "searchPageActionTooltip": "执行搜索",
+  "@searchPageActionTooltip": {
+    "description": "Search page main input action tooltip."
+  },
+
+  "feedCardHidePostAction": "隐藏帖文",
+  "@feedCardHidePostAction": {
+    "description": "Feed card hide post action."
+  },
+
+  "feedCardOpenOnAction": "在 {host} 中打开",
+  "@feedCardOpenOnAction": {
+      "description": "Feed card open on original server action.",
+      "placeholders": {
+        "host": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "feedCardCopyTrunksLinkAction": "复制 trunks 链接",
+  "@feedCardCopyTrunksLinkAction": {
+    "description": "Feed card copy trunks link action."
+  },
+
+  "feedCardMuteConversationAction": "隐藏对话",
+  "@feedCardMuteConversationAction": {
+    "description": "Feed card mute conversation action."
+  },
+
+  "feedCardUnmuteConversationAction": "取消隐藏对话",
+  "@feedCardUnmuteConversationAction": {
+    "description": "Feed card unmute conversation action."
+  },
+
+  "feedCardTranslateAction": "翻译",
+  "@feedCardTranslateAction": {
+    "description": "Feed card translate action."
+  },
+
+  "feedCardPinPostAction": "钉选帖文",
+  "@feedCardPinPostAction": {
+    "description": "Feed card pin post action."
+  },
+
+  "feedCardUnpinPostAction": "取消钉选帖文",
+  "@feedCardUnpinPostAction": {
+    "description": "Feed card unpin post action."
+  },
+
+  "feedCardReportPostAction": "报告帖文",
+  "@feedCarReportPostAction": {
+    "description": "Feed card report post action."
+  },
+
+  "feedCardPostSourceTextPromptTitle": "帖文原始文本",
+  "@feedCardPostSourceTextPromptTitle": {
+    "description": "Feed card post source prompt title"
+  },
+
+  "feedCardViewReachAction": "查看互动情况",
+  "@feedCardViewReachAction": {
+    "description": "Feed card view reach action."
+  },
+
+  "feedCardEditedStatus": "已编辑",
+  "@feedCardEditedStatus": {
+    "description": "Signifies that a post has been edited."
+  },
+
+  "feedCardContentLabelPrefix": "内容标记",
+  "@feedCardContentLabelPrefix": {
+    "description": "The prefix for any content label on a post."
+  },
+
+  "feedCardContentLabelPrefixDescription": "该用户在这条帖文上设置了剧透标签。点击 \"显示内容\" 来进行查看",
+  "@feedCardContentLabelPrefixDescription": {
+    "description": "The prefix description for any content label on a post."
+  },
+
+  "feedCardFilteredStatus": "已过滤",
+  "@feedCardFilteredStatus": {
+    "description": "Signifies that a post has been filtered with a content label."
+  },
+
+  "feedCardFilteredStatusDescription": "该内容已被你的其中一个过滤器过滤",
+  "@feedCardFilteredStatusDescription": {
+    "description": "The description for when a post has been filtered with a content label."
+  },
+
+  "feedCardSensitiveMediaStatus": "敏感媒体",
+  "@feedCardSensitiveMediaStatus": {
+    "description": "Signifies that a post has been marked as containing sensitive media with a content label."
+  },
+
+  "feedCardSensitiveMediaStatusDescription": "该用户已将媒体内容标记为敏感，但没有为其设置内容标记",
+  "@feedCardSensitiveMediaStatusDescription": {
+    "description": "The description for when a post has been marked as containing sensitive media with a content label."
+  },
+
+  "feedCardTranslatedStatus": "由 {service} 翻译自 {language}",
+  "@feedCardTranslatedStatus": {
+      "description": "Signifies that the post has been translated.",
+      "placeholders": {
+        "language": {
+          "type": "String",
+          "example": "chinese"
+        },
+        "service": {
+          "type": "String",
+          "example": "magic translator machine"
+        }
+      }
+  },
+
+  "feedCardOngoingThreadAnnotation": "帖文串的一部分",
+  "@feedCardOngoingThreadAnnotation": {
+    "description": "Annotation denoting that the post is part of an ongoing thread."
+  },
+
+  "feedCardAsReplyAnnotation": "一则回复",
+  "@feedCardAsReplyAnnotation": {
+    "description": "Annotation denoting that the post is a reply, but we don't know to what."
+  },
+
+  "feedCardAsContextAnnotation": "一条上下文信息",
+  "@feedCardAsContextAnnotation": {
+    "description": "Annotation denoting that the post is in context to a child post."
+  },
+
+  "feedCardInReplyToAnnotation": "给如下用户的回复",
+  "@feedCardInReplyToAnnotation": {
+    "description": "Annotation denoting that the post is a reply to a specific account."
+  },
+
+  "feedCardBoostedByAnnotation": "由如下用户转发",
+  "@feedCardBoostedByAnnotation": {
+    "description": "Annotation denoting that the post is boosted by a specific account."
+  },
+
+  "feedCardPinnedByAnnotation": "由如下用户钉选",
+  "@feedCardPinnedByAnnotation": {
+    "description": "Annotation denoting that the post is pinned by a specific account."
+  },
+
+  "feedCardVerifiedTooltip": "{domains} 的认证用户",
+  "@feedCardVerifiedTooltip": {
+      "description": "Feed card tooltip for verifications.",
+      "placeholders": {
+        "domains": {
+          "type": "String",
+          "example": "mstdn.social, mastodon.social"
+        }
+      }
+  },
+
+  "feedCardEditPostHistoryTooltip": "查看帖文编辑历史",
+  "@feedCardEditPostHistoryTooltip": {
+    "description": "Feed card tooltip for post edit history"
+  },
+
+  "feedCardOpenUrlFailure": "无法打开 url",
+  "@feedCardOpenUrlFailure": {
+    "description": "Feed card failure when opening a url."
+  },
+
+  "feedCardQuoteBoostFailure": "无法引用转发非公共性质的帖文",
+  "@feedCardQuoteBoostFailure": {
+    "description": "Feed card failure on boost when trying to quote non public post."
+  },
+
+  "feedMediaStillProcessing": "媒体仍在处理中。",
+  "@feedMediaStillProcessing": {
+    "description": "Feed media text when it's still processing."
+  },
+
+  "feedMediaFullScreenButtonTooltip": "全屏打开",
+  "@feedMediaFullScreenButtonTooltip": {
+    "description": "Feed media full screen button tooltip."
+  },
+
+  "feedMediaFullScreenExitButtonTooltip": "退出全屏",
+  "@feedMediaFullScreenExitButtonTooltip": {
+    "description": "Feed media full screen exit button tooltip."
+  },
+
+  "feedPageMultiColumnViewTooltip": "多列视图",
+  "@feedPageMultiColumnViewTooltip": {
+    "description": "Feed page multi column button tooltip."
+  },
+
+  "feedPageSingleColumnViewTooltip": "单列视图",
+  "@feedPageSingleColumnViewTooltip": {
+    "description": "Feed page single column button tooltip."
+  },
+
+  "feedPageOriginalFilter": "原始帖文",
+  "@feedPageOriginalFilter": {
+    "description": "The filter category for original posts."
+  },
+
+  "feedPageRepliesFilter": "回复",
+  "@feedPageRepliesFilter": {
+    "description": "The filter category for replies posts."
+  },
+
+  "feedPageBoostsFilter": "转发",
+  "@feedPageBoostsFilter": {
+    "description": "The filter category for boosts posts."
+  },
+
+  "feedPageLoggedOut": "你已注销。重新登录来查看该内容。",
+  "@feedPageLoggedOut": {
+    "description": "The error message when the user is logged out on the feed."
+  },
+
+  "feedPageCaughtUp": "你读完了所有内容！",
+  "@feedPageCaughtUp": {
+    "description": "The message when the user is caught up in their feed."
+  },
+
+  "feedPageLeftOff": "上次你读到这里！",
+  "@feedPageLeftOff": {
+    "description": "The message for where the user left off in their feed."
+  },
+
+  "feedPageSkipToNewest": "跳转到最新帖文",
+  "@feedPageSkipToNewest": {
+    "description": "The feed page action for skipping to newest posts."
+  },
+
+  "feedPageEmptyContent": "您的主页时间线是空的！去探索标签页关注些新内容吧。",
+  "@feedPageEmptyContent": {
+    "description": "The feed page empty content text."
+  },
+
+  "feedPageEmptyContentWithFilters": "找不到适用于这些过滤器的内容。",
+  "@feedPageEmptyContentWithFilters": {
+    "description": "The feed page empty content text when any filters are enabled."
+  },
+
+  "feedPageUnableToOpenPost": "无法解析帖文",
+  "@feedPageUnableToOpenPost": {
+    "description": "The feed page failure when resolving a post from another server."
+  },
+
+  "listsPageTitle": "列表",
+  "@listsPageTitle": {
+    "description": "The title of the lists page."
+  },
+
+  "listsPageCreateListPromptTitle": "创建列表",
+  "@listsPageCreateListPromptTitle": {
+    "description": "The lists page create list prompt title."
+  },
+
+  "listsPageCreateListPromptHint": "输入列表标题",
+  "@listsPageCreateListPromptHint": {
+    "description": "The lists page create list prompt hint."
+  },
+
+  "listsPageEmptyContent": "你没有列表，创建一个吧！",
+  "@listsPageEmptyContent": {
+    "description": "The lists page empty content text."
+  },
+
+  "listsPageViewAccountsAction": "查看列表中的账户",
+  "@listsPageViewAccountsAction": {
+    "description": "The lists page view accounts in list action."
+  },
+
+  "loginPageUnableToContactServer": "无法与实例通信。",
+  "@loginPageUnableToContactServer": {
+    "description": "The error text when the app is unable to contact the server the user is attempting to log into."
+  },
+
+  "loginPageUnableToLogin": "登录时遇到错误",
+  "@loginPageUnableToLogin": {
+    "description": "The error text when there is a general failure to log in."
+  },
+
+  "loginPageLoggedOut": "你已注销",
+  "@loginPageLoggedOut": {
+    "description": "The message when the user is logged."
+  },
+
+  "loginPageRemoveAccountPromptTitle": "移除账户？",
+  "@loginPageRemoveAccountPromptTitle": {
+    "description": "The prompt title for removing an account."
+  },
+
+  "loginPageRemoveAccountPromptContent": "移除账户也将移除用于方便重新登录的元数据，继续？",
+  "@loginPageRemoveAccountPromptContent": {
+    "description": "The prompt content for removing an account."
+  },
+
+  "loginPageServerInputHint": "实例（如：mastodon.social）",
+  "@loginPageServerInputHint": {
+    "description": "The hint for input for logging into a server."
+  },
+
+  "loginPageServerFailure": "无法定位 mastodon 实例：{domain}",
+  "@loginPageServerFailure": {
+      "description": "Failure text when a server cannot be found",
+      "placeholders": {
+        "domain": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "loginPageAddAccountPromptTitle": "添加账户",
+  "@loginPageAddAccountPromptTitle": {
+    "description": "The prompt title for adding an account."
+  },
+
+  "loginPageUseExternalBrowserCheckbox": "使用外部浏览器登录？",
+  "@loginPageUseExternalBrowserCheckbox": {
+    "description": "The checkbox for using an external browser to login."
+  },
+
+  "loginPageServerAgreement": "登录意味着你同意 {domain} 的规则与条款。点击查看。",
+  "@loginPageServerAgreement": {
+      "description": "Failure text when a server cannot be found",
+      "placeholders": {
+        "domain": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "profilePageCategoryPosts": "帖文",
+  "@profilePageCategoryPosts": {
+    "description": "The posts category of a profile."
+  },
+
+  "profilePageCategoryActivity": "活动",
+  "@profilePageCategoryActivity": {
+    "description": "The activity category of a profile."
+  },
+
+  "profilePageCategoryMedia": "媒体",
+  "@profilePageCategoryMedia": {
+    "description": "The media category of a profile."
+  },
+
+  "profilePageUnfollowPromptTitle": "取消关注？",
+  "@profilePageUnfollowPromptTitle": {
+    "description": "The profile page unfollow prompt title."
+  },
+
+  "profilePageUnfollowPromptContent": "你确定要取消关注 @{account} 吗？",
+  "@profilePageUnfollowPromptContent": {
+      "description": "Prompt content for unfollowing a user.",
+      "placeholders": {
+        "account": {
+          "type": "String",
+          "example": "L33tAdmin"
+        }
+      }
+  },
+
+  "profilePageProfileUpdateSuccess": "已成功更新账户信息",
+  "@profilePageProfileUpdateSuccess": {
+    "description": "Success text for profile updates."
+  },
+
+  "profilePageProfileUpdateFailure": "无法更新账户信息",
+  "@profilePageProfileUpdateFailure": {
+    "description": "Failure text for profile updates."
+  },
+
+  "profileFollowers": "关注者",
+  "@profileFollowers": {
+    "description": "Followers title for a profile."
+  },
+
+  "profileFollowing": "正在关注",
+  "@profileFollowing": {
+    "description": "Following title for a profile."
+  },
+
+  "profileFollowedTags": "已关注标签",
+  "@profileFollowedTags": {
+    "description": "Followed tags title for a profile."
+  },
+
+  "profileFollowers": "关注者",
+  "@profileFollowers": {
+    "description": "Followers title for a profile."
+  },
+
+  "profileFollowingAll": "正在关注",
+  "@profileFollowingAll": {
+    "description": "Following title for a profile."
+  },
+
+  "profileBlockedAccounts": "已屏蔽账户",
+  "@profileBlockedAccounts": {
+    "description": "Blocked accounts title for a profile."
+  },
+
+  "profileBlockedServers": "已屏蔽实例",
+  "@profileBlockedServers": {
+    "description": "Blocked domains title for a profile."
+  },
+
+  "profileMutedAccounts": "已静音账户",
+  "@profileMutedAccounts": {
+    "description": "Muted accounts title for a profile."
+  },
+
+  "profileList": "列表",
+  "@profileList": {
+    "description": "List title for a profile."
+  },
+
+  "profileTabAccounts": "账户",
+  "@profileTabAccounts": {
+    "description": "Tab title for accounts."
+  },
+
+  "profileTabTags": "标签",
+  "@profileTabTags": {
+    "description": "Tab title for tags."
+  },
+
+  "profileStatsPosts": "帖文",
+  "@profileStatsPosts": {
+    "description": "Stats title for posts on a profile."
+  },
+
+  "profileStatsFollowing": "正在关注",
+  "@profileStatsFollowing": {
+    "description": "Stats title for following on a profile."
+  },
+
+  "profileStatsFollowers": "关注者",
+  "@profileStatsFollowers": {
+    "description": "Stats title for followers on a profile."
+  },
+
+  "profileStatsUnblockAccountTooltip": "取消屏蔽账户",
+  "@profileStatsUnblockAccountTooltip": {
+    "description": "Tooltip for unblocking an account."
+  },
+
+  "profileStatsUnblockServerTooltip": "取消屏蔽实例",
+  "@profileStatsUnblockServerTooltip": {
+    "description": "Tooltip for unblocking a server."
+  },
+
+  "profileStatsUnmuteAccountTooltip": "取消静音账户",
+  "@profileStatsUnmuteAccountTooltip": {
+    "description": "Tooltip for unmuting an account."
+  },
+
+  "profileStatsUnfollowTagTooltip": "取消关注标签",
+  "@profileStatsUnfollowTagTooltip": {
+    "description": "Tooltip for unfollowing a tag."
+  },
+
+  "profilePageManageListsPromptTitle": "管理列表",
+  "@profilePageManageListsPromptTitle": {
+    "description": "Manage lists prompt title."
+  },
+
+  "profilePageBioSection": "个人信息",
+  "@profilePageBioSection": {
+    "description": "The bio section on a profile."
+  },
+
+  "profilePageBioSectionInputHint": "输入你的个人介绍！",
+  "@profilePageBioSectionInputHint": {
+    "description": "The bio section input hint on a profile."
+  },
+
+  "profilePageCustomFieldSection": "自定义条目",
+  "@profilePageCustomFieldSection": {
+    "description": "The custom fields section on a profile."
+  },
+
+  "profilePageCustomFieldSectionAddAction": "添加条目",
+  "@profilePageCustomFieldSectionAddAction": {
+    "description": "The custom fields section add action on a profile."
+  },
+
+  "profilePageAccountMovedSection": "新账户",
+  "@profilePageAccountMovedSection": {
+    "description": "The account moved section on a profile."
+  },
+
+  "profilePageAccountMovedContent": "账户已迁移至 ${domain} 上的 @${username}",
+  "@profilePageAccountMovedContent": {
+      "description": "Signifies that the post has been translated.",
+      "placeholders": {
+        "username": {
+          "type": "String",
+          "example": "L33tAdmin"
+        },
+        "domain": {
+          "type": "String",
+          "example": "mstdn.social"
+        }
+      }
+  },
+
+  "profilePageRelationshipSection": "关系",
+  "@profilePageRelationshipSection": {
+    "description": "The relationship section on a profile."
+  },
+
+  "profilePageServerSection": "实例",
+  "@profilePageServerSection": {
+    "description": "The server section on a profile."
+  },
+
+  "profilePageStatsSection": "状态",
+  "@profilePageStatsSection": {
+    "description": "The stats section on a profile."
+  },
+
+  "profilePageJoinedSection": "已加入",
+  "@profilePageJoinedSection": {
+    "description": "The joined section on a profile."
+  },
+
+  "profilePageStatusSection": "状态",
+  "@profilePageStatusSection": {
+    "description": "The status section on a profile."
+  },
+
+  "profilePageStatusHuman": "人类",
+  "@profilePageStatusHuman": {
+    "description": "The human status on profile."
+  },
+
+  "profilePageStatusHumanAccount": "人类账户",
+  "@profilePageStatusHumanAccount": {
+    "description": "The human status editable option on profile."
+  },
+
+  "profilePageStatusHumanDescription": "用户可能是人类" ,
+  "@profilePageStatusHumanDescription": {
+    "description": "The human status description on profile."
+  },
+
+  "profilePageStatusRobot": "机器人",
+  "@profilePageStatusRobot": {
+    "description": "The robot status on a profile."
+  },
+
+  "profilePageStatusRobotAccount": "机器人账户",
+  "@profilePageStatusRobotAccount": {
+    "description": "The robot status editable option on a profile."
+  },
+
+  "profilePageStatusRobotDescription": "用户可能是个机器人" ,
+  "@profilePageStatusRobotDescription": {
+    "description": "The robot status description on profile."
+  },
+
+  "profilePageStatusLocked": "已锁定",
+  "@profilePageStatusLocked": {
+    "description": "The locked status on a profile."
+  },
+
+  "profilePageStatusLockedAccount": "需要批准才能关注",
+  "@profilePageStatusLockedAccount": {
+    "description": "The locked status editable option on a profile."
+  },
+
+  "profilePageStatusLockedDescription": "需要该用户的批准才能进行关注",
+  "@profilePageStatusLockedDescription": {
+    "description": "The locked status description on profile."
+  },
+
+  "profilePageStatusUnlocked": "已解锁",
+  "@profilePageStatusUnlocked": {
+    "description": "The unlocked status on a profile."
+  },
+
+  "profilePageStatusUnlockedAccount": "无需批准即可关注",
+  "@profilePageStatusUnlockedAccount": {
+    "description": "The unlocked status editable option on a profile."
+  },
+
+  "profilePageStatusUnlockedDescription": "无需该用户的批准就能关注",
+  "@profilePageStatusUnlockedDescription": {
+    "description": "The unlocked status description on profile."
+  },
+
+  "profilePageStatusVisible": "可见",
+  "@profilePageStatusVisible": {
+    "description": "The visible status on a profile."
+  },
+
+  "profilePageStatusVisibleAccount": "在路径中可见。",
+  "@profilePageStatusVisibleAccount": {
+    "description": "The visible status editable option on a profile."
+  },
+
+  "profilePageStatusVisibleDescription": "该用户在路径中可见",
+  "@profilePageStatusVisibleDescription": {
+    "description": "The visible status description on profile."
+  },
+
+  "profilePageStatusHidden": "已隐藏",
+  "@profilePageStatusHidden": {
+    "description": "The hidden status on a profile."
+  },
+
+  "profilePageStatusHiddenAccount": "不可通过路径发现",
+  "@profilePageStatusHiddenAccount": {
+    "description": "The hidden status editable option on a profile."
+  },
+
+  "profilePageStatusHiddenDescription": "该用户已从实例路径中隐藏",
+  "@profilePageStatusHiddenDescription": {
+    "description": "The hidden status description on profile."
+  },
+
+  "profilePageRelationShipMuted": "已被你隐藏",
+  "@profilePageRelationShipMuted": {
+    "description": "The profile relationship muted by user description"
+  },
+
+  "profilePageRelationShipBlocked": "已被你屏蔽",
+  "@profilePageRelationShipBlocked": {
+    "description": "The profile relationship blocking user description"
+  },
+
+  "profilePageRelationShipBlockedBy": "正在屏蔽你",
+  "@profilePageRelationShipBlockedBy": {
+    "description": "The profile relationship blocked by user description"
+  },
+
+  "profilePageRelationShipFollowing": "你已关注",
+  "@profilePageRelationShipFollowing": {
+    "description": "The profile relationship following user description"
+  },
+
+  "profilePageRelationShipFollowedBy": "正在关注你",
+  "@profilePageRelationShipFollowedBy": {
+    "description": "The profile relationship followed by user description"
+  },
+
+  "profilePageRelationShipDomainBlocked": "被你屏蔽的实例",
+  "@profilePageRelationShipDomainBlocked": {
+    "description": "The profile relationship domain blocking description"
+  },
+
+  "profilePageMessageUserAction": "信息",
+  "@profilePageMessageUserAction": {
+    "description": "The profile page message action."
+  },
+
+  "profilePageMuteUserAction": "隐藏用户",
+  "@profilePageMuteUserAction": {
+    "description": "The profile page mute user action."
+  },
+
+  "profilePageUnmuteUserAction": "取消隐藏用户",
+  "@profilePageUnmuteUserAction": {
+    "description": "The profile page unmute user action."
+  },
+
+  "profilePageBlockUserAction": "屏蔽用户",
+  "@profilePageBlockUserAction": {
+    "description": "The profile page block user action."
+  },
+
+  "profilePageUnblockUserAction": "取消屏蔽用户",
+  "@profilePageUnblockUserAction": {
+    "description": "The profile page unblock user action."
+  },
+
+  "profilePageBlockDomainAction": "屏蔽实例",
+  "@profilePageBlockDomainAction": {
+    "description": "The profile page block domain action."
+  },
+
+  "profilePageUnblockDomainAction": "取消屏蔽实例",
+  "@profilePageUnblockDomainAction": {
+    "description": "The profile page unblock domain action."
+  },
+
+  "profilePageReportUserAction": "报告用户",
+  "@profilePageReportUserAction": {
+    "description": "The profile page report user action."
+  },
+
+  "profilePageModifyListUserAction": "从列表中添加/移除",
+  "@profilePageModifyListUserAction": {
+    "description": "The profile page list adding/removing user action."
+  },
+
+  "profilePageEditAvatarImageTooltip": "选择头像图片",
+  "@profilePageEditAvatarImageTooltip": {
+    "description": "The profile page avatar edit image tooltip."
+  },
+
+  "profilePageEditBackgroundImageTooltip": "选择背景图片",
+  "@profilePageEditBackgroundImageTooltip": {
+    "description": "The profile page background edit image tooltip."
+  },
+
+  "accessibilitySettingsPageTitle": "无障碍设置",
+  "@accessibilitySettingsPageTitle": {
+    "description": "The accessibility settings page title."
+  },
+
+  "accessibilitySettingsPageGlobalTextSection": "全局文本",
+  "@accessibilitySettingsPageGlobalTextSection": {
+    "description": "The global text editing section title."
+  },
+
+  "accessibilitySettingsPageGlobalTextFontScale": "字体缩放",
+  "@accessibilitySettingsPageGlobalTextFontScale": {
+    "description": "The global text editing section font scale."
+  },
+
+  "accessibilitySettingsPageGlobalTextLineSpacingScale": "行距缩放",
+  "@accessibilitySettingsPageGlobalTextLineSpacingScale": {
+    "description": "The global text editing section line spacing scale."
+  },
+
+  "accessibilitySettingsPagePostTextSection": "帖文文本",
+  "@accessibilitySettingsPagePostTextSection": {
+    "description": "The post text editing section title."
+  },
+
+  "accessibilitySettingsPagePostTextFontSizeDelta": "字体大小预设",
+  "@accessibilitySettingsPagePostTextFontSizeDelta": {
+    "description": "The post text editing section body font size delta."
+  },
+
+  "feedSettingsPageTitle": "时间流设定",
+  "@feedSettingsPageTitle": {
+    "description": "The feed settings page title."
+  },
+
+  "feedSettingsPageMediaDefaultsBase": "隐藏被标记为敏感内容的帖文",
+  "@feedSettingsPageMediaDefaultsBase": {
+    "description": "The feed settings page media default for showing post marked sensitive content."
+  },
+
+  "feedSettingsPageMediaDefaultsShow": "显示所有敏感内容",
+  "@feedSettingsPageMediaDefaultsShow": {
+    "description": "The feed settings page media default for showing all sensitive content."
+  },
+
+  "feedSettingsPageMediaDefaultsHide": "隐藏所有敏感内容",
+  "@feedSettingsPageMediaDefaultsHide": {
+    "description": "The feed settings page media default for hiding sensitive content."
+  },
+
+  "feedSettingsHomeFeedModeTitle": "主页时间流模式",
+  "@feedSettingsHomeFeedModeTitle": {
+    "description": "Home feed mode title."
+  },
+
+  "feedSettingsRecentModeTitle": "总是最新模式",
+  "@feedSettingsRecentModeTitle": {
+    "description": "The feed setting for always showing recent content on the home feed."
+  },
+
+  "feedSettingsRecentModeTitle": "最近模式",
+  "@feedSettingsRecentModeTitle": {
+    "description": "The feed setting for always showing recent content on the home feed."
+  },
+
+  "feedSettingsRecentModeDescription": "主页会在你的时间流顶部加载最新的帖文。",
+  "@feedSettingsRecentModeDescription": {
+    "description": "The feed setting description for always showing recent content on the home feed."
+  },
+
+  "feedSettingsRememberModeTitle": "记忆模式",
+  "@feedSettingsRememberModeTitle": {
+    "description": "The feed setting for always remembering the last read position on the home feed."
+  },
+
+  "feedSettingsRememberModeDescription": "主页会记住你上次的浏览进度，并尝试定位到那个位置。",
+  "@feedSettingsRememberModeDescription": {
+    "description": "The feed setting description for always remembering the last read position on the home feed."
+  },
+
+  "feedSettingsDigestModeTitle": "摘要模式",
+  "@feedSettingsDigestModeTitle": {
+    "description": "The feed setting for showing the user only the content they haven't seen."
+  },
+
+  "feedSettingsDigestModeDescription": "主页仅加载自上次离开后你尚未读过的帖文。",
+  "@feedSettingsDigestModeDescription": {
+    "description": "The feed setting description for showing the user only the content they haven't seen."
+  },
+
+  "feedSettingsFeaturesSectionTitle": "时间流特性",
+  "@feedSettingsFeaturesSectionTitle": {
+    "description": "Feed features title."
+  },
+
+  "feedSettingsStreamHomeToggle": "时间流刷新",
+  "@feedSettingsStreamHomeToggle": {
+    "description": "Stream home feed toggle."
+  },
+
+  "feedSettingsStreamHomeToggleDescription": "开启后，新的帖文将在主页面完整刷新。关闭后则会显示一个 \"显示更多\" 按钮。",
+  "@feedSettingsStreamHomeToggleDescription": {
+    "description": "Stream home feed toggle description."
+  },
+
+  "feedSettingsStreamHomeToggleDescriptionAlt": "主页面刷新仅在 \"最近模式\" 下可用。",
+  "@feedSettingsStreamHomeToggleDescriptionAlt": {
+    "description": "Stream home feed toggle description alternative."
+  },
+
+  "feedSettingsConversationGroupingToggle": "时间流中的对话分组",
+  "@feedSettingsConversationGroupingToggle": {
+    "description": "Conversation grouping toggle."
+  },
+
+  "feedSettingsContextFetchingToggle": "获取时间流分组对话内容的上下文",
+  "@feedSettingsContextFetchingToggle": {
+    "description": "Context fetching toggle."
+  },
+
+  "feedSettingsContextFetchingToggleDescription": "仅在对话分组功能开启后有效。",
+  "@feedSettingsContextFetchingToggleDescription": {
+    "description": "Context fetching toggle description."
+  },
+
+  "feedSettingsBehaviorsSectionTitle": "浏览偏好",
+  "@feedSettingsBehaviorsSectionTitle": {
+    "description": "Viewing behaviors section title."
+  },
+
+  "feedSettingsTranslateLanguagePromptTitle": "翻译语言",
+  "@feedSettingsTranslateLanguagePromptTitle": {
+    "description": "Translate prompt language title."
+  },
+
+  "feedSettingsTranslateLanguageTitle": "翻译地区/语言",
+  "@feedSettingsTranslateLanguageTitle": {
+    "description": "Translate language setting title."
+  },
+
+  "feedSettingsTranslateLanguageDescription": "'翻译功能' 尝试转译的默认目标语言。",
+  "@feedSettingsTranslateLanguageDescription": {
+    "description": "Translate language setting description."
+  },
+
+  "feedSettingsTranslateLanguageTooltip": "查看翻译语言选项",
+  "@feedSettingsTranslateLanguageTooltip": {
+    "description": "Translate language setting tooltip."
+  },
+
+  "feedSettingsSensitiveMediaDropdown": "敏感媒体选项",
+  "@feedSettingsSensitiveMediaDropdown": {
+    "description": "Sensitive media options dropdown."
+  },
+
+  "feedSettingsContentLabelBehaviorToggle": "总是展开带有内容标记的帖文",
+  "@feedSettingsContentLabelBehaviorToggle": {
+    "description": "Content label behavior toggle."
+  },
+
+  "feedSettingsShowPreviewBehaviorToggle": "显示链接预览",
+  "@feedSettingsShowPreviewBehaviorToggle": {
+    "description": "Preview links behavior toggle."
+  },
+
+  "feedSettingsPlayGifsBehaviorToggle": "自动播放动图",
+  "@feedSettingsPlayGifsBehaviorToggle": {
+    "description": "Play gifs behavior toggle."
+  },
+
+  "feedSettingsHideMutedBehaviorToggle": "不在时间流中显示已隐藏的对话",
+  "@feedSettingsHideMutedBehaviorToggle": {
+    "description": "Hide muted conversations behavior toggle."
+  },
+
+  "feedSettingsMediaAspectDropdown": "媒体纵横比",
+  "@feedSettingsMediaAspectDropdown": {
+    "description": "Media aspect ratio dropdown."
+  },
+
+  "feedSettingsMediaAspectDropdownWarning": "完整分辨率可能会导致滚动浏览跳跃、卡顿",
+  "@feedSettingsMediaAspectDropdownWarning": {
+    "description": "Media aspect ratio dropdown warning."
+  },
+
+  "feedSettingsAutoCollapseDropdown": "自动折叠字数限制",
+  "@feedSettingsAutoCollapseDropdown": {
+    "description": "Auto collapse dropdown."
+  },
+
+  "feedSettingsAutoCollapseDropdownDescription": "帖文自动折叠并添加「阅读更多」前的字数限制。",
+  "@feedSettingsAutoCollapseDropdownDescription": {
+    "description": "Auto collapse dropdown description."
+  },
+
+  "feedSettingsSingleColumnToggle": "单列时间流偏好",
+  "@feedSettingsSingleColumnToggle": {
+    "description": "Prefer single column toggle."
+  },
+
+  "feedSettingsSingleColumnToggleDescription": "在移动端横屏或在大屏设备使用时，选择单列而非多列时间流样式。",
+  "@feedSettingsSingleColumnToggleDescription": {
+    "description": "Prefer single column toggle description."
+  },
+
+  "feedSettingsShowButtonsToggle": "总是在时间流卡片上显示按钮",
+  "@feedSettingsShowButtonsToggle": {
+    "description": "Show buttons toggle."
+  },
+
+  "feedSettingsShowButtonsToggleDescription": "是否要在时间流卡片上一直显示回复/转发/喜爱按钮。",
+  "@feedSettingsShowButtonsToggleDescription": {
+    "description": "Show buttons toggle description."
+  },
+
+  "filterPageContextWidgetChoiceHomeAndList": "主页与列表",
+  "@filterPageContextWidgetChoiceHomeAndList": {
+    "description": "The filter page's context widget choice chip for home and lists."
+  },
+
+  "filterPageContextWidgetChoiceNotifications": "通知",
+  "@filterPageContextWidgetChoiceNotifications": {
+    "description": "The filter page's context widget choice chip for notifications."
+  },
+
+  "filterPageContextWidgetChoicePublic": "公共时间线",
+  "@filterPageContextWidgetChoicePublic": {
+    "description": "The filter page's context widget choice chip for public timelines."
+  },
+
+  "filterPageContextWidgetChoiceThreads": "帖文串",
+  "@filterPageContextWidgetChoiceThreads": {
+    "description": "The filter page's context widget choice chip for threads."
+  },
+
+  "filterPageContextWidgetChoiceAccounts": "账户",
+  "@filterPageContextWidgetChoiceAccounts": {
+    "description": "The filter page's context widget choice chip for accounts."
+  },
+
+  "filterPageTitleCreate": "创建过滤器",
+  "@filterPageTitleCreate": {
+    "description": "The filter page title when creating a new filter."
+  },
+
+  "filterPageTitleEdit": "编辑过滤器",
+  "@filterPageTitleEdit": {
+    "description": "The filter page title when editing a filter."
+  },
+
+  "filterPageCreateNameCategory": "名称",
+  "@filterPageCreateNameCategory": {
+    "description": "The filter page name category."
+  },
+
+  "filterPageCreateExpirationCategory": "有效期",
+  "@filterPageCreateExpirationCategory": {
+    "description": "The filter page expiration category."
+  },
+
+  "filterPageCreateContextCategory": "上下文",
+  "@filterPageCreateContextCategory": {
+    "description": "The filter page context category."
+  },
+
+  "filterPageCreateContextCategoryDescription": "过滤器应用的上下文。",
+  "@filterPageCreateContextCategoryDescription": {
+    "description": "The filter page context category description."
+  },
+
+  "filterPageCreateActionsCategory": "操作",
+  "@filterPageCreateActionsCategory": {
+    "description": "The filter page actions category."
+  },
+
+  "filterPageCreateActionsCategoryDescription": "内容命中过滤条件时应当采取的操作。\n\n警告 - 内容将被隐藏在标签文本后。\n隐藏 - 从上下文隐藏整个内容。",
+  "@filterPageCreateActionsCategoryDescription": {
+    "description": "The filter page actions category description."
+  },
+
+  "filterPageCreateKeywordsCategory": "关键词",
+  "@filterPageCreateKeywordsCategory": {
+    "description": "The filter page keywords category."
+  },
+
+  "filterPageCreateActionsWarn": "警告,
+  "@filterPageCreateActionsWarn": {
+    "description": "The filter page warn action."
+  },
+
+  "filterPageCreateActionsHide": "隐藏",
+  "@filterPageCreateActionsHide": {
+    "description": "The filter page hide action."
+  },
+
+  "filterPageCreateFilterKeywordPromptTitle": "添加过滤关键词",
+  "@filterPageCreateFilterKeywordPromptTitle": {
+    "description": "The filter page filter keyword prompt title."
+  },
+
+  "filterPageCreateFilterKeywordPromptHint": "输入关键词来过滤…",
+  "@filterPageCreateFilterKeywordPromptHint": {
+    "description": "The filter page filter keyword prompt hint."
+  },
+
+  "filterPageCreateFilterKeywordPromptMatchWordCheckbox": "匹配所有字符？",
+  "@filterPageCreateFilterKeywordPromptMatchWordCheckbox": {
+    "description": "The filter page filter keyword prompt match word checkbox."
+  },
+
+  "filterPageTitle": "过滤器",
+  "@filterPageTitle": {
+    "description": "The filters page title."
+  },
+
+  "filterExpirationNever": "永不过期",
+  "@filterExpirationNever": {
+    "description": "The filter never expires."
+  },
+
+  "filterExpirationExpired": "已过期",
+  "@filterExpirationExpired": {
+    "description": "The filter is expired."
+  },
+
+  "filterExpirationExpiresPrefix": "过期于",
+  "@filterExpirationExpiresPrefix": {
+    "description": "The filter expiration prefix, usually followed by a quantity of time."
+  },
+
+  "filterPageEmpty": "你还没有过滤器，点击 + 来创建一个。",
+  "@filterPageEmpty": {
+    "description": "The filters page empty content."
+  },
+
+  "filterSummary": "{feedTypes} 中包含 {filterAction} 操作的过滤器",
+  "@filterSummary": {
+      "description": "The summary at the bottom of the listed filter.",
+      "placeholders": {
+        "feedTypes": {
+          "type": "String",
+          "example": "home and lists, notifications"
+        },
+        "filterAction": {
+          "type": "String",
+          "example": "warn"
+        }
+      }
+  },
+
+  "notificationSettingsPageTitle": "通知设定",
+  "@notificationSettingsPageTitle": {
+    "description": "The notification settings page title."
+  },
+
+  "notificationSettingsPagePushSection": "推送",
+  "@notificationSettingsPagePushSection": {
+    "description": "The notification settings page push section."
+  },
+
+  "notificationSettingsPagePushToggle": "推送通知",
+  "@notificationSettingsPagePushToggle": {
+    "description": "The notification settings page push notifications toggle."
+  },
+
+  "notificationSettingsPageSubscriptionsSection": "订阅",
+  "@notificationSettingsPageSubscriptionsSection": {
+    "description": "The notification settings page subscriptions section."
+  },
+
+  "notificationSettingsPageMentionsToggle": "提及",
+  "@notificationSettingsPageMentionsToggle": {
+    "description": "The notification settings page mentions notifications toggle."
+  },
+
+  "notificationSettingsPageFollowsToggle": "关注",
+  "@notificationSettingsPageFollowsToggle": {
+    "description": "The notification settings page follows notifications toggle."
+  },
+
+  "notificationSettingsPageFollowRequestsToggle": "关注请求",
+  "@notificationSettingsPageFollowRequestsToggle": {
+    "description": "The notification settings page follow requests notifications toggle."
+  },
+
+  "notificationSettingsPageBoostsToggle": "转发",
+  "@notificationSettingsPageBoostsToggle": {
+    "description": "The notification settings page boosts notifications toggle."
+  },
+
+  "notificationSettingsPageFavoritesToggle": "喜爱",
+  "@notificationSettingsPageFavoritesToggle": {
+    "description": "The notification settings page favorites notifications toggle."
+  },
+
+  "notificationSettingsPageUpdatingProgress": "正在更新订阅…",
+  "@notificationSettingsPageUpdatingProgress": {
+    "description": "The notification settings page subscription update progress text."
+  },
+
+  "notificationSettingsPageUpdatingFailure": "无法更新通知设定",
+  "@notificationSettingsPageUpdatingFailure": {
+    "description": "The notification settings page subscription update failure text."
+  },
+
+  "themeSettingsPageTitle": "主题设定",
+  "@themeSettingsPageTitle": {
+    "description": "The theme settings page title."
+  },
+
+  "themeSettingsPageLightThemeHeader": "当前浅色主题",
+  "@themeSettingsPageLightThemeHeader": {
+    "description": "The theme settings page light theme header."
+  },
+
+  "themeSettingsPageLightThemeTitle": "浅色主题",
+  "@themeSettingsPageLightThemeTitle": {
+    "description": "The theme settings page light theme title."
+  },
+
+  "themeSettingsPageLightThemeDescription": "将在深色模式禁用后使用。",
+  "@themeSettingsPageLightThemeDescription": {
+    "description": "The theme settings page light theme description."
+  },
+
+  "themeSettingsPageDarkThemeHeader": "当前深色主题",
+  "@themeSettingsPageDarkThemeHeader": {
+    "description": "The theme settings page light theme header."
+  },
+
+  "themeSettingsPageDarkThemeTitle": "深色主题",
+  "@themeSettingsPageDarkThemeTitle": {
+    "description": "The theme settings page light theme title."
+  },
+
+  "themeSettingsPageDarkThemeDescription": "将在深色模式启用后使用。",
+  "@themeSettingsPageDarkThemeDescription": {
+    "description": "The theme settings page light theme description."
+  },
+
+  "themeSettingsOLEDFriendlyToggle": "OLED 友好",
+  "@themeSettingsOLEDFriendlyToggle": {
+    "description": "The theme settings page OLED toggle."
+  },
+
+  "themeSettingsOLEDFriendlyToggleDescription": "OLED 友好模式会选择更深的黑色和白色，同时协调其他配色来与之匹配。",
+  "@themeSettingsOLEDFriendlyToggleDescription": {
+    "description": "The theme settings page OLED toggle description."
+  },
+
+  "themeSettingsAndroidDynamicToggle": "已启用动态主题",
+  "@themeSettingsAndroidDynamicToggle": {
+    "description": "The theme settings page android dynamic theme toggle."
+  },
+
+  "themeSettingsAndroidDynamicToggleDescription":  "动态主题会调用多种系统主题元素来为浅色和深色模式创建色彩方案。",
+  "@themeSettingsAndroidDynamicToggleDescription": {
+    "description": "The theme settings page android dynamic theme toggle description."
+  },
+
+  "themeSettingsConfigurationSection": "配置主题",
+  "@themeSettingsConfigurationSection": {
+    "description": "The theme settings page configure section."
+  },
+
+  "themeSettingsPageCurrentHeader": "当前主题",
+  "@themeSettingsPageCurrentHeader": {
+    "description": "The theme settings page current theme header."
+  },
+
+  "experimentSettingsPageTitle": "实验性设置",
+  "@experimentSettingsPageTitle": {
+    "description": "The experiment settings page title."
+  },
+
+  "experimentSettingsFeaturesSection": "实验性功能",
+  "@experimentSettingsFeaturesSection": {
+    "description": "The experiment settings page feature section."
+  },
+
+  "privacyPolicyPageTitle": "隐私策略",
+  "@privacyPolicyPageTitle": {
+    "description": "The privacy policy settings page title."
+  },
+
+  "settingsPageTitle": "设置",
+  "@settingsPageTitle": {
+    "description": "The settings page title."
+  },
+
+  "settingsPageSignOutPromptContent": "注销将移除你的已登录账户以及所有缓存的信息，继续吗？",
+  "@settingsPageSignOutPromptContent": {
+    "description": "The settings page sign out prompt content."
+  },
+
+  "settingsPageDarkModeOption": "深色模式",
+  "@settingsPageDarkModeOption": {
+    "description": "The settings page dark mode setting."
+  },
+
+  "settingsPageAppSettingsSection": "应用设置",
+  "@settingsPageAppSettingsSection": {
+    "description": "The settings page app settings section."
+  },
+
+  "settingsPageThemeSettingsOption": "主题设置",
+  "@settingsPageThemeSettingsOption": {
+    "description": "The settings page theme setting."
+  },
+
+  "settingsPageRestrictionsSection": "内容限制",
+  "@settingsPageRestrictionsSection": {
+    "description": "The settings page rstrictions section."
+  },
+
+  "settingsPageMutedUsersOption": "已静音用户",
+  "@settingsPageMutedUsersOption": {
+    "description": "The settings page muted users setting."
+  },
+
+  "settingsPageBlockedUsersOption": "已屏蔽用户",
+  "@settingsPageBlockedUsersOption": {
+    "description": "The settings page blocked users setting."
+  },
+
+  "settingsPageBlockedDomainsOption": "已屏蔽实例",
+  "@settingsPageBlockedDomainsOption": {
+    "description": "The settings page blocked domains setting."
+  },
+
+  "settingsPageFiltersOption": "过滤器",
+  "@settingsPageFiltersOption": {
+    "description": "The settings page filters setting."
+  },
+
+  "settingsPagePostingBehaviorsSection": "帖文发布行为",
+  "@settingsPagePostingBehaviorsSection": {
+    "description": "The settings page post behaviors section."
+  },
+
+  "settingsPagePostPrivacyOption": "默认帖文隐私设定",
+  "@settingsPagePostPrivacyOption": {
+    "description": "The settings page default post privacy setting."
+  },
+
+  "settingsPageMediaSensitivityOption": "总是将我发布的媒体内容标记为敏感",
+  "@settingsPageMediaSensitivityOption": {
+    "description": "The settings page media sensitivity setting."
+  },
+
+  "settingsPagePostLanguageOption": "帖文发布区域/语言",
+  "@settingsPagePostLanguageOption": {
+    "description": "The settings page post language setting."
+  },
+
+  "settingsPageShowActionsOption": "显示动作更新",
+  "@settingsPageShowActionsOption": {
+    "description": "The settings page show action setting."
+  },
+
+  "settingsPageShowActionsOptionDescription": "动作更新启动时，任何输入都会显示进度和确认。",
+  "@settingsPageShowActionsOptionDescription": {
+    "description": "The settings page show action setting description."
+  },
+
+  "settingsPageAccountsSection": "账户",
+  "@settingsPageAccountsSection": {
+    "description": "The settings page accounts section."
+  },
+
+  "settingsPageSignOutOption": "注销账户",
+  "@settingsPageSignOutOption": {
+    "description": "The settings page sign out setting."
+  },
+
+  "settingsPageManageAccountsOption": "管理账户",
+  "@settingsPageManageAccountsOption": {
+    "description": "The settings page manage accounts setting."
+  },
+
+  "settingsPageAboutSection": "关于",
+  "@settingsPageAboutSection": {
+    "description": "The settings page about section."
+  },
+
+  "settingsPageFollowOption": "关注 @trunksapp",
+  "@settingsPageFollowOption": {
+    "description": "The settings page follow trunks app setting."
+  },
+
+  "settingsPageLicensesOption": "许可证",
+  "@settingsPageLicensesOption": {
+    "description": "The settings page licenses setting."
+  },
+
+  "settingsPagePrivacyPolicyOption": "隐私条款",
+  "@settingsPagePrivacyPolicyOption": {
+    "description": "The settings page privacy policy setting."
+  },
+
+  "settingsPageMadeInOption": "来自多雨的西雅图 ❤️",
+  "@settingsPageMadeInOption": {
+    "description": "The settings page made in setting."
+  },
+
+  "settingsPageExperimentsOption": "实验室",
+  "@settingsPageExperimentsOption": {
+    "description": "The settings page experiments setting."
+  },
+
+  "settingsPageVersionOption": "版本",
+  "@settingsPageVersionOption": {
+    "description": "The settings page version setting."
+  },
+
+  "settingsPagePushNotificationsOption": "推送通知",
+  "@settingsPagePushNotificationsOption": {
+    "description": "The settings page push notifications setting."
+  },
+
+  "settingsPageAccessibilityOption": "无障碍",
+  "@settingsPageAccessibilityOption": {
+    "description": "The settings page accessibility setting."
+  },
+
+  "settingsPageFeedSettingsOption": "时间流设定",
+  "@settingsPageFeedSettingsOption": {
+    "description": "The settings page feed setting."
+  },
+
+  "settingsPageThreadSettingsOption": "帖文串设定",
+  "@settingsPageThreadSettingsOption": {
+    "description": "The settings page thread setting."
+  },
+
+  "settingsPageExperienceSection": "体验设定",
+  "@settingsPageExperienceSection": {
+    "description": "The settings page experience section."
+  },
+
+  "threadSettingsPageTitle": "帖文串设定",
+  "@threadSettingsPageTitle": {
+    "description": "The thread settings page title."
+  },
+
+  "threadSettingsPageDefaultsSection": "默认",
+  "@threadSettingsPageDefaultsSection": {
+    "description": "The defaults section title for thread settings."
+  },
+
+  "threadSettingsPageDefaultCommentSortTitle": "评论排序",
+  "@threadSettingsPageDefaultCommentSortTitle": {
+    "description": "The default comment sort for threads."
+  }
+}
