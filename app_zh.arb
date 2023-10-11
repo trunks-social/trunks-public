@@ -3290,7 +3290,7 @@
     "description": "The filter page keywords category."
   },
 
-  "filterPageCreateActionsWarn": "警告,
+  "filterPageCreateActionsWarn": "警告",
   "@filterPageCreateActionsWarn": {
     "description": "The filter page warn action."
   },
