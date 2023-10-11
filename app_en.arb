@@ -3658,5 +3658,15 @@
   "threadSettingsPageDefaultCommentSortTitle": "Comment sort",
   "@threadSettingsPageDefaultCommentSortTitle": {
     "description": "The default comment sort for threads."
+  },
+
+  "settingsPageAppLanguageOption": "Default language/locale",
+  "@settingsPageAppLanguageOption": {
+    "description": "The settings page app language setting."
+  },
+
+  "settingsPageAppLanguagePromptTitle": "default language",
+  "@settingsPageAppLanguagePromptTitle": {
+    "description": "The compose page app language prompt title."
   }
 }
