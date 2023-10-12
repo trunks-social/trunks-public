@@ -3450,7 +3450,7 @@
     "description": "The theme settings page OLED toggle."
   },
 
-  "themeSettingsOLEDFriendlyToggleDescription": "OLED friendly will prefer deep blacks and bright whites while harmonize the remaining palette colors to match.",
+  "themeSettingsOLEDFriendlyToggleDescription": "OLED friendly will prefer deep blacks and bright whites while harmonizing the remaining palette colors to match.",
   "@themeSettingsOLEDFriendlyToggleDescription": {
     "description": "The theme settings page OLED toggle description."
   },
