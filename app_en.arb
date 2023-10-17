@@ -1078,15 +1078,15 @@
     "description": "The action text, with account placeholder, for muting a conversation."
   },
 
-  "commonActionUnmuteConversationProgress": "Muting conversation...",
+  "commonActionUnmuteConversationProgress": "Unmuting conversation...",
   "@commonActionUnmuteConversationProgress": {
     "description": "The progress text displayed when a user is muting a conversation."
   },
-  "commonActionUnmuteConversationSuccess": "Muted conversation",
+  "commonActionUnmuteConversationSuccess": "Unmuted conversation",
   "@commonActionUnmuteConversationSuccess": {
     "description": "The action text, with account placeholder, for muting a conversation"
   },
-  "commonActionUnmuteConversationFailure": "Failed to mute conversation",
+  "commonActionUnmuteConversationFailure": "Failed to unmute conversation",
   "@commonActionUnmuteConversationFailure": {
     "description": "The action text, with account placeholder, for muting a conversation"
   },
