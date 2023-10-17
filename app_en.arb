@@ -2790,7 +2790,7 @@
     "description": "The account moved section on a profile."
   },
 
-  "profilePageAccountMovedContent": "Account has moved to @${username} on ${domain}",
+  "profilePageAccountMovedContent": "Account has moved to @{username} on {domain}",
   "@profilePageAccountMovedContent": {
       "description": "Signifies that the post has been translated.",
       "placeholders": {
