@@ -1,0 +1,3074 @@
+{
+  "helloWorld": "Hei Maailma!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "ok": "Ok",
+  "@ok": {
+    "description": "Common ok option"
+  },
+  "on": "Päällä",
+  "@on": {
+    "description": "Common on option"
+  },
+  "off": "Pois",
+  "@off": {
+    "description": "Common off option"
+  },
+  "accept": "Hyväksy",
+  "@accept": {
+    "description": "Common accept option"
+  },
+  "create": "Luo",
+  "@create": {
+    "description": "Common create option"
+  },
+  "cancel": "Peruuta",
+  "@cancel": {
+    "description": "Common cancel option"
+  },
+  "reset": "Nollaa",
+  "@reset": {
+    "description": "Common reset option"
+  },
+  "logIn": "Kirjaudu sisään",
+  "@logIn": {
+    "description": "Common log in option"
+  },
+  "signOut": "Kirjaudu ulos",
+  "@signOut": {
+    "description": "Common sign out option"
+  },
+  "delete": "Poista",
+  "@delete": {
+    "description": "Common delete option"
+  },
+  "add": "Lisää",
+  "@add": {
+    "description": "Common add option"
+  },
+  "remove": "Poista",
+  "@remove": {
+    "description": "Common remove option"
+  },
+  "show": "Näytä",
+  "@show": {
+    "description": "Common show option"
+  },
+  "hide": "Piilota",
+  "@hide": {
+    "description": "Common hide option"
+  },
+  "edit": "Muokkaa",
+  "@edit": {
+    "description": "Common edit option"
+  },
+  "clear": "Tyhjennä",
+  "@clear": {
+    "description": "Common clear option"
+  },
+  "bookmark": "Kirjanmerkki",
+  "@bookmark": {
+    "description": "Common bookmark option"
+  },
+  "pin": "Kiinnitä",
+  "@pin": {
+    "description": "Common pin option"
+  },
+  "unpin": "Irrota",
+  "@unpin": {
+    "description": "Common unpin option"
+  },
+  "reply": "Vastaa",
+  "@reply": {
+    "description": "Common reply option"
+  },
+  "follow": "Seuraa",
+  "@follow": {
+    "description": "Common follow option"
+  },
+  "pending": "Odottaa",
+  "@pending": {
+    "description": "Common pending option"
+  },
+  "unfollow": "Lopeta seuraaminen",
+  "@unfollow": {
+    "description": "Common unfollow option"
+  },
+  "askToFollow": "Pyydä seuraamista",
+  "@askToFollow": {
+    "description": "Common ask to follow option"
+  },
+  "filter": "Suodata",
+  "@filter": {
+    "description": "Common filter option"
+  },
+  "unfilter": "Älä suodata",
+  "@unfilter": {
+    "description": "Common unfilter option"
+  },
+  "share": "Jaa",
+  "@share": {
+    "description": "Common share option"
+  },
+  "quote": "Lainaus",
+  "@quote": {
+    "description": "Common quote option"
+  },
+  "exit": "Poistu",
+  "@exit": {
+    "description": "Common exit option"
+  },
+  "save": "Tallenna",
+  "@save": {
+    "description": "Common save option"
+  },
+  "loading": "Ladataan",
+  "@loading": {
+    "description": "Common loading text"
+  },
+  "saving": "Tallennetaan",
+  "@saving": {
+    "description": "Common saving text"
+  },
+  "refresh": "Päivitä",
+  "@refresh": {
+    "description": "Common refresh option"
+  },
+  "retry": "Yritä Uudelleen",
+  "@retry": {
+    "description": "Common retry option"
+  },
+  "oops": "Hups, jokin meni pieleen",
+  "@oops": {
+    "description": "Common oops/error text."
+  },
+  "about": "Tietoja",
+  "@about": {
+    "description": "Common about option"
+  },
+  "unableToLoad": "Sisältöä ei voitu ladata",
+  "@unableToLoad": {
+    "description": "Common load error text."
+  },
+  "filterAll": "kaikki",
+  "@filterAll": {
+    "description": "Common all filter option"
+  },
+  "quantitySeconds": "{time} sekunti(a)",
+  "@quantitySeconds": {
+    "description": "Quantity of time in seconds",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "quantityMinutes": "{time} minuutti(a)",
+  "@quantityMinutes": {
+    "description": "Quantity of time in minutes",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "quantityHours": "{time} tunti(a)",
+  "@quantityHours": {
+    "description": "Quantity of time in hours",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "quantityDays": "{time} päivä(ä)",
+  "@quantityDays": {
+    "description": "Quantity of time in days",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "quantityVotes": "{voteCount} ääntä",
+  "@quantityVotes": {
+    "description": "Quantity of votes",
+    "placeholders": {
+      "voteCount": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "quantityBoosts": "{boostCount} tehostus(ta)",
+  "@quantityBoosts": {
+    "description": "Quantity of boosts",
+    "placeholders": {
+      "boostCount": {
+        "type": "String",
+        "example": "13k"
+      }
+    }
+  },
+  "quantityFavorites": "{favoriteCount} ääntä",
+  "@quantityFavorites": {
+    "description": "Quantity of favorites",
+    "placeholders": {
+      "favoriteCount": {
+        "type": "String",
+        "example": "13k"
+      }
+    }
+  },
+  "visibilityPublic": "Julkinen",
+  "@visibilityPublic": {
+    "description": "The public visibility of a post."
+  },
+  "visibilityUnlisted": "Listaamaton",
+  "@visibilityUnlisted": {
+    "description": "The unlisted visibility of a post."
+  },
+  "visibilityPrivate": "Yksityinen",
+  "@visibilityPrivate": {
+    "description": "The private visibility of a post."
+  },
+  "visibilityDirect": "Suora",
+  "@visibilityDirect": {
+    "description": "The direct visibility of a post."
+  },
+  "commentSortBest": "parhaat",
+  "@commentSortBest": {
+    "description": "The best comment sort option."
+  },
+  "commentSortChronological": "aikajärjestyksessä",
+  "@commentSortChronological": {
+    "description": "The chronological comment sort option."
+  },
+  "commentSortControversial": "kiistellyt",
+  "@commentSortControversial": {
+    "description": "The controversial comment sort option."
+  },
+  "mainDescription": "on uudenaikainen Mastodon-klientti, joka on nopea, helppokäyttöinen, ja muokattavissa. Se on täydellinen tapa seurata kiinnostuksesi kohteita Mastodonissa riippumatta siitä, mitä laitetta käytät.",
+  "@mainDescription": {
+    "description": "The text describing trunks.social on the main login page."
+  },
+  "mainPromo": "Lataa jo tänään mobiililaitteillesi, tableteillesi ja Macillesi, tai käytä web-versiota, saadaksesi yhden parhaista, alustasta riippumattomista Mastodon-kokemuksista.",
+  "@mainPromo": {
+    "description": "The text promoting trunks and its apps on the main login page."
+  },
+  "mainAppDownloadHeaderText": "Lataa sovellukset",
+  "@mainAppDownloadHeaderText": {
+    "description": "The header text on the main login page that supersedes the app link downloads."
+  },
+  "mainExploreHeaderText": "Tutki nousussa olevia julkaisuja",
+  "@mainExploreHeaderText": {
+    "description": "The header text on the main login page that supersedes the trending posts."
+  },
+  "adaptiveHomeSearchAction": "etsi",
+  "@adaptiveHomeSearchAction": {
+    "description": "The FAB search action."
+  },
+  "adaptiveHomeCreateListAction": "luo lista",
+  "@adaptiveHomeCreateListAction": {
+    "description": "The FAB create list action."
+  },
+  "adaptiveHomeComposeAction": "kirjoita",
+  "@adaptiveHomeComposeAction": {
+    "description": "The FAB compose action."
+  },
+  "adaptiveHomeNavDestinationHome": "koti",
+  "@adaptiveHomeNavDestinationHome": {
+    "description": "The tab or navigation text for the current users home feed."
+  },
+  "adaptiveHomeNavDestinationExplore": "tutki",
+  "@adaptiveHomeNavDestinationExplore": {
+    "description": "The tab or navigation text for the explore feed."
+  },
+  "adaptiveHomeNavDestinationNotifications": "ilmoitukset",
+  "@adaptiveHomeNavDestinationNotifications": {
+    "description": "The tab or navigation text for the notifications feed."
+  },
+  "adaptiveHomeNavDestinationPublic": "julkinen",
+  "@adaptiveHomeNavDestinationPublic": {
+    "description": "The tab or navigation text for the federated or public feed."
+  },
+  "adaptiveHomeNavDestinationLocal": "paikallinen",
+  "@adaptiveHomeNavDestinationLocal": {
+    "description": "The tab or navigation text for the current users server feed."
+  },
+  "adaptiveHomeNavDestinationBookmarks": "kirjanmerkit",
+  "@adaptiveHomeNavDestinationBookmarks": {
+    "description": "The tab or navigation text for the current users bookmarks feed."
+  },
+  "adaptiveHomeNavDestinationFavorites": "suosikit",
+  "@adaptiveHomeNavDestinationFavorites": {
+    "description": "The tab or navigation text for the current users favorites feed."
+  },
+  "adaptiveHomeNavDestinationLists": "listat",
+  "@adaptiveHomeNavDestinationLists": {
+    "description": "The tab or navigation text for the current users lists feed."
+  },
+  "adaptiveHomeWebLinksHeader": "linkit",
+  "@adaptiveHomeWebLinksHeader": {
+    "description": "The header text on web clients that supersedes mobile app links and other stuff."
+  },
+  "adaptiveHomeSearchButtonTooltip": "Etsi",
+  "@adaptiveHomeSearchButtonTooltip": {
+    "description": "The search button tooltip text."
+  },
+  "adaptiveHomeRefreshButtonTooltip": "Päivitä",
+  "@adaptiveHomeRefreshButtonTooltip": {
+    "description": "The refresh button tooltip text."
+  },
+  "adaptiveHomeSettingsButtonTooltip": "Asetukset",
+  "@adaptiveHomeSettingsButtonTooltip": {
+    "description": "The settings button tooltip text."
+  },
+  "adaptiveHomeListsButtonTooltip": "Listat",
+  "@adaptiveHomeListsButtonTooltip": {
+    "description": "The lists button tooltip text."
+  },
+  "adaptiveHomeBookmarksButtonTooltip": "Kirjanmerkit",
+  "@adaptiveHomeBookmarksButtonTooltip": {
+    "description": "The bookmarks button tooltip text."
+  },
+  "adaptiveHomeFavoritesButtonTooltip": "Suosikit",
+  "@adaptiveHomeFavoritesButtonTooltip": {
+    "description": "The favorites button tooltip text."
+  },
+  "adaptiveHomeShortcutsButtonTooltip": "Pikanäppäimet",
+  "@adaptiveHomeShortcutsButtonTooltip": {
+    "description": "The shortcuts button tooltip text."
+  },
+  "adaptiveHomeManageAccountsButtonTooltip": "Hallinnoi tilejä",
+  "@adaptiveHomeManageAccountsButtonTooltip": {
+    "description": "The manage accounts button tooltip text."
+  },
+  "adaptiveHomeSettingsPopupButton": "asetukset",
+  "@adaptiveHomeSettingsPopupButton": {
+    "description": "The popup button text for settings when you click on the current user avatar."
+  },
+  "adaptiveHomeManageAccountsPopupButton": "hallinnoi tilejä",
+  "@adaptiveHomeManageAccountsPopupButton": {
+    "description": "The popup button text for manage accounts when you click on the current user avatar."
+  },
+  "adaptiveHomePinnedShortcutsHeader": "kiinnitetyt pikakuvakkeet",
+  "@adaptiveHomePinnedShortcutsHeader": {
+    "description": "The header text that supersedes shortcuts pinned by a user."
+  },
+  "adaptiveHomeMobileLinksHeader": "sovellukset",
+  "@adaptiveHomeMobileLinksHeader": {
+    "description": "The header text on mobile clients that supersedes mobile app links and other stuff."
+  },
+  "adaptiveHomeShortcutsEmpty": "Sinulla ei ole pikakuvakkeita! Lisää ne koskettamalla nastakuvaketta instansseissa, aihetunnisteissa tai listoissa.",
+  "@adaptiveHomeShortcutsEmpty": {
+    "description": "The empty text when a user does not have any shortcuts."
+  },
+  "adaptiveHomeMarkAsReadButton": "merkitse luetuksi",
+  "@adaptiveHomeMarkAsReadButton": {
+    "description": "The button text to mark notifications as read."
+  },
+  "adminReportNotificationCreatedAt": "luotu",
+  "@adminReportNotificationCreatedAt": {
+    "description": "The header text for the create at time of an admin report notification"
+  },
+  "adminReportNotificationContextAccount": "tili",
+  "@adminReportNotificationContextAccount": {
+    "description": "The header text for the account the notification is about for an admin report notification"
+  },
+  "adminReportNotificationActionTaken": "toteutetut toimet",
+  "@adminReportNotificationActionTaken": {
+    "description": "The header text for the action taken against the account for an admin report notification"
+  },
+  "adminReportNotificationCategory": "kategoria",
+  "@adminReportNotificationCategory": {
+    "description": "The header text for the category for an admin report notification"
+  },
+  "adminReportNotificationComment": "kommentti",
+  "@adminReportNotificationComment": {
+    "description": "The header text for the comment for an admin report notification"
+  },
+  "reportPageTitle": "raportti",
+  "@reportPageTitle": {
+    "description": "The report page title"
+  },
+  "reportPageReportingProgress": "Raportoidaan...",
+  "@reportPageReportingProgress": {
+    "description": "The progress text when submitting a report."
+  },
+  "reportPageReportSubmitted": "Raportti lähetetty",
+  "@reportPageReportSubmitted": {
+    "description": "The confirmation text after a report is submitted."
+  },
+  "reportPageReportFailed": "Raportin lähettäminen epäonnistui.",
+  "@reportPageReportFailed": {
+    "description": "The failure text after a report fails to submit."
+  },
+  "reportPageBackNavigation": "Takaisin",
+  "@reportPageBackNavigation": {
+    "description": "The navigation text for going back in the report flow."
+  },
+  "reportPageNextNavigation": "Seuraava",
+  "@reportPageNextNavigation": {
+    "description": "The navigation text for going forward in the report flow."
+  },
+  "reportPageDoneNavigation": "Valmis",
+  "@reportPageDoneNavigation": {
+    "description": "The navigation text for going ending the report flow."
+  },
+  "reportPageSubmitNavigation": "Lähetä raportti",
+  "@reportPageSubmitNavigation": {
+    "description": "The navigation text for submitting a report in the report flow."
+  },
+  "reportPageTellUsAboutPost": "Kerro meille mitä tässä viestissä tapahtuu",
+  "@reportPageTellUsAboutPost": {
+    "description": "The title text for asking the user about the post they are reporting."
+  },
+  "reportPageTellUsAboutProfile": "Kerro meille mitä tällä profiililla tapahtuu",
+  "@reportPageTellUsAboutProfile": {
+    "description": "The title text for asking the user about the profile they are reporting."
+  },
+  "reportPageChoose": "Valitse paras osuma",
+  "@reportPageChoose": {
+    "description": "The subtitle text asking the user to choose the best option regarding the report."
+  },
+  "reportPageOptionDontLikeTitle": "En pidä siitä",
+  "@reportPageOptionDontLikeTitle": {
+    "description": "The option text for when the user does not like a post."
+  },
+  "reportPageOptionDontLikeSubtitle": "Tätä ei halua nähdä.",
+  "@reportPageOptionDontLikeSubtitle": {
+    "description": "The option subtitle or description text for when the user does not like a post."
+  },
+  "reportPageOptionSpamTitle": "Roskapostia",
+  "@reportPageOptionSpamTitle": {
+    "description": "The option text for when the user thinks a post or profile is spam"
+  },
+  "reportPageOptionSpamSubtitle": "Haitallisia linkkejä, petkutusta tai toistuvia tuloksia.",
+  "@reportPageOptionSpamSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is spam"
+  },
+  "reportPageOptionViolationTitle": "Se rikkoo palvelinsääntöjä",
+  "@reportPageOptionViolationTitle": {
+    "description": "The option text for when the user thinks a post or profile is violating server rules"
+  },
+  "reportPageOptionViolationSubtitle": "Tiedät, että se on tiettyjen sääntöjen vastaista.",
+  "@reportPageOptionViolationSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is violating server rules"
+  },
+  "reportPageOptionUncategorizedTitle": "Se on jotain muuta",
+  "@reportPageOptionUncategorizedTitle": {
+    "description": "The option text for when the user thinks a post or profile is reportable for some other reason"
+  },
+  "reportPageOptionUncategorizedSubtitle": "Tämä ongelma ei sovi mihinkään muuhun luokkaan.",
+  "@reportPageOptionUncategorizedSubtitle": {
+    "description": "The option subtitle or description text for when the user thinks a post or profile is reportable for some other reason"
+  },
+  "reportPageContentDontLikeTitle": "Etkö halua nähdä tätä?",
+  "@reportPageContentDontLikeTitle": {
+    "description": "The content text for when the user has chosen the option for not liking a post."
+  },
+  "reportPageContentDontLikeSubtitle": "Tässä ovat sinun vaihtoehdosi valvoa mitä näet.",
+  "@reportPageContentDontLikeSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for not liking a post."
+  },
+  "reportPageContentSpamTitle": "Onko olemassa yhtään julkaisua, joka tukee tätä raporttia?",
+  "@reportPageContentSpamTitle": {
+    "description": "The content text for when the user has chosen the option for spam."
+  },
+  "reportPageContentSpamSubtitle": "Valitse kaikki jotka pätevät",
+  "@reportPageContentSpamSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for spam."
+  },
+  "reportPageContentViolationTitle": "Mitä sääntöjä rikotaan?",
+  "@reportPageContentViolationTitle": {
+    "description": "The content text for when the user has chosen the option for violation."
+  },
+  "reportPageContentViolationSubtitle": "Valitse kaikki jotka pätevät",
+  "@reportPageContentViolationSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for violation."
+  },
+  "reportPageContentUncategorizedTitle": "Onko olemassa julkaisua, joka tukee tätä raporttia?",
+  "@reportPageContentUncategorizedTitle": {
+    "description": "The content text for when the user has chosen the option for uncategorized reports."
+  },
+  "reportPageContentUncategorizedSubtitle": "Valitse kaikki jotka pätevät",
+  "@reportPageContentUncategorizedSubtitle": {
+    "description": "The content subtitle text for when the user has chosen the option for uncategorized reports."
+  },
+  "reportPageCommentInputHint": "Muita huomioita",
+  "@reportPageCommentInputHint": {
+    "description": "The hint text for the input field when a user wants to add additional comments."
+  },
+  "reportPageAnotherServer": "Tili on toiselta palvelimelta, lähetä myös anonyymi kopio raportista sinne?",
+  "@reportPageAnotherServer": {
+    "description": "The text for when the reported account is from another server."
+  },
+  "reportPageForwardToAccount": "Välitä osoitteeseen @{account}",
+  "@reportPageForwardToAccount": {
+    "description": "The text, with an account placeholder, where a report can be forwarded to",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "reportPageContentCommentsTitle": "Onko mitään muuta, mitä meidän pitäisi tietää?",
+  "@reportPageContentCommentsTitle": {
+    "description": "The content text for the last step of reporting a post or profile."
+  },
+  "reportPageContentCommentsSubtitle": "Lisätietoja yhteyden ymmärtämisen helpottamiseksi",
+  "@reportPageContentCommentsSubtitle": {
+    "description": "The content subtitle text for the last step of reporting a post or profile."
+  },
+  "reportPageMuteAccountAction": "Mykistä @{account}",
+  "@reportPageMuteAccountAction": {
+    "description": "The action text, with account placeholder, for muting an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "reportPageMuteAccountActionDescription": "Et näe käyttäjän julkaisuja. Käyttäjä voi yhä seurata sinua, nähdä julkaisusi, eikä tiedä tulleensa mykistetyksi.",
+  "@reportPageMuteAccountActionDescription": {
+    "description": "The action description for muting an account"
+  },
+  "reportPageBlockAccountAction": "Estä @{account}",
+  "@reportPageBlockAccountAction": {
+    "description": "The action text, with account placeholder, for blocking an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "reportPageBlockAccountActionDescription": "Et näe käyttäjän viestejä. Käyttäjä ei näe viestejäsi eikä voi seurata sinua. Käyttäjä tietää tulleensa estetyksi.",
+  "@reportPageBlockAccountActionDescription": {
+    "description": "The action description for blocking an account"
+  },
+  "notificationsPageTitle": "ilmoitukset",
+  "@notificationsPageTitle": {
+    "description": "The title of the notifications page."
+  },
+  "notificationsPageAllFilter": "kaikki",
+  "@notificationsPageAllFilter": {
+    "description": "The filter category for all notifications."
+  },
+  "notificationsPageMentionFilter": "maininnat",
+  "@notificationsPageMentionFilter": {
+    "description": "The filter category for mention notifications."
+  },
+  "notificationsPageFollowedFilter": "seuratut tilit",
+  "@notificationsPageFollowedFilter": {
+    "description": "The filter category for followed accounts notifications."
+  },
+  "notificationsPageBoostFilter": "tehostukset",
+  "@notificationsPageBoostFilter": {
+    "description": "The filter category for boost notifications."
+  },
+  "notificationsPageFollowFilter": "seuraamiset",
+  "@notificationsPageFollowFilter": {
+    "description": "The filter category for follow notifications."
+  },
+  "notificationsPageFollowRequestFilter": "seuraamispyynnöt",
+  "@notificationsPageFollowRequestFilter": {
+    "description": "The filter category for follow request notifications."
+  },
+  "notificationsPageFavoriteFilter": "suosikit",
+  "@notificationsPageFavoriteFilter": {
+    "description": "The filter category for favorite notifications."
+  },
+  "notificationsPagePollFilter": "kyselyt",
+  "@notificationsPagePollFilter": {
+    "description": "The filter category for poll notifications."
+  },
+  "notificationsPageEditFilter": "muokkaukset",
+  "@notificationsPageEditFilter": {
+    "description": "The filter category for edit notifications."
+  },
+  "notificationsPageAdminSignUpFilter": "ilmoittautumiset ylläpitäjälle",
+  "@notificationsPageAdminSignUpFilter": {
+    "description": "The filter category for admin sign up notifications."
+  },
+  "notificationsPageAdminReportFilter": "raportti ylläpitäjälle",
+  "@notificationsPageAdminReportFilter": {
+    "description": "The filter category for admin report notifications."
+  },
+  "notificationsPageErrorFailedToGetNewPage": "Jotain meni pieleen haettaessa uutta sivua.",
+  "@notificationsPageErrorFailedToGetNewPage": {
+    "description": "Error message when the client fails to fetch new notification content."
+  },
+  "notificationsPageErrorRetry": "Yritä Uudelleen",
+  "@notificationsPageErrorRetry": {
+    "description": "Retry action on notification page fetch failure."
+  },
+  "notificationsPageMarkingAsReadProgress": "Merkitään luetuksi",
+  "@notificationsPageMarkingAsReadProgress": {
+    "description": "Progress text when the notifications page is marked as read."
+  },
+  "notificationsPageMarkingAsReadComplete": "Hälytykset merkitty luetuksi.",
+  "@notificationsPageMarkingAsReadComplete": {
+    "description": "Completed text when the notifications page is marked as read."
+  },
+  "notificationsPageMarkingAsReadFailure": "Hälytysten merkitseminen luetuiksi epäonnistui.",
+  "@notificationsPageMarkingAsReadFailure": {
+    "description": "Failure text when the notifications page is being marked as read."
+  },
+  "notificationsPageGroupedNotificationContext": "{count} käyttäjää",
+  "@notificationsPageGroupedNotificationContext": {
+    "description": "The notification text which states how many people also favorited, boosted, or followed the user.",
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "example": "3"
+      }
+    }
+  },
+  "notificationsPageFollowRequestApproval": "Hyväksy seuraajapyyntö",
+  "@notificationsPageFollowRequestApproval": {
+    "description": "Approval text for a pending follower request."
+  },
+  "notificationsPageFollowRequestRejection": "Hylkää seuraajapyyntö",
+  "@notificationsPageFollowRequestRejection": {
+    "description": "Rejection text for a pending follower request."
+  },
+  "notificationsPageFollowedYou": "seurasi sinua",
+  "@notificationsPageFollowedYou": {
+    "description": "The notification text when someone new followed the user."
+  },
+  "notificationsPageMentionedYou": "mainitsi sinut",
+  "@notificationsPageMentionedYou": {
+    "description": "The notification text when someone mentioned the user."
+  },
+  "notificationsPageBoostedYou": "tehosti julkaisuasi",
+  "@notificationsPageBoostedYou": {
+    "description": "The notification text when someone boosted the users post."
+  },
+  "notificationsPageFavoritedYou": "merkitsi julkaisusu suosikiksi",
+  "@notificationsPageFavoritedYou": {
+    "description": "The notification text when someone favorited the users post."
+  },
+  "notificationsPageFollowedUserPosted": "julkaistu",
+  "@notificationsPageFollowedUserPosted": {
+    "description": "The notification text when someone the user follows posts."
+  },
+  "notificationsPageRequestedToFollowYou": "pyysi saada seurata sinua",
+  "@notificationsPageRequestedToFollowYou": {
+    "description": "The notification text when someone requests to follow the user."
+  },
+  "notificationsPageEndedTheirPoll": "lopetti kyselyn",
+  "@notificationsPageEndedTheirPoll": {
+    "description": "The notification text when a poll a user has voted on has ended."
+  },
+  "notificationsPageUpdatedTheirPost": "päivitti julkaisuaan",
+  "@notificationsPageUpdatedTheirPost": {
+    "description": "The notification text when a post the user has interacted with has been updated."
+  },
+  "notificationsPageUserSignedUp": "rekisteröityi",
+  "@notificationsPageUserSignedUp": {
+    "description": "The notification text when a new user signs up on the server the user is an admin on."
+  },
+  "notificationsPageUserReported": "raportoi julkaisun",
+  "@notificationsPageUserReported": {
+    "description": "The notification text when another user reports a post on the server the user is an admin on."
+  },
+  "commonAccountSwitchProgress": "Vaihdetaan tiliin @{account}",
+  "@commonAccountSwitchProgress": {
+    "description": "The action text, with account placeholder, for switching to an account",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionHiddenByUser": "Käyttäjän piilottama",
+  "@commonActionHiddenByUser": {
+    "description": "The text displayed when a user hides a post intentionally."
+  },
+  "commonActionCopiedPostToClipboard": "Julkaisun linkki kopioitu leikepöydälle",
+  "@commonActionCopiedPostToClipboard": {
+    "description": "The text displayed when a user copies a post to the clipboard."
+  },
+  "commonActionCopiedTrunksLinkToClipboard": "Trunks-linkki kopioitu leikepöydälle",
+  "@commonActionCopiedTrunksLinkToClipboard": {
+    "description": "The text displayed when a user copies a trunks link of a post to the clipboard."
+  },
+  "commonActionBoostProgress": "Tehostetaan...",
+  "@commonActionBoostProgress": {
+    "description": "The progress text displayed when a user is boosting a post."
+  },
+  "commonActionBoostSuccess": "Viestiä tehosti @{account}",
+  "@commonActionBoostSuccess": {
+    "description": "The action text, with account placeholder, for boosting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionBoostFailure": "Tilin @{account} julkaisun tehostaminen epäonnistui",
+  "@commonActionBoostFailure": {
+    "description": "The action text, with account placeholder, for boosting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnboostProgress": "Tehostus perutaan...",
+  "@commonActionUnboostProgress": {
+    "description": "The progress text displayed when a user is unboosting a post."
+  },
+  "commonActionUnboostSuccess": "Tilin @{account} julkaisun tehostus peruttu",
+  "@commonActionUnboostSuccess": {
+    "description": "The action text, with account placeholder, for unboosting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnboostFailure": "Tilin @{account} julkaisun tehostuksen peruminen epäonnistui",
+  "@commonActionUnboostFailure": {
+    "description": "The action text, with account placeholder, for unboosting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionFavoriteProgress": "Merkitään suosikiksi...",
+  "@commonActionFavoriteProgress": {
+    "description": "The progress text displayed when a user is favoriting a post."
+  },
+  "commonActionFavoriteSuccess": "Tilin @{account} julkaisu merkitty suosikiksi",
+  "@commonActionFavoriteSuccess": {
+    "description": "The action text, with account placeholder, for favoriting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionFavoriteFailure": "Tilin @{account} julkaisun merkitseminen suosikiksi epäonnistui",
+  "@commonActionFavoriteFailure": {
+    "description": "The action text, with account placeholder, for favoriting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnfavoriteProgress": "Poistetaan suosikeista...",
+  "@commonActionUnfavoriteProgress": {
+    "description": "The progress text displayed when a user is unfavoriting a post."
+  },
+  "commonActionUnfavoriteSuccess": "Tilin @{account} suosikkimerkintä poistettu",
+  "@commonActionUnfavoriteSuccess": {
+    "description": "The action text, with account placeholder, for unfavoriting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnfavoriteFailure": "Tilin @{account} julkaisun merkitseminen suosikiksi epäonnistui",
+  "@commonActionUnfavoriteFailure": {
+    "description": "The action text, with account placeholder, for unfavoriting a post from an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionMute": "Mykistä",
+  "@commonActionMute": {
+    "description": "The text displayed for the mute action."
+  },
+  "commonActionMuteProgress": "Mykistetään...",
+  "@commonActionMuteProgress": {
+    "description": "The progress text displayed for the mute action."
+  },
+  "commonActionMuteFailure": "Tilin @{account} mykistäminen epäonnistui",
+  "@commonActionMuteFailure": {
+    "description": "The action text, with account placeholder, for muting an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnmuteProgress": "Poistetaan mykistystä...",
+  "@commonActionUnmuteProgress": {
+    "description": "The progress text displayed for the unmute action."
+  },
+  "commonActionUnmuteSuccess": "Tilin @{account} mykistys poistettu",
+  "@commonActionUnmuteSuccess": {
+    "description": "The action text, with account placeholder, for unmuting an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnmuteFailure": "Tilin @{account} mykistyksen poisto epäonnistui",
+  "@commonActionUnmuteFailure": {
+    "description": "The action text, with account placeholder, for unmuting an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionMuteAccountPrompt": "Mykistä @{account}?",
+  "@commonActionMuteAccountPrompt": {
+    "description": "The text displayed for the mute account prompt."
+  },
+  "commonActionMuteAccountPromptIndefiniteOption": "Mykistä ikuisesti",
+  "@commonActionMuteAccountPromptIndefiniteOption": {
+    "description": "The text displayed for the indefinite option in the mute prompt."
+  },
+  "commonActionMuteAccountPromptMinutesOption": "Mykistä {time} minuutiksi",
+  "@commonActionMuteAccountPromptMinutesOption": {
+    "description": "The text displayed for the minutes based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "5"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptHoursOption": "Mykistä {time} tunniksi",
+  "@commonActionMuteAccountPromptHoursOption": {
+    "description": "The text displayed for the hour based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptWeeksOption": "Mykistä {time} viikoksi",
+  "@commonActionMuteAccountPromptWeeksOption": {
+    "description": "The text displayed for the week based time options in the mute prompt.",
+    "placeholders": {
+      "time": {
+        "type": "num",
+        "example": "1"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptIndefiniteOptionSuccess": "Mykistetty @{account} ikuisesti",
+  "@commonActionMuteAccountPromptIndefiniteOptionSuccess": {
+    "description": "The text displayed for the indefinite based time mute.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionMuteAccountPromptTimeOptionSuccess": "Mykistetty @{account} ajaksi",
+  "@commonActionMuteAccountPromptTimeOptionSuccess": {
+    "description": "The text displayed for the time based time mute.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionMuteConversationProgress": "Mykistetään keskustelua...",
+  "@commonActionMuteConversationProgress": {
+    "description": "The progress text displayed when a user is muting a conversation."
+  },
+  "commonActionMuteConversationSuccess": "Keskustelu mykistetty",
+  "@commonActionMuteConversationSuccess": {
+    "description": "The action text, with account placeholder, for muting a conversation."
+  },
+  "commonActionMuteConversationFailure": "Keskustelun mykistys epäonnistui",
+  "@commonActionMuteConversationFailure": {
+    "description": "The action text, with account placeholder, for muting a conversation."
+  },
+  "commonActionUnmuteConversationProgress": "Mykistetään keskustelua...",
+  "@commonActionUnmuteConversationProgress": {
+    "description": "The progress text displayed when a user is muting a conversation."
+  },
+  "commonActionUnmuteConversationSuccess": "Keskustelu mykistetty",
+  "@commonActionUnmuteConversationSuccess": {
+    "description": "The action text, with account placeholder, for muting a conversation"
+  },
+  "commonActionUnmuteConversationFailure": "Keskustelun mykistys epäonnistui",
+  "@commonActionUnmuteConversationFailure": {
+    "description": "The action text, with account placeholder, for muting a conversation"
+  },
+  "commonActionBlockPrompt": "Estä käyttäjä?",
+  "@commonActionBlockPrompt": {
+    "description": "The text displayed for the block account prompt."
+  },
+  "commonActionBlockPromptAreYouSure": "Oletko varma, että haluat estää käyttäjän @{account}?",
+  "@commonActionBlockPromptAreYouSure": {
+    "description": "The text displayed for the block account prompt confirmation.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionBlockPromptAction": "Estä",
+  "@commonActionBlockPromptAction": {
+    "description": "The text displayed for block action in the prompt."
+  },
+  "commonActionBlockingProgress": "Estetään...",
+  "@commonActionBlockingProgress": {
+    "description": "The progress text displayed for the block action."
+  },
+  "commonActionBlockingSuccess": "Estetään @{account}",
+  "@commonActionBlockingSuccess": {
+    "description": "The action text, with account placeholder, for blocking an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionBlockingFailure": "Tilin @{account} estäminen epäonnistui",
+  "@commonActionBlockingFailure": {
+    "description": "The action text, with account placeholder, for blocking an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnblockingProgress": "Esto poistetaan...",
+  "@commonActionUnblockingProgress": {
+    "description": "The progress text displayed for the unblock action."
+  },
+  "commonActionUnblockingSuccess": "Tilin @{account} esto poistetaan",
+  "@commonActionUnblockingSuccess": {
+    "description": "The action text, with account placeholder, for unblocking an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnblockingFailure": "Tilin @{account} esto epäonnistui",
+  "@commonActionUnblockingFailure": {
+    "description": "The action text, with account placeholder, for unblocking an account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionBlockServerPrompt": "Estä palvelin?",
+  "@commonActionBlockServerPrompt": {
+    "description": "The text displayed for the block server prompt."
+  },
+  "commonActionBlockServerPromptAreYouSure": "Oletko varma, että haluat estää {server}. Tämä poistaa myös kaikki seuraajasi, joita sinulla on tällä verkkotunnuksella.",
+  "@commonActionBlockServerPromptAreYouSure": {
+    "description": "The text displayed for the block account server confirmation.",
+    "placeholders": {
+      "server": {
+        "type": "String",
+        "example": "mstdn.social"
+      }
+    }
+  },
+  "commonActionBlockServerPromptAction": "Estä",
+  "@commonActionBlockServerPromptAction": {
+    "description": "The text displayed for block action in the prompt."
+  },
+  "commonActionDeletePrompt": "Poista julkaisu?",
+  "@commonActionDeletePrompt": {
+    "description": "The text displayed for the delete post prompt."
+  },
+  "commonActionDeletePromptAreYouSure": "Oletko varma, että haluat poistaa tämän julkaisun?",
+  "@commonActionDeletePromptAreYouSure": {
+    "description": "The text displayed for the post deletion confirmation."
+  },
+  "commonActionDeletePromptAction": "Poista",
+  "@commonActionDeletePromptAction": {
+    "description": "The text displayed for delete post action in the prompt."
+  },
+  "commonActionDeletingProgress": "Poistetaan...",
+  "@commonActionDeletingProgress": {
+    "description": "The progress text displayed when a user is deleting a post."
+  },
+  "commonActionDeletingSuccess": "Julkaisu poistettu",
+  "@commonActionDeletingSuccess": {
+    "description": "The success text for deleting a post."
+  },
+  "commonActionDeletingFailure": "Julkaisun poisto epäonnistui",
+  "@commonActionDeletingFailure": {
+    "description": "The failure text for deleting a post."
+  },
+  "commonActionPinningProgress": "Kiinnitetään...",
+  "@commonActionPinningProgress": {
+    "description": "The progress text displayed when a user is pinning a post."
+  },
+  "commonActionPinningSuccess": "Kiinnitetty julkaisu",
+  "@commonActionPinningSuccess": {
+    "description": "The success text for pinning a post."
+  },
+  "commonActionPinningFailure": "Julkaisun kiinnitys epäonnistui",
+  "@commonActionPinningFailure": {
+    "description": "The failure text for pinning a post."
+  },
+  "commonActionUnpinningProgress": "Irrotetaan...",
+  "@commonActionUnpinningProgress": {
+    "description": "The progress text displayed when a user is unpinning a post."
+  },
+  "commonActionUnpinningSuccess": "Julkaisu irrotettu",
+  "@commonActionUnpinningSuccess": {
+    "description": "The success text for unpinning a post."
+  },
+  "commonActionUnpinningFailure": "Julkaisun irrotus epäonnistui",
+  "@commonActionUnpinningFailure": {
+    "description": "The failure text for unpinning a post."
+  },
+  "commonActionUnbookmarkingProgress": "Kirjamerkki poistetaan...",
+  "@commonActionUnbookmarkingProgress": {
+    "description": "The progress text displayed when a user is unbookmarking a post."
+  },
+  "commonActionUnbookmarkingSuccess": "Kirjamerkki poistettu",
+  "@commonActionUnbookmarkingSuccess": {
+    "description": "The success text for unbookmarking a post."
+  },
+  "commonActionUnbookmarkingFailure": "Kirjamerkin poisto epäonnistui",
+  "@commonActionUnbookmarkingFailure": {
+    "description": "The failure text for unbookmarking a post."
+  },
+  "commonActionBookmarkingProgress": "Kirjamerkki lisätään...",
+  "@commonActionBookmarkingProgress": {
+    "description": "The progress text displayed when a user is bookmarking a post."
+  },
+  "commonActionBookmarkingSuccess": "Kirjamerkki lisätty",
+  "@commonActionBookmarkingSuccess": {
+    "description": "The success text for bookmarking a post."
+  },
+  "commonActionBookmarkingFailure": "Kirjamerkin lisäys epäonnistui",
+  "@commonActionBookmarkingFailure": {
+    "description": "The failure text for bookmarking a post."
+  },
+  "commonActionApprovingProgress": "Hyväksytään...",
+  "@commonActionApprovingProgress": {
+    "description": "The progress text displayed for the follow request approving action."
+  },
+  "commonActionApprovingSuccess": "Hyväksytty @{account}",
+  "@commonActionApprovingSuccess": {
+    "description": "The action text, with account placeholder, for approving a follower account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionApprovingFailure": "Ei voitu hyväksyä @{account}",
+  "@commonActionApprovingFailure": {
+    "description": "The action text, with account placeholder, for approving a follower account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionRejectingProgress": "Hylätään...",
+  "@commonActionRejectingProgress": {
+    "description": "The progress text displayed for the follow request rejecting action."
+  },
+  "commonActionRejectingSuccess": "Hylätty @{account}",
+  "@commonActionRejectingSuccess": {
+    "description": "The action text, with account placeholder, for rejecting a follower account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionRejectingFailure": "Virhe hylättäessä @{account}",
+  "@commonActionRejectingFailure": {
+    "description": "The action text, with account placeholder, for rejecting a follower account.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionDeleteFilterPrompt": "Poista suodatin ${filter}?",
+  "@commonActionDeleteFilterPrompt": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionDeleteFilterPromptAreYouSure": "Oletko varma, että haluat poistaa suodattimen ${filter}?",
+  "@commonActionDeleteFilterPromptAreYouSure": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionDeleteFilterAction": "Poista",
+  "@commonActionDeleteFilterAction": {
+    "description": "The action text displayed for the delete filter action."
+  },
+  "commonActionDeletingFilterProgress": "Poistetaan suodatin ${filter}...",
+  "@commonActionDeletingFilterProgress": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionDeletingFilterSuccess": "Poistettu suodatin ${filter}",
+  "@commonActionDeletingFilterSuccess": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionDeletingFilterFailure": "Suodattimen ${filter} poistaminen epäonnistui",
+  "@commonActionDeletingFilterFailure": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionCreatingFilterProgress": "Luodaan suodatin ${filter}...",
+  "@commonActionCreatingFilterProgress": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionCreatingFilterSuccess": "Suodatin ${filter} luotu",
+  "@commonActionCreatingFilterSuccess": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionCreatingFilterFailure": "Suodattimen ${filter} luominen epäonnistui",
+  "@commonActionCreatingFilterFailure": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionUpdatingFilterProgress": "Päivitetään suodatin ${filter}...",
+  "@commonActionUpdatingFilterProgress": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionUpdatingFilterSuccess": "Suodatin ${filter} päivitetty",
+  "@commonActionUpdatingFilterSuccess": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionUpdatingFilterFailure": "Suodattimen ${filter} päivitys epäonnistui",
+  "@commonActionUpdatingFilterFailure": {
+    "description": "Name of a filter",
+    "placeholders": {
+      "filter": {
+        "type": "String",
+        "example": "Cat Filter"
+      }
+    }
+  },
+  "commonActionPublishingProgress": "Julkaistaan...",
+  "@commonActionPublishingProgress": {
+    "description": "The progress text displayed when a user is publishing a post."
+  },
+  "commonActionPublishingSuccess": "Julkaistu",
+  "@commonActionPublishingSuccess": {
+    "description": "The success text for publishing a post."
+  },
+  "commonActionPublishingFailure": "Julkaisu epäonnistui",
+  "@commonActionPublishingFailure": {
+    "description": "The failure text for publishing a post."
+  },
+  "commonActionSchedulingProgress": "Julkaisu ajoitetaan...",
+  "@commonActionSchedulingProgress": {
+    "description": "The progress text displayed when a user is scheduling a post."
+  },
+  "commonActionSchedulingSuccess": "Ajoitettu julkaisu",
+  "@commonActionSchedulingSuccess": {
+    "description": "The success text for scheduling a post."
+  },
+  "commonActionSchedulingFailure": "Julkaisun ajoitus epäonnistui",
+  "@commonActionSchedulingFailure": {
+    "description": "The failure text for scheduling a post."
+  },
+  "commonActionUpdatingProgress": "Päivitetään julkaisua...",
+  "@commonActionUpdatingProgress": {
+    "description": "The progress text displayed when a user is updating a post."
+  },
+  "commonActionUpdatingSuccess": "Päivitetty julkaisu",
+  "@commonActionUpdatingSuccess": {
+    "description": "The success text for updating a post."
+  },
+  "commonActionFollowingProgress": "Seurataan...",
+  "@commonActionFollowingProgress": {
+    "description": "The progress text displayed for the following action."
+  },
+  "commonActionFollowingSuccess": "Seurataan {account}",
+  "@commonActionFollowingSuccess": {
+    "description": "The action text, with account placeholder, for following an account or tag.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionFollowingFailure": "Tilin {account} seuraaminen epäonnistui",
+  "@commonActionFollowingFailure": {
+    "description": "The action text, with account placeholder, for following an account or tag.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnfollowingProgress": "Seuraaminen lopetetaan...",
+  "@commonActionUnfollowingProgress": {
+    "description": "The progress text displayed for the unfollowing action."
+  },
+  "commonActionUnfollowingSuccess": "Tilin {account} seuraaminen lopetettu",
+  "@commonActionUnfollowingSuccess": {
+    "description": "The action text, with account placeholder, for unfollowing an account or tag.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionUnfollowingFailure": "{account} seuraamisen peruminen epäonnistui",
+  "@commonActionUnfollowingFailure": {
+    "description": "The action text, with account placeholder, for unfollowing an account or tag.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionAddingProgress": "Lisätään...",
+  "@commonActionAddingProgress": {
+    "description": "The progress text displayed for the adding an account to a list action."
+  },
+  "commonActionAddingSuccess": "Lisätty @{account}",
+  "@commonActionAddingSuccess": {
+    "description": "The action text, with account placeholder, for adding an account to a list.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionAddingFailure": "Tilin @{account} lisääminen epäonnistui",
+  "@commonActionAddingFailure": {
+    "description": "The action text, with account placeholder, for adding an account to a list.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionRemovingProgress": "Poistetaan...",
+  "@commonActionRemovingProgress": {
+    "description": "The progress text displayed for the removing an account to a list action."
+  },
+  "commonActionRemovingSuccess": "Tili @{account} poistettu",
+  "@commonActionRemovingSuccess": {
+    "description": "The action text, with account placeholder, for removing an account to a list.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionRemovingFailure": "Tilin @{account} poistaminen epäonnistui",
+  "@commonActionRemovingFailure": {
+    "description": "The action text, with account placeholder, for removing an account to a list.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "commonActionDeleteListPrompt": "Poista lista?",
+  "@commonActionDeleteListPrompt": {
+    "description": "The text displayed for the delete list prompt."
+  },
+  "commonActionDeleteListPromptAreYouSure": "Oletko varma, että haluat poistaa tämän listan?",
+  "@commonActionDeleteListPromptAreYouSure": {
+    "description": "The text displayed for the delete list prompt confirmation."
+  },
+  "commonActionDeleteListPromptAction": "Poista",
+  "@commonActionDeleteListPromptAction": {
+    "description": "The text displayed for delete action in the prompt."
+  },
+  "commonActionDeleteListProgress": "Poistetaan...",
+  "@commonActionDeleteListProgress": {
+    "description": "The progress text displayed for the delete list action."
+  },
+  "commonActionDeleteListSuccess": "Poistettu {list}",
+  "@commonActionDeleteListSuccess": {
+    "description": "The action text, with account placeholder, for deleting a list.",
+    "placeholders": {
+      "list": {
+        "type": "String",
+        "example": "list one"
+      }
+    }
+  },
+  "commonActionDeleteListFailure": "{list} poistaminen epäonnistui",
+  "@commonActionDeleteListFailure": {
+    "description": "The action text, with account placeholder, for deleting a list.",
+    "placeholders": {
+      "list": {
+        "type": "String",
+        "example": "list one"
+      }
+    }
+  },
+  "commonActionCreateListProgress": "Luodaan...",
+  "@commonActionCreateListProgress": {
+    "description": "The progress text displayed for the create list action."
+  },
+  "commonActionCreateListSuccess": "Luotu {list}",
+  "@commonActionCreateListSuccess": {
+    "description": "The action text, with account placeholder, for creating a list.",
+    "placeholders": {
+      "list": {
+        "type": "String",
+        "example": "list one"
+      }
+    }
+  },
+  "commonActionCreateListFailure": "{list} luominen epäonnistui",
+  "@commonActionCreateListFailure": {
+    "description": "The action text, with account placeholder, for creating a list.",
+    "placeholders": {
+      "list": {
+        "type": "String",
+        "example": "list one"
+      }
+    }
+  },
+  "commonActionVoteProgress": "Äänestetään...",
+  "@commonActionVoteProgress": {
+    "description": "The text displayed for the voting progress."
+  },
+  "commonActionVoteSuccess": "Äänestetty kyselyssä",
+  "@commonActionVoteSuccess": {
+    "description": "The text displayed for the voting success."
+  },
+  "commonActionVoteFailure": "Äänestäminen epäonnistui",
+  "@commonActionVoteFailure": {
+    "description": "The text displayed for the voting failure."
+  },
+  "commonActionTranslatingProgress": "Käännetään...",
+  "@commonActionTranslatingProgress": {
+    "description": "The text displayed for the translating progress."
+  },
+  "commonActionTranslatingSuccess": "Käännetty",
+  "@commonActionTranslatingSuccess": {
+    "description": "The text displayed for the translating success."
+  },
+  "commonActionTranslatingFailure": "Kääntäminen epäonnistui. Ota yhteyttä palvelimeesi ja raportoi virhe",
+  "@commonActionTranslatingFailure": {
+    "description": "The text displayed for the translating failure."
+  },
+  "commonActionDeleteScheduledPostPrompt": "Peruuta ajoitettu julkaisu?",
+  "@commonActionDeleteScheduledPostPrompt": {
+    "description": "The text displayed for the scheduled post delete prompt."
+  },
+  "commonActionDeleteScheduledPostPromptAreYouSure": "Oletko varma, että haluat poistaa tämän ajoitetun julkaisun?",
+  "@commonActionDeleteScheduledPostPromptAreYouSure": {
+    "description": "The text displayed for the scheduled post delete confirmation."
+  },
+  "commonActionDeleteScheduledPostPromptAction": "Poista",
+  "@commonActionDeleteScheduledPostPromptAction": {
+    "description": "The text displayed for delete action in the prompt."
+  },
+  "commonActionDeleteScheduledPostProgress": "Poistetaan ajastettua julkaisua...",
+  "@commonActionDeleteScheduledPostProgress": {
+    "description": "The text displayed for the deleting scheduled post progress."
+  },
+  "commonActionDeleteScheduledPostSuccess": "Poistettu ajoitettu julkaisu",
+  "@commonActionDeleteScheduledPostSuccess": {
+    "description": "The text displayed for the deleting scheduled post success."
+  },
+  "commonActionDeleteScheduledPostFailure": "Ei voitu poistaa ajoitettua julkaisua",
+  "@commonActionDeleteScheduledPostFailure": {
+    "description": "The text displayed for the deleting scheduled post failure."
+  },
+  "commonNavigateHomeTooltip": "Siirry etusivulle",
+  "@commonNavigateHomeTooltip": {
+    "description": "The home button tooltip text."
+  },
+  "errorPageTitle": "Virhe",
+  "@errorPageTitle": {
+    "description": "The title of the error page."
+  },
+  "errorPageContent": "Hups, jokin meni pieleen.",
+  "@errorPageContent": {
+    "description": "The content of the error page."
+  },
+  "errorPageAction": "Siirry Takaisin",
+  "@errorPageAction": {
+    "description": "The action of the error page button."
+  },
+  "pollExpirationNever": "Älä sulje koskaan",
+  "@pollExpirationNever": {
+    "description": "The poll never closes, never expires."
+  },
+  "listFirstPageError": "Sisältöä ei voitu ladata",
+  "@listFirstPageError": {
+    "description": "Page text when list fails to load content at first."
+  },
+  "listFirstPageErrorAction": "Yritä Uudelleen",
+  "@listFirstPageErrorAction": {
+    "description": "Page action text when list fails to load content at first."
+  },
+  "listFirstPageNoItems": "Kohteita ei löytynyt",
+  "@listFirstPageNoItems": {
+    "description": "Page text when list has no content."
+  },
+  "listFirstPageNoItemsAction": "Päivitä",
+  "@listFirstPageNoItemsAction": {
+    "description": "Page action text when list has no content."
+  },
+  "listFirstPageNoMoreItems": "Enempää kohteita ei löytynyt",
+  "@listFirstPageNoMoreItems": {
+    "description": "Page text when list has no more content."
+  },
+  "visibilityDescriptionPublic": "Näkyy kaikille, näytetään julkisilla aikajanoilla",
+  "@visibilityDescriptionPublic": {
+    "description": "The description of the public visibility setting."
+  },
+  "visibilityDescriptionUnlisted": "Näkyy julkisesti, mutta ei sisälly julkisiin aikajanoihin.",
+  "@visibilityDescriptionUnlisted": {
+    "description": "The description of the unlisted visibility setting."
+  },
+  "visibilityDescriptionPrivate": "Näkyy vain seuraajille ja kaikille mainituille käyttäjille.",
+  "@visibilityDescriptionPrivate": {
+    "description": "The description of the private visibility setting."
+  },
+  "visibilityDescriptionDirect": "Näkyy vain mainituille käyttäjille.",
+  "@visibilityDescriptionDirect": {
+    "description": "The description of the direct visibility setting."
+  },
+  "loginPageTitle": "kirjaudu",
+  "@loginPageTitle": {
+    "description": "The title of the login page."
+  },
+  "readMoreTextButton": "lue lisää",
+  "@readMoreTextButton": {
+    "description": "The text button to expand long text to read more."
+  },
+  "pollVoteAction": "äänestä",
+  "@pollVoteAction": {
+    "description": "The action to vote in a poll."
+  },
+  "pollExpirationExpired": "Suljettu",
+  "@pollExpirationExpired": {
+    "description": "The poll is closed"
+  },
+  "pollExpirationClosesIn": "Sulkeutuu",
+  "@pollExpirationClosesIn": {
+    "description": "The prefix for duration of when a poll will close."
+  },
+  "pollEnterTextHereHint": "Syötä kyselyn vaihtoehto tähän...",
+  "@pollEnterTextHereHint": {
+    "description": "The hint for entering a poll option."
+  },
+  "postResolverProgress": "Avataan julkaisua...",
+  "@postResolverProgress": {
+    "description": "The progress text for resolving a non local (on the users server) post."
+  },
+  "accountResolverProgress": "Avataan tiliä...",
+  "@accountResolverProgress": {
+    "description": "The progress text for resolving a non local (on the users server) account."
+  },
+  "accountResolverFailure": "Tilin avaaminen ei onnistunut.",
+  "@accountResolverFailure": {
+    "description": "The failure text for resolving a non local (on the users server) account."
+  },
+  "composePageSaveDraftPromptTitle": "Tallennetaanko luonnos?",
+  "@composePageSaveDraftPromptTitle": {
+    "description": "The compose page save draft prompt title."
+  },
+  "composePageSaveDraftPromptContent": "Haluatko tallentaa nykyisen luonnoksesi?",
+  "@composePageSaveDraftPromptContent": {
+    "description": "The compose page save draft prompt content."
+  },
+  "composePageSaveDraftPromptDiscard": "Poistu tallentamatta",
+  "@composePageSaveDraftPromptDiscard": {
+    "description": "The compose page save draft prompt discard option."
+  },
+  "composePageSaveDraftPromptSave": "Tallenna ja poistu",
+  "@composePageSaveDraftPromptSave": {
+    "description": "The compose page save draft prompt save option."
+  },
+  "composePageExit": "Poistu kirjoitustilasta",
+  "@composePageExit": {
+    "description": "The compose page exit tooltip."
+  },
+  "composePageTitleCreate": "kirjoita",
+  "@composePageTitleCreate": {
+    "description": "The compose page title when creating a new post."
+  },
+  "composePageTitleEdit": "muokkaa",
+  "@composePageTitleEdit": {
+    "description": "The compose page title when editing a post."
+  },
+  "composePageLanguageTooltip": "julkaisun kieli",
+  "@composePageLanguageTooltip": {
+    "description": "The compose page language button tooltip."
+  },
+  "composePageLanguageLoadFailure": "Kieliä ei voi ladata",
+  "@composePageLanguageLoadFailure": {
+    "description": "The compose page language button loading failure."
+  },
+  "composePageDrafts": "luonnokset",
+  "@composePageDrafts": {
+    "description": "The compose drafts button."
+  },
+  "composePageDraftsEmpty": "Sinulla ei ole luonnoksia",
+  "@composePageDraftsEmpty": {
+    "description": "The compose drafts empty content."
+  },
+  "composePageScheduledPosts": "ajoitetut julkaisut",
+  "@composePageScheduledPosts": {
+    "description": "The compose scheduled posts button."
+  },
+  "composePageScheduledPostsProgress": "Ladataan ajoitettuja julkaisuja...",
+  "@composePageScheduledPostsProgress": {
+    "description": "The compose scheduled posts progress button for loading."
+  },
+  "composePageScheduledPostsEmpty": "Sinulla ei ole ajoitettuja viestejä. Paina pitkään julkaisupainiketta ajoittaaksesi uuden viestin.",
+  "@composePageScheduledPostsEmpty": {
+    "description": "The compose scheduled posts empty content."
+  },
+  "composePageScheduledPostsCancelTooltip": "Peruuta ajoitettu julkaisu",
+  "@composePageScheduledPostsCancelTooltip": {
+    "description": "The compose scheduled posts cancel action tooltip."
+  },
+  "composePageScheduledPostsFailure": "Ei voitu ladata ajoitettuja julkaisuja",
+  "@composePageScheduledPostsFailure": {
+    "description": "The compose scheduled posts loading failure."
+  },
+  "composePageScheduledFiveMinuteWarning": "Aikataulutetun julkaisun on oltava vähintään 5 minuuttia tulevaisuudessa",
+  "@composePageScheduledFiveMinuteWarning": {
+    "description": "The compose scheduled posts warning for notifying that posts need to be at least 5 minutes into the future."
+  },
+  "composePageFormattingHelp": "muotoiluohje",
+  "@composePageFormattingHelp": {
+    "description": "The compose formatting help button."
+  },
+  "composePageAttachCopiedImageSuggestion": "Liitä kopioitu kuva",
+  "@composePageAttachCopiedImageSuggestion": {
+    "description": "Suggestion shown when there is a copied image in the clipboard."
+  },
+  "composePageWriteTab": "kirjoita",
+  "@composePageWriteTab": {
+    "description": "The compose page write tab."
+  },
+  "composePagePreviewTab": "esikatselu",
+  "@composePagePreviewTab": {
+    "description": "The compose page preview tab."
+  },
+  "composePageContentLabelCategoryTitle": "sisältökyltti",
+  "@composePageContentLabelCategoryTitle": {
+    "description": "The compose page content label category title."
+  },
+  "composePageContentLabelCategoryDescription": "Sisältökyltti kätkee julkaisusi sisällön tekstinsä taakse. Käytä sitä varoituksiin, spoilereihin, arkoihin aiheisiin tai mihin tahansa, jonka haluat harvempien näkevän.",
+  "@composePageContentLabelCategoryDescription": {
+    "description": "The compose page content label category description."
+  },
+  "composePageContentLabelHint": "Syötä sisältökyltin teksti",
+  "@composePageContentLabelHint": {
+    "description": "The compose page content label input hint text"
+  },
+  "composePageReplyingToHeader": "Vastataan @{account}...",
+  "@composePageReplyingToHeader": {
+    "description": "The header for when the user is replying to another post.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "composePageLabelMediaAsSensitive": "Merkitse media arkaluontoiseksi?",
+  "@composePageLabelMediaAsSensitive": {
+    "description": "The compose page checkbox for marking attached media as sensitive."
+  },
+  "composePageAttachmentsTooltip": "Liitteet",
+  "@composePageAttachmentsTooltip": {
+    "description": "The compose page attachments button tooltip."
+  },
+  "composePagePollsTooltip": "Kyselyt",
+  "@composePagePollsTooltip": {
+    "description": "The compose page polls button tooltip."
+  },
+  "composePageEmojisTooltip": "Emojit",
+  "@composePageEmojisTooltip": {
+    "description": "The compose page emojis button tooltip."
+  },
+  "composePageCWTooltip": "Sisältökyltti",
+  "@composePageCWTooltip": {
+    "description": "The compose page content label button tooltip."
+  },
+  "composePageVisibilityTooltip": "Julkaisun näkyvyys",
+  "@composePageVisibilityTooltip": {
+    "description": "The compose page post visibility button tooltip."
+  },
+  "composePagePublish": "Julkaise",
+  "@composePagePublish": {
+    "description": "The compose page publish button."
+  },
+  "composePageSchedule": "Ajastus",
+  "@composePageSchedule": {
+    "description": "The compose page schedule button."
+  },
+  "composePageUpdate": "Päivitys",
+  "@composePageUpdate": {
+    "description": "The compose page update button."
+  },
+  "composePageSchedulingFooter": "Ajastettu",
+  "@composePageSchedulingFooter": {
+    "description": "The compose page scheduled footer."
+  },
+  "composePageAttachmentVideo": "Video",
+  "@composePageAttachmentVideo": {
+    "description": "The compose page video attachment button."
+  },
+  "composePageAttachmentImage": "Kuva",
+  "@composePageAttachmentImage": {
+    "description": "The compose page image attachment button."
+  },
+  "composePagePollOptionAdd": "Lisää Valinta",
+  "@composePagePollOptionAdd": {
+    "description": "The compose page poll add option."
+  },
+  "composePageContentPollOptionsCategoryTitle": "valinnat",
+  "@composePageContentPollOptionsCategoryTitle": {
+    "description": "The compose page poll options category title."
+  },
+  "composePageContentPollOptionsCategoryDescription": "Nämä ovat ne vaihtoehdot, jotka edustavat kyselyäsi.",
+  "@composePageContentPollOptionsCategoryDescription": {
+    "description": "The compose page poll options category description."
+  },
+  "composePagePollMultipleChoice": "Useita valintoja",
+  "@composePagePollMultipleChoice": {
+    "description": "The compose page checkbox for marking a poll as multiple choice."
+  },
+  "composePageContentExpirationCategoryTitle": "päättyminen",
+  "@composePageContentExpirationCategoryTitle": {
+    "description": "The compose page poll expiration category title."
+  },
+  "composePageContentExpirationCategoryDescription": "Aika jolloin kyselyn on määrä päättyä.",
+  "@composePageContentExpirationCategoryDescription": {
+    "description": "The compose page poll expiration category description."
+  },
+  "composePagePollHeader": "kysely",
+  "@composePagePollHeader": {
+    "description": "The compose page poll prompt title."
+  },
+  "composePageSuggestions": "Ehdotukset",
+  "@composePageSuggestions": {
+    "description": "The compose page suggestions header."
+  },
+  "composePageAllAccountsSuggestion": "kaikki tilit",
+  "@composePageAllAccountsSuggestion": {
+    "description": "The compose page all accounts suggestion."
+  },
+  "composePageTagAllSuggestion": "merkitse kaikki",
+  "@composePageTagAllSuggestion": {
+    "description": "The compose page tag all suggestion."
+  },
+  "composePageInputHint": "Mitä mietit?",
+  "@composePageInputHint": {
+    "description": "The compose page input hint."
+  },
+  "composePageAttachmentFailure": "Liitetiedoston lisääminen epäonnistui",
+  "@composePageAttachmentFailure": {
+    "description": "The compose page attachment failure."
+  },
+  "composePageAttachmentUploadFailure": "Liitteen lataaminen epäonnistui",
+  "@composePageAttachmentUploadFailure": {
+    "description": "The compose page attachment upload failure."
+  },
+  "composePageScheduleFailure": "Viestiä ei voi ajoittaa, säädä aikaa vähintään 5 minuuttia tulevaisuuteen.",
+  "@composePageScheduleFailure": {
+    "description": "The compose page schedule failure."
+  },
+  "composePageTooLongFailure": "Viestiä ei voi lähettää. Se on liian pitkä.",
+  "@composePageTooLongFailure": {
+    "description": "The compose page too long failure."
+  },
+  "composePageMediaOptionsPromptTitle": "Median asetukset",
+  "@composePageMediaOptionsPromptTitle": {
+    "description": "The compose page media options prompt title."
+  },
+  "composePageMediaOptionsPromptModify": "Muokkaa sisällön kuvausta",
+  "@composePageMediaOptionsPromptModify": {
+    "description": "The compose page media options prompt modify option."
+  },
+  "composePageMediaOptionsPromptAdd": "Lisää sisällön kuvaus",
+  "@composePageMediaOptionsPromptAdd": {
+    "description": "The compose page media options prompt add option."
+  },
+  "composePageContentDescriptionPromptTitle": "Sisällön kuvaus",
+  "@composePageContentDescriptionPromptTitle": {
+    "description": "The compose page content description prompt title."
+  },
+  "composePageContentDescriptionPromptInput": "Lisää sisällön kuvaus",
+  "@composePageContentDescriptionPromptInput": {
+    "description": "The compose page content description prompt input hint."
+  },
+  "reachPageTitle": "tavoittavuus",
+  "@reachPageTitle": {
+    "description": "The reach page title."
+  },
+  "detailPagePostTitle": "tilin @{account} julkaisu",
+  "@detailPagePostTitle": {
+    "description": "The title for the detail page for when reading a post from a another user.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "detailPageThreadTitle": "tilin @{account} lanka",
+  "@detailPageThreadTitle": {
+    "description": "The title for the detail page for when reading a thread from a another user.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "detailPageShowContext": "Näytä konteksti",
+  "@detailPageShowContext": {
+    "description": "The show context button on another uses post/thread."
+  },
+  "detailPageShowMoreComments": "Näytä vielä {number} kommentti(a)",
+  "@detailPageShowMoreComments": {
+    "description": "The button text for showing more comments.",
+    "placeholders": {
+      "number": {
+        "type": "num",
+        "example": "5"
+      }
+    }
+  },
+  "detailPageShowAllSensitiveContent": "näytä kaikki arkaluontoiset sisällöt",
+  "@detailPageShowAllSensitiveContent": {
+    "description": "The chip button to show all sensitive content."
+  },
+  "detailPageUnrollAsArticle": "pura artikkeliksi",
+  "@detailPageUnrollAsArticle": {
+    "description": "The chip button to unroll a thread as an article."
+  },
+  "editPageCurrent": "nykyinen",
+  "@editPageCurrent": {
+    "description": "The edit page current edit header."
+  },
+  "editPageOriginal": "alkuperäinen",
+  "@editPageOriginal": {
+    "description": "The edit page original edit header."
+  },
+  "editPageLoadFailure": "Muokkaushistoriaa ei voi ladata",
+  "@editPageLoadFailure": {
+    "description": "The edit page loading failure."
+  },
+  "imageViewerPageOpenBrowser": "Avaa selaimessa",
+  "@imageViewerPageOpenBrowser": {
+    "description": "The viewer page browser button."
+  },
+  "exploreConfigPageTitle": "tutki lähteitä",
+  "@exploreConfigPageTitle": {
+    "description": "The explore config page title."
+  },
+  "exploreConfigPageEmpty": "Sinulla ei ole ulkoisia lähteitä, klikkaa + luodaksesi sellaisen.",
+  "@exploreConfigPageEmpty": {
+    "description": "The explore config page empty content."
+  },
+  "exploreConfigPageAdd": "lisää lähde",
+  "@exploreConfigPageAdd": {
+    "description": "The explore config page add source button."
+  },
+  "exploreConfigPageRemoveTooltip": "Poista lähde",
+  "@exploreConfigPageRemoveTooltip": {
+    "description": "The explore config page add source button."
+  },
+  "exploreConfigPageAddSourcePromptTitle": "Lisää lähde tutkittavaksi",
+  "@exploreConfigPageAddSourcePromptTitle": {
+    "description": "The explore config page add source prompt"
+  },
+  "explorePageTitle": "tutki",
+  "@explorePageTitle": {
+    "description": "The explore page title."
+  },
+  "explorePageCategoryPosts": "julkaisut",
+  "@explorePageCategoryPosts": {
+    "description": "The explore page posts category."
+  },
+  "explorePageCategoryPostViewMoreTooltip": "Tutki nousussa olevia julkaisuja",
+  "@explorePageCategoryPostViewMoreTooltip": {
+    "description": "The explore page posts category view more tooltip."
+  },
+  "explorePageCategoryTags": "tags",
+  "@explorePageCategoryTags": {
+    "description": "The explore page tags category."
+  },
+  "explorePageCategoryTagsViewMoreTooltip": "View more trending tags",
+  "@explorePageCategoryTagsViewMoreTooltip": {
+    "description": "The explore page tags category view more tooltip."
+  },
+  "explorePageCategoryLinks": "links",
+  "@explorePageCategoryLinks": {
+    "description": "The explore page links category."
+  },
+  "explorePageCategoryLinksViewMoreTooltip": "View more trending links",
+  "@explorePageCategoryLinksViewMoreTooltip": {
+    "description": "The explore page links category view more tooltip."
+  },
+  "explorePageCategoryFollowSuggestions": "follow suggestions",
+  "@explorePageCategoryFollowSuggestions": {
+    "description": "The explore page follow suggestions category."
+  },
+  "explorePageTrendingText": "trending {content}",
+  "@explorePageTrendingText": {
+    "description": "The header text for trending content",
+    "placeholders": {
+      "content": {
+        "type": "String",
+        "example": "posts"
+      }
+    }
+  },
+  "serverDetailsMonthlyUsers": "monthly users",
+  "@serverDetailsMonthlyUsers": {
+    "description": "Server details monthly users header."
+  },
+  "serverDetailsDescription": "description",
+  "@serverDetailsDescription": {
+    "description": "Server details description."
+  },
+  "serverDetailsContactAccount": "contact account",
+  "@serverDetailsContactAccount": {
+    "description": "Server details contact account."
+  },
+  "serverDetailsStats": "stats",
+  "@serverDetailsStats": {
+    "description": "Server details stats."
+  },
+  "searchPageAccountsHeader": "accounts",
+  "@searchPageAccountsHeader": {
+    "description": "Search page accounts category header."
+  },
+  "searchPageTagsHeader": "tags",
+  "@searchPageTagsHeader": {
+    "description": "Search page tags category header."
+  },
+  "searchPagePostsHeader": "posts",
+  "@searchPagePostsHeader": {
+    "description": "Search page posts category header."
+  },
+  "searchPageServersHeader": "servers",
+  "@searchPageServersHeader": {
+    "description": "Search page servers category header."
+  },
+  "searchPageLoadMore": "Load more",
+  "@searchPageLoadMore": {
+    "description": "Search page load more action."
+  },
+  "searchPageInputHint": "Search...",
+  "@searchPageInputHint": {
+    "description": "Search page main input hint."
+  },
+  "searchPageActionTooltip": "Perform search",
+  "@searchPageActionTooltip": {
+    "description": "Search page main input action tooltip."
+  },
+  "feedCardHidePostAction": "Hide post",
+  "@feedCardHidePostAction": {
+    "description": "Feed card hide post action."
+  },
+  "feedCardOpenOnAction": "Open on {host}",
+  "@feedCardOpenOnAction": {
+    "description": "Feed card open on original server action.",
+    "placeholders": {
+      "host": {
+        "type": "String",
+        "example": "mstdn.social"
+      }
+    }
+  },
+  "feedCardCopyTrunksLinkAction": "Copy trunks link",
+  "@feedCardCopyTrunksLinkAction": {
+    "description": "Feed card copy trunks link action."
+  },
+  "feedCardMuteConversationAction": "Mute conversation",
+  "@feedCardMuteConversationAction": {
+    "description": "Feed card mute conversation action."
+  },
+  "feedCardUnmuteConversationAction": "Unmute conversation",
+  "@feedCardUnmuteConversationAction": {
+    "description": "Feed card unmute conversation action."
+  },
+  "feedCardTranslateAction": "Translate",
+  "@feedCardTranslateAction": {
+    "description": "Feed card translate action."
+  },
+  "feedCardPinPostAction": "Pin post",
+  "@feedCardPinPostAction": {
+    "description": "Feed card pin post action."
+  },
+  "feedCardUnpinPostAction": "Unpin post",
+  "@feedCardUnpinPostAction": {
+    "description": "Feed card unpin post action."
+  },
+  "feedCardReportPostAction": "Report post",
+  "@feedCarReportPostAction": {
+    "description": "Feed card report post action."
+  },
+  "feedCardPostSourceTextPromptTitle": "Post source text",
+  "@feedCardPostSourceTextPromptTitle": {
+    "description": "Feed card post source prompt title"
+  },
+  "feedCardViewReachAction": "View reach",
+  "@feedCardViewReachAction": {
+    "description": "Feed card view reach action."
+  },
+  "feedCardEditedStatus": "edited",
+  "@feedCardEditedStatus": {
+    "description": "Signifies that a post has been edited."
+  },
+  "feedCardContentLabelPrefix": "content label",
+  "@feedCardContentLabelPrefix": {
+    "description": "The prefix for any content label on a post."
+  },
+  "feedCardContentLabelPrefixDescription": "This user has placed a spoiler on this post. Click \"show content\" to view the content",
+  "@feedCardContentLabelPrefixDescription": {
+    "description": "The prefix description for any content label on a post."
+  },
+  "feedCardFilteredStatus": "filtered",
+  "@feedCardFilteredStatus": {
+    "description": "Signifies that a post has been filtered with a content label."
+  },
+  "feedCardFilteredStatusDescription": "Tämän sisällön suodatti yksi suodattimistasi",
+  "@feedCardFilteredStatusDescription": {
+    "description": "The description for when a post has been filtered with a content label."
+  },
+  "feedCardSensitiveMediaStatus": "arkaluontoinen media",
+  "@feedCardSensitiveMediaStatus": {
+    "description": "Signifies that a post has been marked as containing sensitive media with a content label."
+  },
+  "feedCardSensitiveMediaStatusDescription": "Tämä käyttäjä merkitsi median arkaluontoiseksi, mutta ei lisännyt sisältökylttiä",
+  "@feedCardSensitiveMediaStatusDescription": {
+    "description": "The description for when a post has been marked as containing sensitive media with a content label."
+  },
+  "feedCardTranslatedStatus": "Käännetty kielestä {language} käyttäen {service}",
+  "@feedCardTranslatedStatus": {
+    "description": "Signifies that the post has been translated.",
+    "placeholders": {
+      "language": {
+        "type": "String",
+        "example": "chinese"
+      },
+      "service": {
+        "type": "String",
+        "example": "magic translator machine"
+      }
+    }
+  },
+  "feedCardOngoingThreadAnnotation": "meneillään olevana lankana",
+  "@feedCardOngoingThreadAnnotation": {
+    "description": "Annotation denoting that the post is part of an ongoing thread."
+  },
+  "feedCardAsReplyAnnotation": "vastauksena",
+  "@feedCardAsReplyAnnotation": {
+    "description": "Annotation denoting that the post is a reply, but we don't know to what."
+  },
+  "feedCardAsContextAnnotation": "kontekstina",
+  "@feedCardAsContextAnnotation": {
+    "description": "Annotation denoting that the post is in context to a child post."
+  },
+  "feedCardInReplyToAnnotation": "vastauksena käyttäjälle",
+  "@feedCardInReplyToAnnotation": {
+    "description": "Annotation denoting that the post is a reply to a specific account."
+  },
+  "feedCardBoostedByAnnotation": "tehosti",
+  "@feedCardBoostedByAnnotation": {
+    "description": "Annotation denoting that the post is boosted by a specific account."
+  },
+  "feedCardPinnedByAnnotation": "kiinnitti",
+  "@feedCardPinnedByAnnotation": {
+    "description": "Annotation denoting that the post is pinned by a specific account."
+  },
+  "feedCardVerifiedTooltip": "Vahvistettu osoitteessa {domains}",
+  "@feedCardVerifiedTooltip": {
+    "description": "Feed card tooltip for verifications.",
+    "placeholders": {
+      "domains": {
+        "type": "String",
+        "example": "mstdn.social, mastodon.social"
+      }
+    }
+  },
+  "feedCardEditPostHistoryTooltip": "Näytä julkaisun muokkaushistoria",
+  "@feedCardEditPostHistoryTooltip": {
+    "description": "Feed card tooltip for post edit history"
+  },
+  "feedCardOpenUrlFailure": "Url-osoitetta ei voitu avata",
+  "@feedCardOpenUrlFailure": {
+    "description": "Feed card failure when opening a url."
+  },
+  "feedCardQuoteBoostFailure": "Julkaisua, joka ei ole julkinen, ei voi lainata",
+  "@feedCardQuoteBoostFailure": {
+    "description": "Feed card failure on boost when trying to quote non public post."
+  },
+  "feedMediaStillProcessing": "Mediaa käsitellään edelleen.",
+  "@feedMediaStillProcessing": {
+    "description": "Feed media text when it's still processing."
+  },
+  "feedMediaFullScreenButtonTooltip": "Avaa kokoruututilassa",
+  "@feedMediaFullScreenButtonTooltip": {
+    "description": "Feed media full screen button tooltip."
+  },
+  "feedMediaFullScreenExitButtonTooltip": "Lopeta kokoruututila",
+  "@feedMediaFullScreenExitButtonTooltip": {
+    "description": "Feed media full screen exit button tooltip."
+  },
+  "feedPageMultiColumnViewTooltip": "usean sarakkeen näkymä",
+  "@feedPageMultiColumnViewTooltip": {
+    "description": "Feed page multi column button tooltip."
+  },
+  "feedPageSingleColumnViewTooltip": "yhden sarakkeen näkymä",
+  "@feedPageSingleColumnViewTooltip": {
+    "description": "Feed page single column button tooltip."
+  },
+  "feedPageOriginalFilter": "alkuperäinen",
+  "@feedPageOriginalFilter": {
+    "description": "The filter category for original posts."
+  },
+  "feedPageRepliesFilter": "vastaukset",
+  "@feedPageRepliesFilter": {
+    "description": "The filter category for replies posts."
+  },
+  "feedPageBoostsFilter": "tehostukset",
+  "@feedPageBoostsFilter": {
+    "description": "The filter category for boosts posts."
+  },
+  "feedPageLoggedOut": "Olet kirjautunut ulos. Kirjaudu sisään nähdäksesi sisältöä.",
+  "@feedPageLoggedOut": {
+    "description": "The error message when the user is logged out on the feed."
+  },
+  "feedPageCaughtUp": "Olet ajan tasalla!",
+  "@feedPageCaughtUp": {
+    "description": "The message when the user is caught up in their feed."
+  },
+  "feedPageLeftOff": "Tähän jäit viimeksi!",
+  "@feedPageLeftOff": {
+    "description": "The message for where the user left off in their feed."
+  },
+  "feedPageSkipToNewest": "Siirry uusimpiin julkaisuihin",
+  "@feedPageSkipToNewest": {
+    "description": "The feed page action for skipping to newest posts."
+  },
+  "feedPageEmptyContent": "Kotiaikajanasi on tyhjä! Löydä seurattavaa sisältöä selaa-välilehdestä.",
+  "@feedPageEmptyContent": {
+    "description": "The feed page empty content text."
+  },
+  "feedPageEmptyContentWithFilters": "Sisältöä näille suodattimille ei löydy.",
+  "@feedPageEmptyContentWithFilters": {
+    "description": "The feed page empty content text when any filters are enabled."
+  },
+  "feedPageUnableToOpenPost": "Julkaisua ei voitu avata",
+  "@feedPageUnableToOpenPost": {
+    "description": "The feed page failure when resolving a post from another server."
+  },
+  "listsPageTitle": "listat",
+  "@listsPageTitle": {
+    "description": "The title of the lists page."
+  },
+  "listsPageCreateListPromptTitle": "Luo lista",
+  "@listsPageCreateListPromptTitle": {
+    "description": "The lists page create list prompt title."
+  },
+  "listsPageCreateListPromptHint": "Syötä listan otsikko",
+  "@listsPageCreateListPromptHint": {
+    "description": "The lists page create list prompt hint."
+  },
+  "listsPageEmptyContent": "Sinulla ei ole listoja, luo sellainen!",
+  "@listsPageEmptyContent": {
+    "description": "The lists page empty content text."
+  },
+  "listsPageViewAccountsAction": "Näytä tilit luettelossa",
+  "@listsPageViewAccountsAction": {
+    "description": "The lists page view accounts in list action."
+  },
+  "loginPageUnableToContactServer": "Palvelimeen ei saada yhteyttä.",
+  "@loginPageUnableToContactServer": {
+    "description": "The error text when the app is unable to contact the server the user is attempting to log into."
+  },
+  "loginPageUnableToLogin": "Virhe sisäänkirjautumisessa",
+  "@loginPageUnableToLogin": {
+    "description": "The error text when there is a general failure to log in."
+  },
+  "loginPageLoggedOut": "Olet kirjautunut ulos",
+  "@loginPageLoggedOut": {
+    "description": "The message when the user is logged."
+  },
+  "loginPageRemoveAccountPromptTitle": "Poistetaanko tili?",
+  "@loginPageRemoveAccountPromptTitle": {
+    "description": "The prompt title for removing an account."
+  },
+  "loginPageRemoveAccountPromptContent": "Tilin poistaminen poistaa metatiedot, joilla voi kirjautua takaisin nopeasti; jatketaanko?",
+  "@loginPageRemoveAccountPromptContent": {
+    "description": "The prompt content for removing an account."
+  },
+  "loginPageServerInputHint": "Palvelin (esim. mastodon.social)",
+  "@loginPageServerInputHint": {
+    "description": "The hint for input for logging into a server."
+  },
+  "loginPageServerFailure": "Ei löydetty mastodon-palvelinta: {domain}",
+  "@loginPageServerFailure": {
+    "description": "Failure text when a server cannot be found",
+    "placeholders": {
+      "domain": {
+        "type": "String",
+        "example": "mstdn.social"
+      }
+    }
+  },
+  "loginPageAddAccountPromptTitle": "Lisää tili",
+  "@loginPageAddAccountPromptTitle": {
+    "description": "The prompt title for adding an account."
+  },
+  "loginPageUseExternalBrowserCheckbox": "Käytä ulkoista selainta kirjautumiseen?",
+  "@loginPageUseExternalBrowserCheckbox": {
+    "description": "The checkbox for using an external browser to login."
+  },
+  "loginPageServerAgreement": "Kirjautumalla sisään hyväksyt säännöt ja käytännöt palvelimella {domain}. Klikkaa nähdäksesi ne.",
+  "@loginPageServerAgreement": {
+    "description": "Failure text when a server cannot be found",
+    "placeholders": {
+      "domain": {
+        "type": "String",
+        "example": "mstdn.social"
+      }
+    }
+  },
+  "profilePageCategoryPosts": "julkaisut",
+  "@profilePageCategoryPosts": {
+    "description": "The posts category of a profile."
+  },
+  "profilePageCategoryActivity": "toiminta",
+  "@profilePageCategoryActivity": {
+    "description": "The activity category of a profile."
+  },
+  "profilePageCategoryMedia": "media",
+  "@profilePageCategoryMedia": {
+    "description": "The media category of a profile."
+  },
+  "profilePageUnfollowPromptTitle": "Lopeta seuraaminen?",
+  "@profilePageUnfollowPromptTitle": {
+    "description": "The profile page unfollow prompt title."
+  },
+  "profilePageUnfollowPromptContent": "Oletko varma, että haluat lopettaa tilin @{account} seuraamisen?",
+  "@profilePageUnfollowPromptContent": {
+    "description": "Prompt content for unfollowing a user.",
+    "placeholders": {
+      "account": {
+        "type": "String",
+        "example": "L33tAdmin"
+      }
+    }
+  },
+  "profilePageProfileUpdateSuccess": "Profiilin päivitys onnistui",
+  "@profilePageProfileUpdateSuccess": {
+    "description": "Success text for profile updates."
+  },
+  "profilePageProfileUpdateFailure": "Fail to update profile",
+  "@profilePageProfileUpdateFailure": {
+    "description": "Failure text for profile updates."
+  },
+  "profileFollowers": "followers",
+  "@profileFollowers": {
+    "description": "Followers title for a profile."
+  },
+  "profileFollowing": "following",
+  "@profileFollowing": {
+    "description": "Following title for a profile."
+  },
+  "profileFollowedTags": "followed tags",
+  "@profileFollowedTags": {
+    "description": "Followed tags title for a profile."
+  },
+  "profileFollowingAll": "following",
+  "@profileFollowingAll": {
+    "description": "Following title for a profile."
+  },
+  "profileBlockedAccounts": "blocked accounts",
+  "@profileBlockedAccounts": {
+    "description": "Blocked accounts title for a profile."
+  },
+  "profileBlockedServers": "blocked domains",
+  "@profileBlockedServers": {
+    "description": "Blocked domains title for a profile."
+  },
+  "profileMutedAccounts": "muted accounts",
+  "@profileMutedAccounts": {
+    "description": "Muted accounts title for a profile."
+  },
+  "profileList": "list",
+  "@profileList": {
+    "description": "List title for a profile."
+  },
+  "profileTabAccounts": "Accounts",
+  "@profileTabAccounts": {
+    "description": "Tab title for accounts."
+  },
+  "profileTabTags": "Tags",
+  "@profileTabTags": {
+    "description": "Tab title for tags."
+  },
+  "profileStatsPosts": "Posts",
+  "@profileStatsPosts": {
+    "description": "Stats title for posts on a profile."
+  },
+  "profileStatsFollowing": "Following",
+  "@profileStatsFollowing": {
+    "description": "Stats title for following on a profile."
+  },
+  "profileStatsFollowers": "Followers",
+  "@profileStatsFollowers": {
+    "description": "Stats title for followers on a profile."
+  },
+  "profileStatsUnblockAccountTooltip": "Unblock account",
+  "@profileStatsUnblockAccountTooltip": {
+    "description": "Tooltip for unblocking an account."
+  },
+  "profileStatsUnblockServerTooltip": "Unblock server",
+  "@profileStatsUnblockServerTooltip": {
+    "description": "Tooltip for unblocking a server."
+  },
+  "profileStatsUnmuteAccountTooltip": "Unmute account",
+  "@profileStatsUnmuteAccountTooltip": {
+    "description": "Tooltip for unmuting an account."
+  },
+  "profileStatsUnfollowTagTooltip": "Unfollow tag",
+  "@profileStatsUnfollowTagTooltip": {
+    "description": "Tooltip for unfollowing a tag."
+  },
+  "profilePageManageListsPromptTitle": "Hallitse listoja",
+  "@profilePageManageListsPromptTitle": {
+    "description": "Manage lists prompt title."
+  },
+  "profilePageBioSection": "bio",
+  "@profilePageBioSection": {
+    "description": "The bio section on a profile."
+  },
+  "profilePageBioSectionInputHint": "Anna tietoja itsestäsi!",
+  "@profilePageBioSectionInputHint": {
+    "description": "The bio section input hint on a profile."
+  },
+  "profilePageCustomFieldSection": "mukautetut kentät",
+  "@profilePageCustomFieldSection": {
+    "description": "The custom fields section on a profile."
+  },
+  "profilePageCustomFieldSectionAddAction": "lisää kenttä",
+  "@profilePageCustomFieldSectionAddAction": {
+    "description": "The custom fields section add action on a profile."
+  },
+  "profilePageAccountMovedSection": "uusi tili",
+  "@profilePageAccountMovedSection": {
+    "description": "The account moved section on a profile."
+  },
+  "profilePageAccountMovedContent": "Tili on siirtynyt: @${username} palvelimella ${domain}",
+  "@profilePageAccountMovedContent": {
+    "description": "Signifies that the post has been translated.",
+    "placeholders": {
+      "username": {
+        "type": "String",
+        "example": "L33tAdmin"
+      },
+      "domain": {
+        "type": "String",
+        "example": "mstdn.social"
+      }
+    }
+  },
+  "profilePageRelationshipSection": "suhde",
+  "@profilePageRelationshipSection": {
+    "description": "The relationship section on a profile."
+  },
+  "profilePageServerSection": "palvelin",
+  "@profilePageServerSection": {
+    "description": "The server section on a profile."
+  },
+  "profilePageStatsSection": "tilastot",
+  "@profilePageStatsSection": {
+    "description": "The stats section on a profile."
+  },
+  "profilePageJoinedSection": "liittyi",
+  "@profilePageJoinedSection": {
+    "description": "The joined section on a profile."
+  },
+  "profilePageStatusSection": "tila",
+  "@profilePageStatusSection": {
+    "description": "The status section on a profile."
+  },
+  "profilePageStatusHuman": "ihminen",
+  "@profilePageStatusHuman": {
+    "description": "The human status on profile."
+  },
+  "profilePageStatusHumanAccount": "Ihmisen tili",
+  "@profilePageStatusHumanAccount": {
+    "description": "The human status editable option on profile."
+  },
+  "profilePageStatusHumanDescription": "käyttäjä on todennäköisesti ihminen",
+  "@profilePageStatusHumanDescription": {
+    "description": "The human status description on profile."
+  },
+  "profilePageStatusRobot": "botti",
+  "@profilePageStatusRobot": {
+    "description": "The robot status on a profile."
+  },
+  "profilePageStatusRobotAccount": "Bottitili",
+  "@profilePageStatusRobotAccount": {
+    "description": "The robot status editable option on a profile."
+  },
+  "profilePageStatusRobotDescription": "käyttäjä on todennäköisesti robotti",
+  "@profilePageStatusRobotDescription": {
+    "description": "The robot status description on profile."
+  },
+  "profilePageStatusLocked": "lukittu",
+  "@profilePageStatusLocked": {
+    "description": "The locked status on a profile."
+  },
+  "profilePageStatusLockedAccount": "Edellytetään seuraajien hyväksyntää",
+  "@profilePageStatusLockedAccount": {
+    "description": "The locked status editable option on a profile."
+  },
+  "profilePageStatusLockedDescription": "käyttäjän on hyväksyttävä seuraajat",
+  "@profilePageStatusLockedDescription": {
+    "description": "The locked status description on profile."
+  },
+  "profilePageStatusUnlocked": "lukitsematon",
+  "@profilePageStatusUnlocked": {
+    "description": "The unlocked status on a profile."
+  },
+  "profilePageStatusUnlockedAccount": "Älä vaadi seuraajien hyväksymistä",
+  "@profilePageStatusUnlockedAccount": {
+    "description": "The unlocked status editable option on a profile."
+  },
+  "profilePageStatusUnlockedDescription": "käyttäjä ei vaadi seuraajien hyväksymistä",
+  "@profilePageStatusUnlockedDescription": {
+    "description": "The unlocked status description on profile."
+  },
+  "profilePageStatusVisible": "näkyvissä",
+  "@profilePageStatusVisible": {
+    "description": "The visible status on a profile."
+  },
+  "profilePageStatusVisibleAccount": "Löydettävissä hakemiston kautta.",
+  "@profilePageStatusVisibleAccount": {
+    "description": "The visible status editable option on a profile."
+  },
+  "profilePageStatusVisibleDescription": "käyttäjä on löydetty hakemistosta",
+  "@profilePageStatusVisibleDescription": {
+    "description": "The visible status description on profile."
+  },
+  "profilePageStatusHidden": "kätketty",
+  "@profilePageStatusHidden": {
+    "description": "The hidden status on a profile."
+  },
+  "profilePageStatusHiddenAccount": "Ei löydettävissä hakemiston kautta",
+  "@profilePageStatusHiddenAccount": {
+    "description": "The hidden status editable option on a profile."
+  },
+  "profilePageStatusHiddenDescription": "käyttäjä on piilotettu hakemistosta",
+  "@profilePageStatusHiddenDescription": {
+    "description": "The hidden status description on profile."
+  },
+  "profilePageRelationShipMuted": "Mykistämäsi",
+  "@profilePageRelationShipMuted": {
+    "description": "The profile relationship muted by user description"
+  },
+  "profilePageRelationShipBlocked": "Estämäsi",
+  "@profilePageRelationShipBlocked": {
+    "description": "The profile relationship blocking user description"
+  },
+  "profilePageRelationShipBlockedBy": "Estää sinut",
+  "@profilePageRelationShipBlockedBy": {
+    "description": "The profile relationship blocked by user description"
+  },
+  "profilePageRelationShipFollowing": "Seuraat",
+  "@profilePageRelationShipFollowing": {
+    "description": "The profile relationship following user description"
+  },
+  "profilePageRelationShipFollowedBy": "Seuraa sinua",
+  "@profilePageRelationShipFollowedBy": {
+    "description": "The profile relationship followed by user description"
+  },
+  "profilePageRelationShipDomainBlocked": "Olet estänyt verkkotunnuksen",
+  "@profilePageRelationShipDomainBlocked": {
+    "description": "The profile relationship domain blocking description"
+  },
+  "profilePageMessageUserAction": "Viesti",
+  "@profilePageMessageUserAction": {
+    "description": "The profile page message action."
+  },
+  "profilePageMuteUserAction": "Mykistä käyttäjä",
+  "@profilePageMuteUserAction": {
+    "description": "The profile page mute user action."
+  },
+  "profilePageUnmuteUserAction": "Poista mykistys käyttäjältä",
+  "@profilePageUnmuteUserAction": {
+    "description": "The profile page unmute user action."
+  },
+  "profilePageBlockUserAction": "Estä käyttäjä",
+  "@profilePageBlockUserAction": {
+    "description": "The profile page block user action."
+  },
+  "profilePageUnblockUserAction": "Poista käyttäjän esto",
+  "@profilePageUnblockUserAction": {
+    "description": "The profile page unblock user action."
+  },
+  "profilePageBlockDomainAction": "Estä verkkotunnus",
+  "@profilePageBlockDomainAction": {
+    "description": "The profile page block domain action."
+  },
+  "profilePageUnblockDomainAction": "Poista verkkotunnuksen esto",
+  "@profilePageUnblockDomainAction": {
+    "description": "The profile page unblock domain action."
+  },
+  "profilePageReportUserAction": "Raportoi käyttäjä",
+  "@profilePageReportUserAction": {
+    "description": "The profile page report user action."
+  },
+  "profilePageModifyListUserAction": "Lisää tai poista listoilta",
+  "@profilePageModifyListUserAction": {
+    "description": "The profile page list adding/removing user action."
+  },
+  "profilePageEditAvatarImageTooltip": "Valitse profiilikuva",
+  "@profilePageEditAvatarImageTooltip": {
+    "description": "The profile page avatar edit image tooltip."
+  },
+  "profilePageEditBackgroundImageTooltip": "Valitse taustakuva",
+  "@profilePageEditBackgroundImageTooltip": {
+    "description": "The profile page background edit image tooltip."
+  },
+  "accessibilitySettingsPageTitle": "esteettömyysasetukset",
+  "@accessibilitySettingsPageTitle": {
+    "description": "The accessibility settings page title."
+  },
+  "accessibilitySettingsPageGlobalTextSection": "Yleiset tekstit",
+  "@accessibilitySettingsPageGlobalTextSection": {
+    "description": "The global text editing section title."
+  },
+  "accessibilitySettingsPageGlobalTextFontScale": "Kirjainten koko",
+  "@accessibilitySettingsPageGlobalTextFontScale": {
+    "description": "The global text editing section font scale."
+  },
+  "accessibilitySettingsPageGlobalTextLineSpacingScale": "Riviväli",
+  "@accessibilitySettingsPageGlobalTextLineSpacingScale": {
+    "description": "The global text editing section line spacing scale."
+  },
+  "accessibilitySettingsPagePostTextSection": "Julkaisujen teksti",
+  "@accessibilitySettingsPagePostTextSection": {
+    "description": "The post text editing section title."
+  },
+  "accessibilitySettingsPagePostTextFontSizeDelta": "Leipätekstin suhteellinen koko",
+  "@accessibilitySettingsPagePostTextFontSizeDelta": {
+    "description": "The post text editing section body font size delta."
+  },
+  "feedSettingsPageTitle": "syötteen asetukset",
+  "@feedSettingsPageTitle": {
+    "description": "The feed settings page title."
+  },
+  "feedSettingsPageMediaDefaultsBase": "Piilota viestit, jotka on merkitty arkaluonteiseksi sisällöksi",
+  "@feedSettingsPageMediaDefaultsBase": {
+    "description": "The feed settings page media default for showing post marked sensitive content."
+  },
+  "feedSettingsPageMediaDefaultsShow": "Näytä kaikki arkaluontoiset sisällöt",
+  "@feedSettingsPageMediaDefaultsShow": {
+    "description": "The feed settings page media default for showing all sensitive content."
+  },
+  "feedSettingsPageMediaDefaultsHide": "Piilota kaikki arkaluontoiset sisällöt",
+  "@feedSettingsPageMediaDefaultsHide": {
+    "description": "The feed settings page media default for hiding sensitive content."
+  },
+  "feedSettingsHomeFeedModeTitle": "Kotisyötetila",
+  "@feedSettingsHomeFeedModeTitle": {
+    "description": "Home feed mode title."
+  },
+  "feedSettingsRecentModeTitle": "Uusimman sisällön tila",
+  "@feedSettingsRecentModeTitle": {
+    "description": "The feed setting for always showing recent content on the home feed."
+  },
+  "feedSettingsRecentModeDescription": "Kotisyöte näyttää aina uusimman julkaisun, ylimpänä aikajanallasi.",
+  "@feedSettingsRecentModeDescription": {
+    "description": "The feed setting description for always showing recent content on the home feed."
+  },
+  "feedSettingsRememberModeTitle": "Muista tila",
+  "@feedSettingsRememberModeTitle": {
+    "description": "The feed setting for always remembering the last read position on the home feed."
+  },
+  "feedSettingsRememberModeDescription": "Kotisyöte yrittää aina muistaa viimeisen lukemasi paikan ja jatkaa siitä.",
+  "@feedSettingsRememberModeDescription": {
+    "description": "The feed setting description for always remembering the last read position on the home feed."
+  },
+  "feedSettingsDigestModeTitle": "Yhteenvetotila",
+  "@feedSettingsDigestModeTitle": {
+    "description": "The feed setting for showing the user only the content they haven't seen."
+  },
+  "feedSettingsDigestModeDescription": "Kotisyöte lataa vain julkaisuja, joita todennäköisesti et ole vielä nähyt.",
+  "@feedSettingsDigestModeDescription": {
+    "description": "The feed setting description for showing the user only the content they haven't seen."
+  },
+  "feedSettingsFeaturesSectionTitle": "Syötteen ominaisuudet",
+  "@feedSettingsFeaturesSectionTitle": {
+    "description": "Feed features title."
+  },
+  "feedSettingsStreamHomeToggle": "Suoratoista kotisyöte",
+  "@feedSettingsStreamHomeToggle": {
+    "description": "Stream home feed toggle."
+  },
+  "feedSettingsStreamHomeToggleDescription": "Kun käytössä, uudet viestit virtaavat etusivulle. Kun pois päältä, näytetään \"näytä lisää\" -painike.",
+  "@feedSettingsStreamHomeToggleDescription": {
+    "description": "Stream home feed toggle description."
+  },
+  "feedSettingsStreamHomeToggleDescriptionAlt": "Suoratoisto käytettävissä vain \"Uusimman sisällön\" tilassa",
+  "@feedSettingsStreamHomeToggleDescriptionAlt": {
+    "description": "Stream home feed toggle description alternative."
+  },
+  "feedSettingsConversationGroupingToggle": "Keskustelujen ryhmittely syötteissä",
+  "@feedSettingsConversationGroupingToggle": {
+    "description": "Conversation grouping toggle."
+  },
+  "feedSettingsContextFetchingToggle": "Ryhmitettyjen keskustelujen kontekstin haku",
+  "@feedSettingsContextFetchingToggle": {
+    "description": "Context fetching toggle."
+  },
+  "feedSettingsContextFetchingToggleDescription": "Toimii vain jos keskustelujen ryhmittely on käytössä.",
+  "@feedSettingsContextFetchingToggleDescription": {
+    "description": "Context fetching toggle description."
+  },
+  "feedSettingsBehaviorsSectionTitle": "Katselutavat",
+  "@feedSettingsBehaviorsSectionTitle": {
+    "description": "Viewing behaviors section title."
+  },
+  "feedSettingsTranslateLanguagePromptTitle": "käännä kielestä",
+  "@feedSettingsTranslateLanguagePromptTitle": {
+    "description": "Translate prompt language title."
+  },
+  "feedSettingsTranslateLanguageTitle": "Käännöksen alue/kieli",
+  "@feedSettingsTranslateLanguageTitle": {
+    "description": "Translate language setting title."
+  },
+  "feedSettingsTranslateLanguageDescription": "Oletuskieli, jolle käännöstoiminto yrittää kääntää sisällön.",
+  "@feedSettingsTranslateLanguageDescription": {
+    "description": "Translate language setting description."
+  },
+  "feedSettingsTranslateLanguageTooltip": "Näytä käännöksen kieliasetusket",
+  "@feedSettingsTranslateLanguageTooltip": {
+    "description": "Translate language setting tooltip."
+  },
+  "feedSettingsSensitiveMediaDropdown": "Arkaluonteisen median asetukset",
+  "@feedSettingsSensitiveMediaDropdown": {
+    "description": "Sensitive media options dropdown."
+  },
+  "feedSettingsContentLabelBehaviorToggle": "Avaa aina julkaisut joissa on sisältökyltti",
+  "@feedSettingsContentLabelBehaviorToggle": {
+    "description": "Content label behavior toggle."
+  },
+  "feedSettingsShowPreviewBehaviorToggle": "Näytä linkkien esikatselu",
+  "@feedSettingsShowPreviewBehaviorToggle": {
+    "description": "Preview links behavior toggle."
+  },
+  "feedSettingsPlayGifsBehaviorToggle": "Toista gif-tiedostot automaattisesti",
+  "@feedSettingsPlayGifsBehaviorToggle": {
+    "description": "Play gifs behavior toggle."
+  },
+  "feedSettingsHideMutedBehaviorToggle": "Piilota mykistetyt keskustelut syötteistä",
+  "@feedSettingsHideMutedBehaviorToggle": {
+    "description": "Hide muted conversations behavior toggle."
+  },
+  "feedSettingsMediaAspectDropdown": "Median kuvasuhde",
+  "@feedSettingsMediaAspectDropdown": {
+    "description": "Media aspect ratio dropdown."
+  },
+  "feedSettingsMediaAspectDropdownWarning": "Täysi resoluutio voi aiheuttaa vierityksen hyppimistä tai jätättämistä",
+  "@feedSettingsMediaAspectDropdownWarning": {
+    "description": "Media aspect ratio dropdown warning."
+  },
+  "feedSettingsAutoCollapseDropdown": "Merkkiraja pitkän viestin kätkemiselle",
+  "@feedSettingsAutoCollapseDropdown": {
+    "description": "Auto collapse dropdown."
+  },
+  "feedSettingsAutoCollapseDropdownDescription": "Raja jota pidemmät julkaisut kätketään osittain 'lue lisää' -tekstin taakse.",
+  "@feedSettingsAutoCollapseDropdownDescription": {
+    "description": "Auto collapse dropdown description."
+  },
+  "feedSettingsSingleColumnToggle": "Suosi yhden sarakkeen syötteitä",
+  "@feedSettingsSingleColumnToggle": {
+    "description": "Prefer single column toggle."
+  },
+  "feedSettingsSingleColumnToggleDescription": "Vaakatasossa mobiililaitteissa tai suurissa näytöissä suositaan yhden sarakkeen syötettä monisarakkeisen asemesta.",
+  "@feedSettingsSingleColumnToggleDescription": {
+    "description": "Prefer single column toggle description."
+  },
+  "feedSettingsShowButtonsToggle": "Näytä aina painikkeet syötekorteissa",
+  "@feedSettingsShowButtonsToggle": {
+    "description": "Show buttons toggle."
+  },
+  "feedSettingsShowButtonsToggleDescription": "Näytetäänkö vastaus/tehostus/suosikki -painikkeet kaikissa syötekorteissa aina.",
+  "@feedSettingsShowButtonsToggleDescription": {
+    "description": "Show buttons toggle description."
+  },
+  "filterPageContextWidgetChoiceHomeAndList": "koti ja listat",
+  "@filterPageContextWidgetChoiceHomeAndList": {
+    "description": "The filter page's context widget choice chip for home and lists."
+  },
+  "filterPageContextWidgetChoiceNotifications": "ilmoitukset",
+  "@filterPageContextWidgetChoiceNotifications": {
+    "description": "The filter page's context widget choice chip for notifications."
+  },
+  "filterPageContextWidgetChoicePublic": "julkiset aikajanat",
+  "@filterPageContextWidgetChoicePublic": {
+    "description": "The filter page's context widget choice chip for public timelines."
+  },
+  "filterPageContextWidgetChoiceThreads": "langat",
+  "@filterPageContextWidgetChoiceThreads": {
+    "description": "The filter page's context widget choice chip for threads."
+  },
+  "filterPageContextWidgetChoiceAccounts": "tilit",
+  "@filterPageContextWidgetChoiceAccounts": {
+    "description": "The filter page's context widget choice chip for accounts."
+  },
+  "filterPageTitleCreate": "luo suodatin",
+  "@filterPageTitleCreate": {
+    "description": "The filter page title when creating a new filter."
+  },
+  "filterPageTitleEdit": "muokkaa suodatinta",
+  "@filterPageTitleEdit": {
+    "description": "The filter page title when editing a filter."
+  },
+  "filterPageCreateNameCategory": "nimi",
+  "@filterPageCreateNameCategory": {
+    "description": "The filter page name category."
+  },
+  "filterPageCreateExpirationCategory": "päättyminen",
+  "@filterPageCreateExpirationCategory": {
+    "description": "The filter page expiration category."
+  },
+  "filterPageCreateContextCategory": "konteksti",
+  "@filterPageCreateContextCategory": {
+    "description": "The filter page context category."
+  },
+  "filterPageCreateContextCategoryDescription": "Konteksti, jossa suodatinta käytetään.",
+  "@filterPageCreateContextCategoryDescription": {
+    "description": "The filter page context category description."
+  },
+  "filterPageCreateActionsCategory": "toiminnot",
+  "@filterPageCreateActionsCategory": {
+    "description": "The filter page actions category."
+  },
+  "filterPageCreateActionsCategoryDescription": "Toiminto, johon on ryhdyttävä, kun sisältöä suodatetaan.\n\nvaroita - piilottaa sisällön varoituskyltin taakse.\nkätke - kätkee sisällön kokonaan kontekstista.",
+  "@filterPageCreateActionsCategoryDescription": {
+    "description": "The filter page actions category description."
+  },
+  "filterPageCreateKeywordsCategory": "avainsanat",
+  "@filterPageCreateKeywordsCategory": {
+    "description": "The filter page keywords category."
+  },
+  "filterPageCreateActionsWarn": "varoita",
+  "@filterPageCreateActionsWarn": {
+    "description": "The filter page warn action."
+  },
+  "filterPageCreateActionsHide": "kätke",
+  "@filterPageCreateActionsHide": {
+    "description": "The filter page hide action."
+  },
+  "filterPageCreateFilterKeywordPromptTitle": "Lisää suodattimen avainsana",
+  "@filterPageCreateFilterKeywordPromptTitle": {
+    "description": "The filter page filter keyword prompt title."
+  },
+  "filterPageCreateFilterKeywordPromptHint": "Syötä avainsana suodattamista varten...",
+  "@filterPageCreateFilterKeywordPromptHint": {
+    "description": "The filter page filter keyword prompt hint."
+  },
+  "filterPageCreateFilterKeywordPromptMatchWordCheckbox": "Koko sanan on täsmättävä?",
+  "@filterPageCreateFilterKeywordPromptMatchWordCheckbox": {
+    "description": "The filter page filter keyword prompt match word checkbox."
+  },
+  "filterPageTitle": "suodattimet",
+  "@filterPageTitle": {
+    "description": "The filters page title."
+  },
+  "filterExpirationNever": "Ei vanhene koskaan",
+  "@filterExpirationNever": {
+    "description": "The filter never expires."
+  },
+  "filterExpirationExpired": "Vanhentunut",
+  "@filterExpirationExpired": {
+    "description": "The filter is expired."
+  },
+  "filterExpirationExpiresPrefix": "Vanhenee",
+  "@filterExpirationExpiresPrefix": {
+    "description": "The filter expiration prefix, usually followed by a quantity of time."
+  },
+  "filterPageEmpty": "Sinulla ei ole suodattimia, klikkaa + luodaksesi sellaisen.",
+  "@filterPageEmpty": {
+    "description": "The filters page empty content."
+  },
+  "filterSummary": "Suodattimet syötteissä {feedTypes} jotka {filterAction}",
+  "@filterSummary": {
+    "description": "The summary at the bottom of the listed filter.",
+    "placeholders": {
+      "feedTypes": {
+        "type": "String",
+        "example": "home and lists, notifications"
+      },
+      "filterAction": {
+        "type": "String",
+        "example": "warn"
+      }
+    }
+  },
+  "notificationSettingsPageTitle": "ilmoitusten asetukset",
+  "@notificationSettingsPageTitle": {
+    "description": "The notification settings page title."
+  },
+  "notificationSettingsPagePushSection": "Push",
+  "@notificationSettingsPagePushSection": {
+    "description": "The notification settings page push section."
+  },
+  "notificationSettingsPagePushToggle": "Push-ilmoitukset",
+  "@notificationSettingsPagePushToggle": {
+    "description": "The notification settings page push notifications toggle."
+  },
+  "notificationSettingsPageSubscriptionsSection": "Tilaukset",
+  "@notificationSettingsPageSubscriptionsSection": {
+    "description": "The notification settings page subscriptions section."
+  },
+  "notificationSettingsPageMentionsToggle": "Maininnat",
+  "@notificationSettingsPageMentionsToggle": {
+    "description": "The notification settings page mentions notifications toggle."
+  },
+  "notificationSettingsPageFollowsToggle": "Seuraamiset",
+  "@notificationSettingsPageFollowsToggle": {
+    "description": "The notification settings page follows notifications toggle."
+  },
+  "notificationSettingsPageFollowRequestsToggle": "Seuraamispyynnöt",
+  "@notificationSettingsPageFollowRequestsToggle": {
+    "description": "The notification settings page follow requests notifications toggle."
+  },
+  "notificationSettingsPageBoostsToggle": "Tehostukset",
+  "@notificationSettingsPageBoostsToggle": {
+    "description": "The notification settings page boosts notifications toggle."
+  },
+  "notificationSettingsPageFavoritesToggle": "Suosikit",
+  "@notificationSettingsPageFavoritesToggle": {
+    "description": "The notification settings page favorites notifications toggle."
+  },
+  "notificationSettingsPageUpdatingProgress": "Päivitetään tilauksia...",
+  "@notificationSettingsPageUpdatingProgress": {
+    "description": "The notification settings page subscription update progress text."
+  },
+  "notificationSettingsPageUpdatingFailure": "Hälytysasetusten päivitys epäonnistui",
+  "@notificationSettingsPageUpdatingFailure": {
+    "description": "The notification settings page subscription update failure text."
+  },
+  "themeSettingsPageTitle": "teeman asetukset",
+  "@themeSettingsPageTitle": {
+    "description": "The theme settings page title."
+  },
+  "themeSettingsPageLightThemeHeader": "nykyinen vaalea teema",
+  "@themeSettingsPageLightThemeHeader": {
+    "description": "The theme settings page light theme header."
+  },
+  "themeSettingsPageLightThemeTitle": "Vaalea teema",
+  "@themeSettingsPageLightThemeTitle": {
+    "description": "The theme settings page light theme title."
+  },
+  "themeSettingsPageLightThemeDescription": "Käytetään kun tumma tila on pois päältä.",
+  "@themeSettingsPageLightThemeDescription": {
+    "description": "The theme settings page light theme description."
+  },
+  "themeSettingsPageDarkThemeHeader": "nykyinen tumma teema",
+  "@themeSettingsPageDarkThemeHeader": {
+    "description": "The theme settings page light theme header."
+  },
+  "themeSettingsPageDarkThemeTitle": "Tumma teema",
+  "@themeSettingsPageDarkThemeTitle": {
+    "description": "The theme settings page light theme title."
+  },
+  "themeSettingsPageDarkThemeDescription": "Käytetään kun tumma tila on käytössä.",
+  "@themeSettingsPageDarkThemeDescription": {
+    "description": "The theme settings page light theme description."
+  },
+  "themeSettingsOLEDFriendlyToggle": "OLED-ystävällinen",
+  "@themeSettingsOLEDFriendlyToggle": {
+    "description": "The theme settings page OLED toggle."
+  },
+  "themeSettingsOLEDFriendlyToggleDescription": "OLED ystävällinen suosii syviä mustia ja kirkkaita valkoisia ja harmonisoi jäljellä olevat paletin värit sopivaksi.",
+  "@themeSettingsOLEDFriendlyToggleDescription": {
+    "description": "The theme settings page OLED toggle description."
+  },
+  "themeSettingsAndroidDynamicToggle": "Dynaaminen teema käytössä",
+  "@themeSettingsAndroidDynamicToggle": {
+    "description": "The theme settings page android dynamic theme toggle."
+  },
+  "themeSettingsAndroidDynamicToggleDescription": "Dynaaminen teema hyödyntää erilaisia käyttöjärjestelmän teemaominaisuuksia luodakseen väripaletin vaaleaa ja tummaa tilaa varten.",
+  "@themeSettingsAndroidDynamicToggleDescription": {
+    "description": "The theme settings page android dynamic theme toggle description."
+  },
+  "themeSettingsConfigurationSection": "Teeman asetukset",
+  "@themeSettingsConfigurationSection": {
+    "description": "The theme settings page configure section."
+  },
+  "themeSettingsPageCurrentHeader": "nykyinen teema",
+  "@themeSettingsPageCurrentHeader": {
+    "description": "The theme settings page current theme header."
+  },
+  "experimentSettingsPageTitle": "kokeelliset asetukset",
+  "@experimentSettingsPageTitle": {
+    "description": "The experiment settings page title."
+  },
+  "experimentSettingsFeaturesSection": "Kokeelliset ominaisuudet",
+  "@experimentSettingsFeaturesSection": {
+    "description": "The experiment settings page feature section."
+  },
+  "privacyPolicyPageTitle": "tietosuojakäytäntö",
+  "@privacyPolicyPageTitle": {
+    "description": "The privacy policy settings page title."
+  },
+  "settingsPageTitle": "asetukset",
+  "@settingsPageTitle": {
+    "description": "The settings page title."
+  },
+  "settingsPageSignOutPromptContent": "Kirjautuminen ulos poistaa varmennetun tilisi ja välimuistissa olevat tiedot; jatketaanko?",
+  "@settingsPageSignOutPromptContent": {
+    "description": "The settings page sign out prompt content."
+  },
+  "settingsPageDarkModeOption": "Tumma tila",
+  "@settingsPageDarkModeOption": {
+    "description": "The settings page dark mode setting."
+  },
+  "settingsPageAppSettingsSection": "Sovelluksen Asetukset",
+  "@settingsPageAppSettingsSection": {
+    "description": "The settings page app settings section."
+  },
+  "settingsPageThemeSettingsOption": "Teeman asetukset",
+  "@settingsPageThemeSettingsOption": {
+    "description": "The settings page theme setting."
+  },
+  "settingsPageRestrictionsSection": "Rajoitukset",
+  "@settingsPageRestrictionsSection": {
+    "description": "The settings page rstrictions section."
+  },
+  "settingsPageMutedUsersOption": "Mykistetyt käyttäjät",
+  "@settingsPageMutedUsersOption": {
+    "description": "The settings page muted users setting."
+  },
+  "settingsPageBlockedUsersOption": "Estetyt käyttäjät",
+  "@settingsPageBlockedUsersOption": {
+    "description": "The settings page blocked users setting."
+  },
+  "settingsPageBlockedDomainsOption": "Estetyt verkkotunnukset",
+  "@settingsPageBlockedDomainsOption": {
+    "description": "The settings page blocked domains setting."
+  },
+  "settingsPageFiltersOption": "Suodattimet",
+  "@settingsPageFiltersOption": {
+    "description": "The settings page filters setting."
+  },
+  "settingsPagePostingBehaviorsSection": "Julkaisutavat",
+  "@settingsPagePostingBehaviorsSection": {
+    "description": "The settings page post behaviors section."
+  },
+  "settingsPagePostPrivacyOption": "Julkaisun näkyvyyden oletusarvo",
+  "@settingsPagePostPrivacyOption": {
+    "description": "The settings page default post privacy setting."
+  },
+  "settingsPageMediaSensitivityOption": "Merkitse mediani aina arkaluonteiseksi",
+  "@settingsPageMediaSensitivityOption": {
+    "description": "The settings page media sensitivity setting."
+  },
+  "settingsPagePostLanguageOption": "Julkaisun alue/kieli",
+  "@settingsPagePostLanguageOption": {
+    "description": "The settings page post language setting."
+  },
+  "settingsPageShowActionsOption": "Näytä toimintojen päivitykset",
+  "@settingsPageShowActionsOption": {
+    "description": "The settings page show action setting."
+  },
+  "settingsPageShowActionsOptionDescription": "Kun toimintojen päivitykset ovat käytössä, kaikkien toimintojen edistyminen ja onnistuminen näytetään.",
+  "@settingsPageShowActionsOptionDescription": {
+    "description": "The settings page show action setting description."
+  },
+  "settingsPageAccountsSection": "Tilit",
+  "@settingsPageAccountsSection": {
+    "description": "The settings page accounts section."
+  },
+  "settingsPageSignOutOption": "Kirjaudu ulos tililtä",
+  "@settingsPageSignOutOption": {
+    "description": "The settings page sign out setting."
+  },
+  "settingsPageManageAccountsOption": "Hallinnoi tilejä",
+  "@settingsPageManageAccountsOption": {
+    "description": "The settings page manage accounts setting."
+  },
+  "settingsPageAboutSection": "Tietoja",
+  "@settingsPageAboutSection": {
+    "description": "The settings page about section."
+  },
+  "settingsPageFollowOption": "Seuraa @trunksapp",
+  "@settingsPageFollowOption": {
+    "description": "The settings page follow trunks app setting."
+  },
+  "settingsPageLicensesOption": "Lisenssit",
+  "@settingsPageLicensesOption": {
+    "description": "The settings page licenses setting."
+  },
+  "settingsPagePrivacyPolicyOption": "Tietosuojakäytäntö",
+  "@settingsPagePrivacyPolicyOption": {
+    "description": "The settings page privacy policy setting."
+  },
+  "settingsPageMadeInOption": "Tehty ❤️: llä Seattlen sateessa",
+  "@settingsPageMadeInOption": {
+    "description": "The settings page made in setting."
+  },
+  "settingsPageExperimentsOption": "Kokeilut",
+  "@settingsPageExperimentsOption": {
+    "description": "The settings page experiments setting."
+  },
+  "settingsPageVersionOption": "Versio",
+  "@settingsPageVersionOption": {
+    "description": "The settings page version setting."
+  },
+  "settingsPagePushNotificationsOption": "Push-ilmoitukset",
+  "@settingsPagePushNotificationsOption": {
+    "description": "The settings page push notifications setting."
+  },
+  "settingsPageAccessibilityOption": "Esteettömyys",
+  "@settingsPageAccessibilityOption": {
+    "description": "The settings page accessibility setting."
+  },
+  "settingsPageFeedSettingsOption": "Syötteen asetukset",
+  "@settingsPageFeedSettingsOption": {
+    "description": "The settings page feed setting."
+  },
+  "settingsPageThreadSettingsOption": "Ketjujen asetukset",
+  "@settingsPageThreadSettingsOption": {
+    "description": "The settings page thread setting."
+  },
+  "settingsPageExperienceSection": "Elämyksen asetukset",
+  "@settingsPageExperienceSection": {
+    "description": "The settings page experience section."
+  },
+  "threadSettingsPageTitle": "ketjujen asetukset",
+  "@threadSettingsPageTitle": {
+    "description": "The thread settings page title."
+  },
+  "threadSettingsPageDefaultsSection": "Oletukset",
+  "@threadSettingsPageDefaultsSection": {
+    "description": "The defaults section title for thread settings."
+  },
+  "threadSettingsPageDefaultCommentSortTitle": "Kommenttien lajittelu",
+  "@threadSettingsPageDefaultCommentSortTitle": {
+    "description": "The default comment sort for threads."
+  },
+  "settingsPageAppLanguageOption": "Oletuskieli/alue",
+  "@settingsPageAppLanguageOption": {
+    "description": "The settings page app language setting."
+  },
+  "settingsPageAppLanguagePromptTitle": "oletuskieli",
+  "@settingsPageAppLanguagePromptTitle": {
+    "description": "The compose page app language prompt title."
+  }
+}
