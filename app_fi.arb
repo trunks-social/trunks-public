@@ -841,7 +841,7 @@
       }
     }
   },
-  "commonActionMuteAccountPrompt": "Mykistä @{account}?",
+  "commonActionMuteAccountPrompt": "Mykistä account?",
   "@commonActionMuteAccountPrompt": {
     "description": "The text displayed for the mute account prompt."
   },
