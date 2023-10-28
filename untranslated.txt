@@ -1,0 +1,20 @@
+{
+  "fi": [
+    "adaptiveHomeNavDestinationTrending",
+    "trendingPageTitle"
+  ],
+
+  "zh": [
+    "adaptiveHomeNavDestinationTrending",
+    "settingsPageAppLanguageOption",
+    "settingsPageAppLanguagePromptTitle",
+    "trendingPageTitle"
+  ],
+
+  "zh_Hans": [
+    "adaptiveHomeNavDestinationTrending",
+    "settingsPageAppLanguageOption",
+    "settingsPageAppLanguagePromptTitle",
+    "trendingPageTitle"
+  ]
+}
