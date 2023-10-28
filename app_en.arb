@@ -2101,7 +2101,7 @@
     "description": "The reach page title."
   },
 
-  "detailPagePostTitle": "post to @{account}",
+  "detailPagePostTitle": "post by @{account}",
   "@detailPagePostTitle": {
       "description": "The title for the detail page for when reading a post from a another user.",
       "placeholders": {
