@@ -381,6 +381,11 @@
     "description": "The tab or navigation text for the current users lists feed."
   },
 
+  "adaptiveHomeNavDestinationTrending": "trending",
+  "@adaptiveHomeNavDestinationTrending": {
+    "description": "The tab or navigation text for the trending experience."
+  },
+
   "adaptiveHomeWebLinksHeader": "links",
   "@adaptiveHomeWebLinksHeader": {
     "description": "The header text on web clients that supersedes mobile app links and other stuff."
@@ -2164,29 +2169,29 @@
     "description": "The viewer page browser button."
   },
 
-  "exploreConfigPageTitle": "explore sources",
-  "@exploreConfigPageTitle": {
-    "description": "The explore config page title."
+  "trendingConfigPageTitle": "explore sources",
+  "@trendingConfigPageTitle": {
+    "description": "The trending config page title."
   },
 
-  "exploreConfigPageEmpty": "You have no external explore sources, click + to create one.",
-  "@exploreConfigPageEmpty": {
-    "description": "The explore config page empty content."
+  "trendingConfigPageEmpty": "You have no external explore sources, click + to create one.",
+  "@trendingConfigPageEmpty": {
+    "description": "The trending config page empty content."
   },
 
-  "exploreConfigPageAdd": "add source",
-  "@exploreConfigPageAdd": {
-    "description": "The explore config page add source button."
+  "trendingConfigPageAdd": "add source",
+  "@trendingConfigPageAdd": {
+    "description": "The trending config page add source button."
   },
 
-  "exploreConfigPageRemoveTooltip": "Remove explore source",
-  "@exploreConfigPageRemoveTooltip": {
-    "description": "The explore config page add source button."
+  "trendingConfigPageRemoveTooltip": "Remove explore source",
+  "@trendingConfigPageRemoveTooltip": {
+    "description": "The trending config page add source button."
   },
 
-  "exploreConfigPageAddSourcePromptTitle": "Add a source for explore",
-  "@exploreConfigPageAddSourcePromptTitle": {
-    "description": "The explore config page add source prompt"
+  "trendingConfigPageAddSourcePromptTitle": "Add a source for explore",
+  "@trendingConfigPageAddSourcePromptTitle": {
+    "description": "The trending config page add source prompt"
   },
 
   "explorePageTitle": "explore",
@@ -2194,43 +2199,43 @@
     "description": "The explore page title."
   },
 
-  "explorePageCategoryPosts": "posts",
-  "@explorePageCategoryPosts": {
-    "description": "The explore page posts category."
+  "trendingPageCategoryPosts": "posts",
+  "@trendingPageCategoryPosts": {
+    "description": "The trending page posts category."
   },
 
-  "explorePageCategoryPostViewMoreTooltip": "View more trending posts",
-  "@explorePageCategoryPostViewMoreTooltip": {
-    "description": "The explore page posts category view more tooltip."
+  "trendingPageCategoryPostViewMoreTooltip": "View more trending posts",
+  "@trendingPageCategoryPostViewMoreTooltip": {
+    "description": "The trending page posts category view more tooltip."
   },
 
-  "explorePageCategoryTags": "tags",
-  "@explorePageCategoryTags": {
-    "description": "The explore page tags category."
+  "trendingPageCategoryTags": "tags",
+  "@trendingPageCategoryTags": {
+    "description": "The trending page tags category."
   },
 
-  "explorePageCategoryTagsViewMoreTooltip": "View more trending tags",
-  "@explorePageCategoryTagsViewMoreTooltip": {
-    "description": "The explore page tags category view more tooltip."
+  "trendingPageCategoryTagsViewMoreTooltip": "View more trending tags",
+  "@trendingPageCategoryTagsViewMoreTooltip": {
+    "description": "The trending page tags category view more tooltip."
   },
 
-  "explorePageCategoryLinks": "links",
-  "@explorePageCategoryLinks": {
-    "description": "The explore page links category."
+  "trendingPageCategoryLinks": "links",
+  "@trendingPageCategoryLinks": {
+    "description": "The trending page links category."
   },
 
-  "explorePageCategoryLinksViewMoreTooltip": "View more trending links",
-  "@explorePageCategoryLinksViewMoreTooltip": {
-    "description": "The explore page links category view more tooltip."
+  "trendingPageCategoryLinksViewMoreTooltip": "View more trending links",
+  "@trendingPageCategoryLinksViewMoreTooltip": {
+    "description": "The trending page links category view more tooltip."
   },
 
   "explorePageCategoryFollowSuggestions": "follow suggestions",
   "@explorePageCategoryFollowSuggestions": {
-    "description": "The explore page follow suggestions category."
+    "description": "The trending page follow suggestions category."
   },
 
-  "explorePageTrendingText": "trending {content}",
-  "@explorePageTrendingText": {
+  "trendingPageTrendingText": "trending {content}",
+  "@trendingPageTrendingText": {
       "description": "The header text for trending content",
       "placeholders": {
         "content": {
@@ -3668,5 +3673,10 @@
   "settingsPageAppLanguagePromptTitle": "default language",
   "@settingsPageAppLanguagePromptTitle": {
     "description": "The compose page app language prompt title."
+  },
+
+  "trendingPageTitle": "trending",
+  "@trendingPageTitle": {
+    "description": "The trending page title."
   }
 }
