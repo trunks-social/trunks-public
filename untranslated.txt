@@ -1,20 +1,41 @@
 {
   "fi": [
     "adaptiveHomeNavDestinationTrending",
-    "trendingPageTitle"
+    "trendingPageTitle",
+    "federatedFeedDescription",
+    "explorePageCategoryFollowSuggestionsDescription",
+    "explorePageCategoryPopularAccounts",
+    "explorePageCategoryPopularAccountsDescription",
+    "explorePageCategoryYourCommunities",
+    "explorePageCategoryOtherCommunities",
+    "pinnedShortcutsConfigurePageHeader"
   ],
 
   "zh": [
     "adaptiveHomeNavDestinationTrending",
     "settingsPageAppLanguageOption",
     "settingsPageAppLanguagePromptTitle",
-    "trendingPageTitle"
+    "trendingPageTitle",
+    "federatedFeedDescription",
+    "explorePageCategoryFollowSuggestionsDescription",
+    "explorePageCategoryPopularAccounts",
+    "explorePageCategoryPopularAccountsDescription",
+    "explorePageCategoryYourCommunities",
+    "explorePageCategoryOtherCommunities",
+    "pinnedShortcutsConfigurePageHeader"
   ],
 
   "zh_Hans": [
     "adaptiveHomeNavDestinationTrending",
     "settingsPageAppLanguageOption",
     "settingsPageAppLanguagePromptTitle",
-    "trendingPageTitle"
+    "trendingPageTitle",
+    "federatedFeedDescription",
+    "explorePageCategoryFollowSuggestionsDescription",
+    "explorePageCategoryPopularAccounts",
+    "explorePageCategoryPopularAccountsDescription",
+    "explorePageCategoryYourCommunities",
+    "explorePageCategoryOtherCommunities",
+    "pinnedShortcutsConfigurePageHeader"
   ]
 }

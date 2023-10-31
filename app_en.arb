@@ -2229,11 +2229,6 @@
     "description": "The trending page links category view more tooltip."
   },
 
-  "explorePageCategoryFollowSuggestions": "follow suggestions",
-  "@explorePageCategoryFollowSuggestions": {
-    "description": "The trending page follow suggestions category."
-  },
-
   "trendingPageTrendingText": "trending {content}",
   "@trendingPageTrendingText": {
       "description": "The header text for trending content",
@@ -3678,5 +3673,45 @@
   "trendingPageTitle": "trending",
   "@trendingPageTitle": {
     "description": "The trending page title."
+  },
+
+  "federatedFeedDescription": "A feed consisting of all public posts your server federates with.",
+  "@federatedFeedDescription": {
+    "description": "The federated feed card description."
+  },
+
+  "explorePageCategoryFollowSuggestions": "follow suggestions",
+  "@explorePageCategoryFollowSuggestions": {
+    "description": "The trending page follow suggestions category."
+  },
+
+  "explorePageCategoryFollowSuggestionsDescription": "These are account suggestions from your server based on your activity.",
+  "@explorePageCategoryFollowSuggestionsDescription": {
+    "description": "The trending page follow suggestions category description."
+  },
+
+  "explorePageCategoryPopularAccounts": "popular accounts",
+  "@explorePageCategoryPopularAccounts": {
+    "description": "The trending page popular accounts category."
+  },
+
+  "explorePageCategoryPopularAccountsDescription": "These are account suggestions from your trending sources.",
+  "@explorePageCategoryPopularAccountsDescription": {
+    "description": "The trending page popular accounts category description."
+  },
+
+  "explorePageCategoryYourCommunities": "your communities",
+  "@explorePageCategoryYourCommunities": {
+    "description": "The trending page your communities category."
+  },
+
+  "explorePageCategoryOtherCommunities": "other communities",
+  "@explorePageCategoryOtherCommunities": {
+    "description": "The trending page other communities category."
+  },
+
+  "pinnedShortcutsConfigurePageHeader": "drag and drop to reorder",
+  "@pinnedShortcutsConfigurePageHeader": {
+    "description": "The header for the drag and drop pinned shortcuts configuration page."
   }
 }
