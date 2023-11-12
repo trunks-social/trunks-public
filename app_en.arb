@@ -194,8 +194,8 @@
     "description": "Common all filter option"
   },
 
-  "quantitySeconds": "{time} second(s)",
-  "@quantitySeconds": {
+  "nQuantitySeconds": "{time, plural, =0{{time} seconds} =1{1 second} other{{time} seconds}}",
+  "@nQuantitySeconds": {
     "description": "Quantity of time in seconds",
     "placeholders": {
       "time": {
@@ -205,8 +205,8 @@
     }
   },
 
-  "quantityMinutes": "{time} minute(s)",
-  "@quantityMinutes": {
+  "nQuantityMinutes": "{time, plural, =0{{time} minutes} =1{1 minute} other{{time} minutes}}",
+  "@nQuantityMinutes": {
     "description": "Quantity of time in minutes",
     "placeholders": {
       "time": {
@@ -216,8 +216,8 @@
     }
   },
 
-  "quantityHours": "{time} hour(s)",
-  "@quantityHours": {
+  "nQuantityHours": "{time, plural, =0{{time} hours} =1{1 hour} other{{time} hours}}",
+  "@nQuantityHours": {
     "description": "Quantity of time in hours",
     "placeholders": {
       "time": {
@@ -227,8 +227,8 @@
     }
   },
 
-  "quantityDays": "{time} day(s)",
-  "@quantityDays": {
+  "nQuantityDays": "{time, plural, =0{{time} hours} =1{1 hour} other{{time} hours}}",
+  "@nQuantityDays": {
     "description": "Quantity of time in days",
     "placeholders": {
       "time": {
@@ -238,8 +238,8 @@
     }
   },
 
-  "quantityVotes": "{voteCount} vote(s)",
-  "@quantityVotes": {
+  "nQuantityVotes": "{voteCount, plural, =0{{voteCount} votes} =1{1 vote} other{{voteCount} votes}}",
+  "@nQuantityVotes": {
     "description": "Quantity of votes",
     "placeholders": {
       "voteCount": {
@@ -249,24 +249,35 @@
     }
   },
 
-  "quantityBoosts": "{boostCount} boost(s)",
-  "@quantityBoosts": {
+  "nQuantityBoosts": "{boostCount, plural, =0{no boosts} =1{1 boost} other{{boostCount} boosts}}",
+  "@nQuantityBoosts": {
     "description": "Quantity of boosts",
     "placeholders": {
       "boostCount": {
-        "type": "String",
-        "example": "13k"
+        "type": "int",
+        "example": "13"
       }
     }
   },
 
-  "quantityFavorites": "{favoriteCount} favorite(s)",
-  "@quantityFavorites": {
+  "nQuantityFavorites": "{favoriteCount, plural, =0{no favorites} =1{1 favorite} other{{favoriteCount} favorites}}",
+  "@nQuantityFavorites": {
     "description": "Quantity of favorites",
     "placeholders": {
       "favoriteCount": {
-        "type": "String",
-        "example": "13k"
+        "type": "int",
+        "example": "13"
+      }
+    }
+  },
+
+  "nQuantityComments": "{commentsCount, plural, =0{no comments} =1{1 comment} other{{commentsCount} comments}}",
+  "@nQuantityComments": {
+    "description": "Quantity of comments",
+    "placeholders": {
+      "commentsCount": {
+        "type": "int",
+        "example": "13"
       }
     }
   },
@@ -3450,7 +3461,7 @@
     "description": "The theme settings page OLED toggle."
   },
 
-  "themeSettingsOLEDFriendlyToggleDescription": "OLED friendly will prefer deep blacks and bright whites while harmonizing the remaining palette colors to match.",
+  "themeSettingsOLEDFriendlyToggleDescription": "OLED friendly will prefer deep blacks and bright whites.",
   "@themeSettingsOLEDFriendlyToggleDescription": {
     "description": "The theme settings page OLED toggle description."
   },
@@ -3470,9 +3481,39 @@
     "description": "The theme settings page configure section."
   },
 
+  "themeSettingsCustomizeSection": "Customization for all themes",
+  "@themeSettingsCustomizeSection": {
+    "description": "The theme settings page customize section."
+  },
+
   "themeSettingsPageCurrentHeader": "current theme",
   "@themeSettingsPageCurrentHeader": {
     "description": "The theme settings page current theme header."
+  },
+
+  "themeSettingsSetCustomColorSeed": "Set a custom color seed",
+  "@themeSettingsSetCustomColorSeed": {
+    "description": "The text button set a custom color seed."
+  },
+
+  "themeSettingsSeedContentToggle": "Use seed color content",
+  "@themeSettingsSeedContentToggle": {
+    "description": "The theme settings page seed content toggle."
+  },
+
+  "themeSettingsSeedContentToggleDescription": "Leverage seed color content to generate a palette which focuses less on contrast.",
+  "@themeSettingsSeedContentToggleDescription": {
+    "description": "The theme settings page seed content description."
+  },
+
+  "themeSettingsHarmonizedToggle": "Harmonize colors",
+  "@themeSettingsHarmonizedToggle": {
+    "description": "The theme settings harmonize toggle."
+  },
+
+  "themeSettingsHarmonizedToggleDescription": "Harmonize colors in the palette to compliment each other better.",
+  "@themeSettingsHarmonizedToggleDescription": {
+    "description": "The theme settings page harmonize toggle description."
   },
 
   "experimentSettingsPageTitle": "experiment settings",
