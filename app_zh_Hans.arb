@@ -67,6 +67,7 @@
     "adaptiveHomeNavDestinationBookmarks": "收藏",
     "adaptiveHomeNavDestinationFavorites": "喜爱",
     "adaptiveHomeNavDestinationLists": "列表",
+    "adaptiveHomeNavDestinationTrending": "热门",
     "adaptiveHomeWebLinksHeader": "链接",
     "adaptiveHomeSearchButtonTooltip": "搜索",
     "adaptiveHomeRefreshButtonTooltip": "刷新",
@@ -650,5 +651,16 @@
     "settingsPageExperienceSection": "体验设定",
     "threadSettingsPageTitle": "帖文串设定",
     "threadSettingsPageDefaultsSection": "默认",
-    "threadSettingsPageDefaultCommentSortTitle": "评论排序"
+    "threadSettingsPageDefaultCommentSortTitle": "评论排序",
+    "settingsPageAppLanguageOption": "默认语言/地区",
+    "settingsPageAppLanguagePromptTitle": "默认语言",
+    "trendingPageTitle": "热门",
+    "federatedFeedDescription": "包含你所在联合实例中所有公开帖文的时间流。",
+    "explorePageCategoryFollowSuggestions": "关注建议",
+    "explorePageCategoryFollowSuggestionsDescription": "基于你的活动向你推荐的、来自本实例的账号。",
+    "explorePageCategoryPopularAccounts": "热门账号",
+    "explorePageCategoryPopularAccountsDescription": "来自你的热门探索来源的账号建议。",
+    "explorePageCategoryYourCommunities": "你的社群",
+    "explorePageCategoryOtherCommunities": "其他社群",
+    "pinnedShortcutsConfigurePageHeader": "按住拖动以重新排序"
 }
