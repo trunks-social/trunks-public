@@ -227,7 +227,7 @@
     }
   },
 
-  "nQuantityDays": "{time, plural, =0{{time} hours} =1{1 hour} other{{time} hours}}",
+  "nQuantityDays": "{time, plural, =0{{time} days} =1{1 day} other{{time} days}}",
   "@nQuantityDays": {
     "description": "Quantity of time in days",
     "placeholders": {
