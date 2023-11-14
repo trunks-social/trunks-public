@@ -3754,5 +3754,16 @@
   "pinnedShortcutsConfigurePageHeader": "drag and drop to reorder",
   "@pinnedShortcutsConfigurePageHeader": {
     "description": "The header for the drag and drop pinned shortcuts configuration page."
+  },
+
+  "viewMoreCommentsInThread": "View {numOfComments} in thread",
+  "@viewMoreCommentsInThread": {
+    "description": "The header for the drag and drop pinned shortcuts configuration page.",
+    "placeholders": {
+      "numOfComments": {
+        "type": "String",
+        "example": "23 comments"
+      }
+    }
   }
 }
