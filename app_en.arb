@@ -2563,6 +2563,16 @@
     "description": "The lists page create list prompt title."
   },
 
+  "listsPageExclusiveListCheckboxTitle": "Make list exclusive?",
+  "@listsPageExclusiveListCheckboxTitle": {
+    "description": "Exclusive list checkbox title."
+  },
+
+  "listsPageExclusiveListCheckboxDescription": "Exclusive lists remove content from included members from your home feed.",
+  "@listsPageExclusiveListCheckboxDescription": {
+    "description": "Exclusive list checkbox description."
+  },
+
   "listsPageCreateListPromptHint": "Enter list title",
   "@listsPageCreateListPromptHint": {
     "description": "The lists page create list prompt hint."
@@ -2576,6 +2586,11 @@
   "listsPageViewAccountsAction": "View accounts in list",
   "@listsPageViewAccountsAction": {
     "description": "The lists page view accounts in list action."
+  },
+
+  "listsPageExclusiveTileDescription": "exclusive list",
+  "@listsPageExclusiveTileDescription": {
+    "description": "Exclusive list tile description"
   },
 
   "loginPageUnableToContactServer": "Unable to contact server.",
@@ -2721,7 +2736,7 @@
     "description": "Muted accounts title for a profile."
   },
 
-  "profileList": "list",
+  "profileList": "list members",
   "@profileList": {
     "description": "List title for a profile."
   },
@@ -3684,6 +3699,11 @@
   "settingsPageExperienceSection": "Experience settings",
   "@settingsPageExperienceSection": {
     "description": "The settings page experience section."
+  },
+
+  "settingsPageFontPromptTitle": "Default font",
+  "@settingsPageFontPromptTitle": {
+    "description": "Font prompt title."
   },
 
   "threadSettingsPageTitle": "thread settings",
