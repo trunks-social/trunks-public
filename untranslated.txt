@@ -684,20 +684,6 @@
     "viewMoreCommentsInThread"
   ],
 
-  "zh": [
-    "listsPageExclusiveListCheckboxTitle",
-    "listsPageExclusiveListCheckboxDescription",
-    "listsPageExclusiveTileDescription",
-    "themeSettingsCustomizeSection",
-    "themeSettingsSetCustomColorSeed",
-    "themeSettingsSeedContentToggle",
-    "themeSettingsSeedContentToggleDescription",
-    "themeSettingsHarmonizedToggle",
-    "themeSettingsHarmonizedToggleDescription",
-    "settingsPageFontPromptTitle",
-    "viewMoreCommentsInThread"
-  ],
-
   "zh_Hans": [
     "listsPageExclusiveListCheckboxTitle",
     "listsPageExclusiveListCheckboxDescription",
