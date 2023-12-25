@@ -3111,16 +3111,6 @@
     "description": "The feed setting description for always remembering the last read position on the home feed."
   },
 
-  "feedSettingsDigestModeTitle": "Digest mode",
-  "@feedSettingsDigestModeTitle": {
-    "description": "The feed setting for showing the user only the content they haven't seen."
-  },
-
-  "feedSettingsDigestModeDescription": "Home feed will load only posts that you most likely haven't read since last time.",
-  "@feedSettingsDigestModeDescription": {
-    "description": "The feed setting description for showing the user only the content they haven't seen."
-  },
-
   "feedSettingsFeaturesSectionTitle": "Feed features",
   "@feedSettingsFeaturesSectionTitle": {
     "description": "Feed features title."
@@ -3669,6 +3659,16 @@
   "settingsPageExperimentsOption": "Experiments",
   "@settingsPageExperimentsOption": {
     "description": "The settings page experiments setting."
+  },
+
+  "settingsPageShowFeaturesOption": "Show features",
+  "@settingsPageShowFeaturesOption": {
+    "description": "The settings page show features setting."
+  },
+
+  "featuresPageTitle": "features",
+  "@featuresPageTitle": {
+    "description": "The features page title."
   },
 
   "settingsPageVersionOption": "Version",

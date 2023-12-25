@@ -542,8 +542,6 @@
     "feedSettingsRecentModeDescription",
     "feedSettingsRememberModeTitle",
     "feedSettingsRememberModeDescription",
-    "feedSettingsDigestModeTitle",
-    "feedSettingsDigestModeDescription",
     "feedSettingsFeaturesSectionTitle",
     "feedSettingsStreamHomeToggle",
     "feedSettingsStreamHomeToggleDescription",
@@ -652,6 +650,8 @@
     "settingsPagePrivacyPolicyOption",
     "settingsPageMadeInOption",
     "settingsPageExperimentsOption",
+    "settingsPageShowFeaturesOption",
+    "featuresPageTitle",
     "settingsPageVersionOption",
     "settingsPagePushNotificationsOption",
     "settingsPageAccessibilityOption",
@@ -680,8 +680,15 @@
     "listsPageExclusiveListCheckboxTitle",
     "listsPageExclusiveListCheckboxDescription",
     "listsPageExclusiveTileDescription",
+    "settingsPageShowFeaturesOption",
+    "featuresPageTitle",
     "settingsPageFontPromptTitle",
     "viewMoreCommentsInThread"
+  ],
+
+  "zh": [
+    "settingsPageShowFeaturesOption",
+    "featuresPageTitle"
   ],
 
   "zh_Hans": [
@@ -694,6 +701,8 @@
     "themeSettingsSeedContentToggleDescription",
     "themeSettingsHarmonizedToggle",
     "themeSettingsHarmonizedToggleDescription",
+    "settingsPageShowFeaturesOption",
+    "featuresPageTitle",
     "settingsPageFontPromptTitle",
     "viewMoreCommentsInThread"
   ]
