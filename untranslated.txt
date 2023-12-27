@@ -684,26 +684,5 @@
     "featuresPageTitle",
     "settingsPageFontPromptTitle",
     "viewMoreCommentsInThread"
-  ],
-
-  "zh": [
-    "settingsPageShowFeaturesOption",
-    "featuresPageTitle"
-  ],
-
-  "zh_Hans": [
-    "listsPageExclusiveListCheckboxTitle",
-    "listsPageExclusiveListCheckboxDescription",
-    "listsPageExclusiveTileDescription",
-    "themeSettingsCustomizeSection",
-    "themeSettingsSetCustomColorSeed",
-    "themeSettingsSeedContentToggle",
-    "themeSettingsSeedContentToggleDescription",
-    "themeSettingsHarmonizedToggle",
-    "themeSettingsHarmonizedToggleDescription",
-    "settingsPageShowFeaturesOption",
-    "featuresPageTitle",
-    "settingsPageFontPromptTitle",
-    "viewMoreCommentsInThread"
   ]
 }

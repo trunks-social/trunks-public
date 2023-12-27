@@ -4,7 +4,7 @@ import json
 
 onlyfiles = [f for f in listdir('.') if isfile(join('.', f))]
 for file in onlyfiles:
-    if file != "app_en.arb" and file != "untranslated.txt" and file != "README" and file != "cleanup.py":
+    if file != "app_en.arb" and file != "untranslated.txt" and file != "README.md" and file != "cleanup.py":
        with open(file) as f:
            fileJson = json.load(f)
            copy = fileJson.copy()
