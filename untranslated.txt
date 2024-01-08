@@ -50,6 +50,7 @@
     "visibilityUnlisted",
     "visibilityPrivate",
     "visibilityDirect",
+    "visibilityInherited",
     "commentSortBest",
     "commentSortChronological",
     "commentSortControversial",
@@ -293,6 +294,7 @@
     "visibilityDescriptionUnlisted",
     "visibilityDescriptionPrivate",
     "visibilityDescriptionDirect",
+    "visibilityDescriptionInherited",
     "loginPageTitle",
     "readMoreTextButton",
     "pollVoteAction",
@@ -637,10 +639,9 @@
     "settingsPageFiltersOption",
     "settingsPagePostingBehaviorsSection",
     "settingsPagePostPrivacyOption",
+    "settingsPageReplyPrivacyOption",
     "settingsPageMediaSensitivityOption",
     "settingsPagePostLanguageOption",
-    "settingsPageShowActionsOption",
-    "settingsPageShowActionsOptionDescription",
     "settingsPageAccountsSection",
     "settingsPageSignOutOption",
     "settingsPageManageAccountsOption",
@@ -673,16 +674,39 @@
     "explorePageCategoryYourCommunities",
     "explorePageCategoryOtherCommunities",
     "pinnedShortcutsConfigurePageHeader",
-    "viewMoreCommentsInThread"
+    "viewMoreCommentsInThread",
+    "securitySettingsPageTitle",
+    "securityPageOption"
   ],
 
   "fi": [
+    "visibilityInherited",
+    "visibilityDescriptionInherited",
     "listsPageExclusiveListCheckboxTitle",
     "listsPageExclusiveListCheckboxDescription",
     "listsPageExclusiveTileDescription",
+    "settingsPageReplyPrivacyOption",
     "settingsPageShowFeaturesOption",
     "featuresPageTitle",
     "settingsPageFontPromptTitle",
-    "viewMoreCommentsInThread"
+    "viewMoreCommentsInThread",
+    "securitySettingsPageTitle",
+    "securityPageOption"
+  ],
+
+  "zh": [
+    "visibilityInherited",
+    "visibilityDescriptionInherited",
+    "settingsPageReplyPrivacyOption",
+    "securitySettingsPageTitle",
+    "securityPageOption"
+  ],
+
+  "zh_Hans": [
+    "visibilityInherited",
+    "visibilityDescriptionInherited",
+    "settingsPageReplyPrivacyOption",
+    "securitySettingsPageTitle",
+    "securityPageOption"
   ]
 }

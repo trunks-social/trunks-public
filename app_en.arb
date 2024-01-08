@@ -302,6 +302,11 @@
     "description": "The direct visibility of a post."
   },
 
+  "visibilityInherited": "Inherited",
+  "@visibilityInherited": {
+    "description": "The inherited visibility of a post."
+  },
+
   "commentSortBest": "best",
   "@commentSortBest": {
     "description": "The best comment sort option."
@@ -1764,6 +1769,11 @@
   "visibilityDescriptionDirect": "Visible only to mentioned users.",
   "@visibilityDescriptionDirect": {
     "description": "The description of the direct visibility setting."
+  },
+
+  "visibilityDescriptionInherited": "Visibility is inherited from the original post.",
+  "@visibilityDescriptionInherited": {
+    "description": "The description of the inherited visibility setting."
   },
 
   "loginPageTitle": "login",
@@ -3596,6 +3606,11 @@
     "description": "The settings page default post privacy setting."
   },
 
+  "settingsPageReplyPrivacyOption": "Default reply privacy",
+  "@settingsPageReplyPrivacyOption": {
+    "description": "The settings page default reply privacy setting."
+  },
+
   "settingsPageMediaSensitivityOption": "Always mark media posted by me as sensitive",
   "@settingsPageMediaSensitivityOption": {
     "description": "The settings page media sensitivity setting."
@@ -3604,16 +3619,6 @@
   "settingsPagePostLanguageOption": "Posting locale/language",
   "@settingsPagePostLanguageOption": {
     "description": "The settings page post language setting."
-  },
-
-  "settingsPageShowActionsOption": "Show action updates",
-  "@settingsPageShowActionsOption": {
-    "description": "The settings page show action setting."
-  },
-
-  "settingsPageShowActionsOptionDescription": "When action updates are enabled, progress and affirmation are shown for any input.",
-  "@settingsPageShowActionsOptionDescription": {
-    "description": "The settings page show action setting description."
   },
 
   "settingsPageAccountsSection": "Accounts",
@@ -3785,5 +3790,15 @@
         "example": "23 comments"
       }
     }
+  },
+
+  "securitySettingsPageTitle": "safety & privacy settings",
+  "@securitySettingsPageTitle": {
+    "description": "The safety & security settings page title."
+  },
+
+  "securityPageOption": "Safety & Privacy",
+  "@securityPageOption": {
+    "description": "The settings page safety and security setting."
   }
 }
