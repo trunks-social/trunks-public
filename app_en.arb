@@ -2170,6 +2170,11 @@
     "description": "The chip button to unroll a thread as an article."
   },
 
+  "detailPageWriteReply": "Write your reply",
+  "@detailPageWriteReply": {
+    "description": "The bottom app bar to write reply."
+  },
+
   "editPageCurrent": "current",
   "@editPageCurrent": {
     "description": "The edit page current edit header."

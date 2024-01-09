@@ -368,6 +368,7 @@
     "detailPageShowMoreComments",
     "detailPageShowAllSensitiveContent",
     "detailPageUnrollAsArticle",
+    "detailPageWriteReply",
     "editPageCurrent",
     "editPageOriginal",
     "editPageLoadFailure",
@@ -682,6 +683,7 @@
   "fi": [
     "visibilityInherited",
     "visibilityDescriptionInherited",
+    "detailPageWriteReply",
     "listsPageExclusiveListCheckboxTitle",
     "listsPageExclusiveListCheckboxDescription",
     "listsPageExclusiveTileDescription",
@@ -697,6 +699,7 @@
   "zh": [
     "visibilityInherited",
     "visibilityDescriptionInherited",
+    "detailPageWriteReply",
     "settingsPageReplyPrivacyOption",
     "securitySettingsPageTitle",
     "securityPageOption"
@@ -705,6 +708,7 @@
   "zh_Hans": [
     "visibilityInherited",
     "visibilityDescriptionInherited",
+    "detailPageWriteReply",
     "settingsPageReplyPrivacyOption",
     "securitySettingsPageTitle",
     "securityPageOption"
