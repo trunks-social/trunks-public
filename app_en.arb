@@ -873,6 +873,16 @@
     "description": "The text displayed when a user hides a post intentionally."
   },
 
+  "commonActionHiddenByUserSafetyOtherServer": "Hidden mention or reply from outside of your server",
+  "@commonActionHiddenByUserSafetyOtherServer": {
+    "description": "The text displayed when a mention or reply from outside of your server is hidden due to user safety settings."
+  },
+
+  "commonActionHiddenByUserSafetyNonFollowingUser": "Hidden mention or reply from a user you don't follow.",
+  "@commonActionHiddenByUserSafetyNonFollowingUser": {
+    "description": "The text displayed when a mention or reply from a user you don't follow is hidden due to user safety settings."
+  },
+
   "commonActionCopiedPostToClipboard": "Copied post link to clipboard",
   "@commonActionCopiedPostToClipboard": {
     "description": "The text displayed when a user copies a post to the clipboard."
@@ -2306,6 +2316,11 @@
     "description": "Search page servers category header."
   },
 
+  "searchPageHistoryHeader": "search history",
+  "@searchPageHistoryHeader": {
+    "description": "Search page history category header."
+  },
+
   "searchPageLoadMore": "Load more",
   "@searchPageLoadMore": {
     "description": "Search page load more action."
@@ -2550,6 +2565,11 @@
 
   "feedPageSkipToNewest": "Skip to newest posts",
   "@feedPageSkipToNewest": {
+    "description": "The feed page content for skipping to newest posts."
+  },
+
+  "feedPageSkipToNewestAction": "skip",
+  "@feedPageSkipToNewestAction": {
     "description": "The feed page action for skipping to newest posts."
   },
 
@@ -2871,6 +2891,26 @@
     "description": "The status section on a profile."
   },
 
+  "profilePageNoteSection": "notes",
+  "@profilePageNoteSection": {
+    "description": "The notes section on a profile that a user has added."
+  },
+
+  "profilePageNotePromptTitle": "Note",
+  "@profilePageNotePromptTitle": {
+    "description": "The notes section prompt title."
+  },
+
+  "profilePageNotePromptButton": "add a private note",
+  "@profilePageNotePromptButton": {
+    "description": "The notes section prompt button text."
+  },
+
+  "profilePageNotePromptHint": "Enter a private note...",
+  "@profilePageNotePromptHint": {
+    "description": "The notes section prompt hint text."
+  },
+
   "profilePageStatusHuman": "human",
   "@profilePageStatusHuman": {
     "description": "The human status on profile."
@@ -3044,6 +3084,11 @@
   "profilePageEditBackgroundImageTooltip": "Pick image for background",
   "@profilePageEditBackgroundImageTooltip": {
     "description": "The profile page background edit image tooltip."
+  },
+
+  "profilePageSubscribeToPostsTooltip": "Subscribe to posts from user.",
+  "@profilePageSubscribeToPostsTooltip": {
+    "description": "The profile page header button to subscribe to users posts."
   },
 
   "accessibilitySettingsPageTitle": "accessibility settings",
@@ -3431,6 +3476,11 @@
     "description": "The notification settings page favorites notifications toggle."
   },
 
+  "notificationSettingsPageSubscribedAccountsToggle": "Subscribed accounts",
+  "@notificationSettingsPageSubscribedAccountsToggle": {
+    "description": "The notification settings page subscribed accounts notifications toggle."
+  },
+
   "notificationSettingsPageUpdatingProgress": "Updating subscriptions...",
   "@notificationSettingsPageUpdatingProgress": {
     "description": "The notification settings page subscription update progress text."
@@ -3601,6 +3651,11 @@
     "description": "The settings page filters setting."
   },
 
+  "settingsPageUserSafetySection": "User safety",
+  "@settingsPageUserSafetySection": {
+    "description": "The settings page user safety section."
+  },
+
   "settingsPagePostingBehaviorsSection": "Posting Behaviors",
   "@settingsPagePostingBehaviorsSection": {
     "description": "The settings page post behaviors section."
@@ -3619,6 +3674,31 @@
   "settingsPageMediaSensitivityOption": "Always mark media posted by me as sensitive",
   "@settingsPageMediaSensitivityOption": {
     "description": "The settings page media sensitivity setting."
+  },
+
+  "settingsPageReplyPrivacyOption": "Default reply privacy",
+  "@settingsPageReplyPrivacyOption": {
+    "description": "The settings page default reply privacy setting."
+  },
+
+  "settingsPageSuppressOtherServerRepliesOption": "Hide cross-server replies and mentions",
+  "@settingsPageSuppressOtherServerRepliesOption": {
+    "description": "The settings page suppress other servers replies option."
+  },
+
+  "settingsPageSuppressOtherServerRepliesOptionDescription": "Hide replies to your posts and mentions of you from other servers. Does not impact push notifications.",
+  "@settingsPageSuppressOtherServerRepliesOptionDescription": {
+    "description": "The settings page suppress other servers replies option description."
+  },
+
+  "settingsPageSuppressNonFollowingRepliesOption": "Hide replies and mentions from non-followers",
+  "@settingsPageSuppressNonFollowingRepliesOption": {
+    "description": "The settings page suppress non following user replies option."
+  },
+
+  "settingsPageSuppressNonFollowingRepliesOptionDescription": "Hide replies to your posts and mentions of you from users you don't follow. Does not impact push notifications.",
+  "@settingsPageSuppressNonFollowingRepliesOptionDescription": {
+    "description": "The settings page suppress non following user replies option description."
   },
 
   "settingsPagePostLanguageOption": "Posting locale/language",
