@@ -2159,6 +2159,17 @@
     "description": "The show context button on another uses post/thread."
   },
 
+  "detailPageMoreComments": "{number} comment(s)",
+  "@detailPageMoreComments": {
+    "description": "The button text for how many more comments there are",
+    "placeholders": {
+      "number": {
+        "type": "num",
+        "example": "5"
+      }
+    }
+  },
+
   "detailPageShowMoreComments": "View {number} more comment(s)",
   "@detailPageShowMoreComments": {
     "description": "The button text for showing more comments.",
@@ -2339,6 +2350,61 @@
   "searchPageActionTooltip": "Perform search",
   "@searchPageActionTooltip": {
     "description": "Search page main input action tooltip."
+  },
+
+  "searchPageAdvancedSearchDialogTitle": "Advanced search",
+  "@searchPageAdvancedSearchDialogTitle": {
+    "description": "Search page advanced search dialog title."
+  },
+
+  "searchPageAdvancedSearchDialogFromMeTitle": "\"from:me\"",
+  "@searchPageAdvancedSearchDialogFromMeTitle": {
+    "description": "Search page advanced search dialog from me row title."
+  },
+
+  "searchPageAdvancedSearchDialogFromMeSubtitle": "Add to your search show only content from yourself.",
+  "@searchPageAdvancedSearchDialogFromMeSubtitle": {
+    "description": "Search page advanced search dialog from me row subtitle."
+  },
+
+  "searchPageAdvancedSearchDialogFromSomeoneElseTitle": "\"from:<user@server>\"",
+  "@searchPageAdvancedSearchDialogFromSomeoneElseTitle": {
+    "description": "Search page advanced search dialog from someone else row title."
+  },
+
+  "searchPageAdvancedSearchDialogFromSomeoneElseSubtitle": "Add to your search to show only content from that specific user.",
+  "@searchPageAdvancedSearchDialogFromSomeoneElseSubtitle": {
+    "description": "Search page advanced search dialog from someone else row subtitle."
+  },
+
+  "searchPageAdvancedSearchDialogInLibraryTitle": "\"in:library\"",
+  "@searchPageAdvancedSearchDialogInLibraryTitle": {
+    "description": "Search page advanced search dialog in library row title."
+  },
+
+  "searchPageAdvancedSearchDialogInLibrarySubtitle": "Add to your search to show only content that you've interacted with.",
+  "@searchPageAdvancedSearchDialogInLibrarySubtitle": {
+    "description": "Search page advanced search dialog in library row subtitle."
+  },
+
+  "searchPageAdvancedSearchDialogBeforeTitle": "\"before:2023-09-01\"",
+  "@searchPageAdvancedSearchDialogBeforeTitle": {
+    "description": "Search page advanced search dialog before row title."
+  },
+
+  "searchPageAdvancedSearchDialogBeforeSubtitle":"Add to your search to show only content before September 1st 2023.",
+  "@searchPageAdvancedSearchDialogBeforeSubtitle": {
+    "description": "Search page advanced search dialog before row subtitle."
+  },
+
+  "searchPageAdvancedSearchDialogAfterTitle": "\"after:2023-08-26\"",
+  "@searchPageAdvancedSearchDialogAfterTitle": {
+    "description": "Search page advanced search dialog after row title."
+  },
+
+  "searchPageAdvancedSearchDialogAfterSubtitle":"Add to your search to show only content after August 26th 2023.",
+  "@searchPageAdvancedSearchDialogAfterSubtitle": {
+    "description": "Search page advanced search dialog after row subtitle."
   },
 
   "feedCardHidePostAction": "Hide post",
@@ -3091,9 +3157,9 @@
     "description": "The profile page header button to subscribe to users posts."
   },
 
-  "accessibilitySettingsPageTitle": "accessibility settings",
+  "accessibilitySettingsPageTitle": "accessibility & ui settings",
   "@accessibilitySettingsPageTitle": {
-    "description": "The accessibility settings page title."
+    "description": "The ui/accessibility settings page title."
   },
 
   "accessibilitySettingsPageGlobalTextSection": "Global text",
@@ -3119,6 +3185,16 @@
   "accessibilitySettingsPagePostTextFontSizeDelta": "Body font size delta",
   "@accessibilitySettingsPagePostTextFontSizeDelta": {
     "description": "The post text editing section body font size delta."
+  },
+
+  "accessibilitySettingsPageBottomBarSection": "Bottom bar",
+  "@accessibilitySettingsPageBottomBarSection": {
+    "description": "The bottom bar section title"
+  },
+
+  "accessibilitySettingsPageBottomBarLeftHandTitle": "Use left hand for bottom bar on small width screens?",
+  "@accessibilitySettingsPageBottomBarLeftHandTitle": {
+    "description": "The bottom bar setting for left hand mode."
   },
 
   "feedSettingsPageTitle": "feed settings",
@@ -3771,7 +3847,7 @@
     "description": "The settings page push notifications setting."
   },
 
-  "settingsPageAccessibilityOption": "Accessibility",
+  "settingsPageAccessibilityOption": "Accessibility & UI Settings",
   "@settingsPageAccessibilityOption": {
     "description": "The settings page accessibility setting."
   },
@@ -3809,6 +3885,16 @@
   "threadSettingsPageDefaultCommentSortTitle": "Comment sort",
   "@threadSettingsPageDefaultCommentSortTitle": {
     "description": "The default comment sort for threads."
+  },
+
+  "threadSettingsPageDefaultCommentCollapseCountTitle": "Nested comment collapse depth",
+  "@threadSettingsPageDefaultCommentCollapseCountTitle": {
+    "description": "The default comment collapse count for threads."
+  },
+
+  "threadSettingsPageDefaultCommentCollapseCountDescription": "The depth of comments to show below a reply before automatically collapsing a nested thread.",
+  "@threadSettingsPageDefaultCommentCollapseCountDescription": {
+    "description": "The default comment collapse count for threads description."
   },
 
   "settingsPageAppLanguageOption": "Default language/locale",
