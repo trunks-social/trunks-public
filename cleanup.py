@@ -11,5 +11,5 @@ for file in onlyfiles:
            for key, value in fileJson.items():
               if key.startswith("@"):
                 del copy[key]
-           with open(file + ".new", 'w') as newfile:
+           with open(file, 'w') as newfile:
                json.dump(copy, newfile, ensure_ascii=False, indent=4)
