@@ -1999,7 +1999,6 @@
     "searchPageAdvancedSearchDialogTitle",
     "searchPageAdvancedSearchDialogFromMeTitle",
     "searchPageAdvancedSearchDialogFromMeSubtitle",
-    "searchPageAdvancedSearchDialogFromSomeoneElseTitle",
     "searchPageAdvancedSearchDialogFromSomeoneElseSubtitle",
     "searchPageAdvancedSearchDialogInLibraryTitle",
     "searchPageAdvancedSearchDialogInLibrarySubtitle",
@@ -2166,7 +2165,6 @@
     "experimentSettingsFeaturesSection",
     "settingsPageSignOutPromptContent",
     "settingsPageDarkModeOption",
-    "settingsPageUserSafetySection",
     "settingsPagePostingBehaviorsSection",
     "settingsPagePostPrivacyOption",
     "settingsPageReplyPrivacyOption",
@@ -2178,11 +2176,8 @@
     "settingsPagePostLanguageOption",
     "settingsPageSignOutOption",
     "settingsPageMadeInOption",
-    "settingsPageExperimentsOption",
     "settingsPageVersionOption",
     "settingsPageExperienceSection",
-    "settingsPageFontPromptTitle",
-    "threadSettingsPageDefaultsSection",
     "threadSettingsPageDefaultCommentSortTitle",
     "threadSettingsPageDefaultCommentCollapseCountTitle",
     "threadSettingsPageDefaultCommentCollapseCountDescription",
@@ -2190,9 +2185,7 @@
     "settingsPageAppLanguagePromptTitle",
     "federatedFeedDescription",
     "explorePageCategoryPopularAccountsDescription",
-    "viewMoreCommentsInThread",
-    "securitySettingsPageTitle",
-    "securityPageOption"
+    "viewMoreCommentsInThread"
   ],
 
   "ru": [
