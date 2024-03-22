@@ -3157,6 +3157,11 @@
     "description": "The profile page header button to subscribe to users posts."
   },
 
+  "profilePageShowBoostsTooltip": "Show boosts from this user.",
+  "@profilePageShowBoostsTooltip": {
+    "description": "The profile page header button to show boosts from a user."
+  },
+
   "accessibilitySettingsPageTitle": "accessibility & ui settings",
   "@accessibilitySettingsPageTitle": {
     "description": "The ui/accessibility settings page title."

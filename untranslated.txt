@@ -504,6 +504,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -1059,6 +1060,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -1614,6 +1616,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -1802,6 +1805,7 @@
     "profilePageNotePromptButton",
     "profilePageNotePromptHint",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageBottomBarSection",
     "accessibilitySettingsPageBottomBarLeftHandTitle",
     "notificationSettingsPageSubscribedAccountsToggle",
@@ -2088,6 +2092,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -2680,6 +2685,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -3332,6 +3338,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -3977,6 +3984,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -4643,6 +4651,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -5317,6 +5326,7 @@
     "profilePageEditAvatarImageTooltip",
     "profilePageEditBackgroundImageTooltip",
     "profilePageSubscribeToPostsTooltip",
+    "profilePageShowBoostsTooltip",
     "accessibilitySettingsPageTitle",
     "accessibilitySettingsPageGlobalTextSection",
     "accessibilitySettingsPageGlobalTextFontScale",
@@ -5475,5 +5485,13 @@
     "viewMoreCommentsInThread",
     "securitySettingsPageTitle",
     "securityPageOption"
+  ],
+
+  "zh": [
+    "profilePageShowBoostsTooltip"
+  ],
+
+  "zh_CN": [
+    "profilePageShowBoostsTooltip"
   ]
 }
