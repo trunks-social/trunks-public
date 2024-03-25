@@ -551,6 +551,7 @@
     "profilePageEditAvatarImageTooltip": "选择头像图片",
     "profilePageEditBackgroundImageTooltip": "选择背景图片",
     "profilePageSubscribeToPostsTooltip": "订阅用户的帖文。",
+    "profilePageShowBoostsTooltip": "显示来自该用户的转发。",
     "accessibilitySettingsPageTitle": "无障碍设置",
     "accessibilitySettingsPageGlobalTextSection": "全局文本",
     "accessibilitySettingsPageGlobalTextFontScale": "字体缩放",
