@@ -55,6 +55,7 @@
     "notificationsPageAllFilter": "alla",
     "notificationsPageFavoriteFilter": "favoriter",
     "notificationsPageErrorRetry": "Försök igen",
+    "notificationsPageMarkingAsReadProgress": "Markera som läst",
     "commonActionBlockPrompt": "Blockera konto?",
     "commonActionBlockPromptAreYouSure": "Är du säker på att du vill blockera @{account}?",
     "commonActionBlockPromptAction": "Blockera",
