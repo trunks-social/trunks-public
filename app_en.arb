@@ -2559,6 +2559,11 @@
       }
   },
 
+  "feedCardOriginalPosterTooltip": "Original poster of the thread.",
+  "@feedCardOriginalPosterTooltip": {
+    "description": "Feed card tooltip for OP message."
+  },
+
   "feedCardEditPostHistoryTooltip": "See post edit history",
   "@feedCardEditPostHistoryTooltip": {
     "description": "Feed card tooltip for post edit history"
@@ -3900,6 +3905,11 @@
   "threadSettingsPageDefaultCommentCollapseCountDescription": "The depth of comments to show below a reply before automatically collapsing a nested thread.",
   "@threadSettingsPageDefaultCommentCollapseCountDescription": {
     "description": "The default comment collapse count for threads description."
+  },
+
+  "threadSettingsPageUnrollThreadsByDefaultTitle": "Automatically unroll threads?",
+  "@threadSettingsPageUnrollThreadsByDefaultTitle": {
+    "description": "The default for automatically unrolling threads."
   },
 
   "settingsPageAppLanguageOption": "Default language/locale",
