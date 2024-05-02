@@ -1338,7 +1338,7 @@
       }
   },
 
-  "commonActionDeleteFilterPrompt": "Delete ${filter} filter?",
+  "commonActionDeleteFilterPrompt": "Delete {filter} filter?",
   "@commonActionDeleteFilterPrompt": {
       "description": "Name of a filter",
       "placeholders": {
@@ -1348,7 +1348,7 @@
         }
       }
   },
-  "commonActionDeleteFilterPromptAreYouSure": "Are you sure you want to delete the ${filter} filter?",
+  "commonActionDeleteFilterPromptAreYouSure": "Are you sure you want to delete the {filter} filter?",
   "@commonActionDeleteFilterPromptAreYouSure": {
       "description": "Name of a filter",
       "placeholders": {
@@ -2950,6 +2950,31 @@
   "profilePageStatsSection": "stats",
   "@profilePageStatsSection": {
     "description": "The stats section on a profile."
+  },
+
+  "profilePageRecentActivitySection": "recent activity",
+  "@profilePageRecentActivitySection": {
+    "description": "The recent activity section on a profile."
+  },
+
+  "profilePageRecentActivityLowEngagement": "limited engagement",
+  "@profilePageRecentActivityLowEngagement": {
+    "description": "The recent activity bar graph limited engagement label on a profile."
+  },
+
+  "profilePageRecentActivityViral": "viral",
+  "@profilePageRecentActivityViral": {
+    "description": "The recent activity bar graph viral label on a profile."
+  },
+
+  "profilePageRecentActivityControversial": "controversial",
+  "@profilePageRecentActivityControversial": {
+    "description": "The recent activity bar graph controversial label on a profile."
+  },
+
+  "profilePageRecentActivityLastActivity": "last activity",
+  "@profilePageRecentActivityLastActivity": {
+    "description": "The last activity item on a profile."
   },
 
   "profilePageJoinedSection": "joined",
