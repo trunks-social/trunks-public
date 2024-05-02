@@ -102,7 +102,7 @@
     "notificationsPageMentionedYou": "나를 멘션함",
     "notificationsPageBoostedYou": "내 게시물이 부스트됨",
     "notificationsPageFavoritedYou": "내 게시물이 좋아요됨",
-    "notificationsPageFollowedUserPosted": "게시 마침",
+    "notificationsPageFollowedUserPosted": "새로운 게시물",
     "notificationsPageUserSignedUp": "가입",
     "notificationsPageUserReported": "게시물 신고함",
     "commonAccountSwitchProgress": "@{account} 계정으로 바꾸는 중",

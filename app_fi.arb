@@ -226,8 +226,6 @@
     "commonActionRejectingProgress": "Hylätään...",
     "commonActionRejectingSuccess": "Hylätty @{account}",
     "commonActionRejectingFailure": "Virhe hylättäessä @{account}",
-    "commonActionDeleteFilterPrompt": "Poista suodatin ${filter}?",
-    "commonActionDeleteFilterPromptAreYouSure": "Oletko varma, että haluat poistaa suodattimen ${filter}?",
     "commonActionDeleteFilterAction": "Poista",
     "commonActionDeletingFilterProgress": "Poistetaan suodatin ${filter}...",
     "commonActionDeletingFilterSuccess": "Poistettu suodatin ${filter}",
