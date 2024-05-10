@@ -2216,12 +2216,12 @@
     "description": "The viewer page browser button."
   },
 
-  "trendingConfigPageTitle": "explore sources",
+  "trendingConfigPageTitle": "trending sources",
   "@trendingConfigPageTitle": {
     "description": "The trending config page title."
   },
 
-  "trendingConfigPageEmpty": "You have no external explore sources, click + to create one.",
+  "trendingConfigPageEmpty": "You have no external trending sources, click + to create one.",
   "@trendingConfigPageEmpty": {
     "description": "The trending config page empty content."
   },
@@ -2231,12 +2231,12 @@
     "description": "The trending config page add source button."
   },
 
-  "trendingConfigPageRemoveTooltip": "Remove explore source",
+  "trendingConfigPageRemoveTooltip": "Remove trending source",
   "@trendingConfigPageRemoveTooltip": {
     "description": "The trending config page add source button."
   },
 
-  "trendingConfigPageAddSourcePromptTitle": "Add a source for explore",
+  "trendingConfigPageAddSourcePromptTitle": "Add a source for trending",
   "@trendingConfigPageAddSourcePromptTitle": {
     "description": "The trending config page add source prompt"
   },
@@ -4011,5 +4011,20 @@
   "securityPageOption": "Safety & Privacy",
   "@securityPageOption": {
     "description": "The settings page safety and security setting."
+  },
+
+  "notificationActionViewPost": "View post",
+  "@notificationActionViewPost": {
+    "description": "The view post notification action."
+  },
+
+  "notificationActionViewProfile": "View profile",
+  "@notificationActionViewProfile": {
+    "description": "The view profile notification action."
+  },
+
+  "notificationActionReply": "Reply",
+  "@notificationActionReply": {
+    "description": "The reply notification action."
   }
 }
