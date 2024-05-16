@@ -4,6 +4,10 @@ Click the issues tab above and help report issues that you're seeing across any 
 
 ## Translating
 
+Translation is managed in crowdin, see https://crowdin.com/project/trunkssocial for contributions.
+
+### Manual translation
+
 Checkout the `app_en.arb` file to see the current english translation for the application.
 
 To translate into a new language, create a new arb file specific to that language locale.
