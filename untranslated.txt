@@ -678,6 +678,10 @@
   "es": [
     "notificationsPageAdminSignUpFilter",
     "notificationsPageAdminReportFilter",
+    "trendingConfigPageTitle",
+    "trendingConfigPageEmpty",
+    "trendingConfigPageRemoveTooltip",
+    "trendingConfigPageAddSourcePromptTitle",
     "feedCardPostSourceTextPromptTitle",
     "notificationActionViewPost",
     "notificationActionViewProfile",
@@ -692,6 +696,10 @@
     "commonActionDeleteFilterPromptAreYouSure",
     "detailPageMoreComments",
     "detailPageWriteReply",
+    "trendingConfigPageTitle",
+    "trendingConfigPageEmpty",
+    "trendingConfigPageRemoveTooltip",
+    "trendingConfigPageAddSourcePromptTitle",
     "searchPageHistoryHeader",
     "searchPageAdvancedSearchDialogTitle",
     "searchPageAdvancedSearchDialogFromMeTitle",
@@ -4961,6 +4969,10 @@
   ],
 
   "zh": [
+    "trendingConfigPageTitle",
+    "trendingConfigPageEmpty",
+    "trendingConfigPageRemoveTooltip",
+    "trendingConfigPageAddSourcePromptTitle",
     "notificationActionViewPost",
     "notificationActionViewProfile",
     "notificationActionReply"
