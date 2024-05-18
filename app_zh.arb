@@ -376,7 +376,11 @@
     "editPageOriginal": "原文",
     "editPageLoadFailure": "无法加载编辑历史",
     "imageViewerPageOpenBrowser": "在浏览器中打开",
+    "trendingConfigPageTitle": "热门来源",
+    "trendingConfigPageEmpty": "你还没有外部的热门来源，点击 + 创建一个。",
     "trendingConfigPageAdd": "添加源",
+    "trendingConfigPageRemoveTooltip": "移除热门来源",
+    "trendingConfigPageAddSourcePromptTitle": "添加一个热门来源",
     "explorePageTitle": "探索",
     "trendingPageCategoryPosts": "帖文",
     "trendingPageCategoryPostViewMoreTooltip": "查看更多热门帖文",
@@ -712,5 +716,8 @@
     "pinnedShortcutsConfigurePageHeader": "按住拖动以重新排序",
     "viewMoreCommentsInThread": "在帖文串中查看 {numOfComments}",
     "securitySettingsPageTitle": "安全 & 隐私设定",
-    "securityPageOption": "安全 & 隐私"
+    "securityPageOption": "安全 & 隐私",
+    "notificationActionViewPost": "查看帖文",
+    "notificationActionViewProfile": "查看资料",
+    "notificationActionReply": "回复"
 }
