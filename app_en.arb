@@ -1460,13 +1460,22 @@
   "@commonActionPublishingProgress": {
     "description": "The progress text displayed when a user is publishing a post."
   },
-  "commonActionPublishingSuccess": "Published post",
+  "commonActionPublishingSuccess": "Published post.",
   "@commonActionPublishingSuccess": {
     "description": "The success text for publishing a post."
   },
   "commonActionPublishingFailure": "Failed to publish post",
   "@commonActionPublishingFailure": {
     "description": "The failure text for publishing a post."
+  },
+
+  "commonActionPublishingMultipleProgress": "Publishing posts...",
+  "@commonActionPublishingMultipleProgress": {
+    "description": "The progress text displayed when a user is publishing multiple posts."
+  },
+  "commonActionPublishingMultipleSuccess": "Published posts.",
+  "@commonActionPublishingMultipleSuccess": {
+    "description": "The success text for publishing multiple posts."
   },
 
   "commonActionSchedulingProgress": "Scheduling post...",
