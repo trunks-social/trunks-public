@@ -240,7 +240,6 @@
     "commonActionUpdatingFilterSuccess": "Filtro ${filter} actualizado",
     "commonActionUpdatingFilterFailure": "No se pudo actualizar ${filter}",
     "commonActionPublishingProgress": "Publicando post...",
-    "commonActionPublishingSuccess": "Post publicado",
     "commonActionPublishingFailure": "No se pudo publicar el post",
     "commonActionSchedulingProgress": "Programando post...",
     "commonActionSchedulingSuccess": "Post programado",

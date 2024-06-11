@@ -146,7 +146,6 @@
     "commonActionRejectingSuccess": "@{account} 계정의 요청을 거부했습니다.",
     "commonActionDeleteFilterAction": "삭제",
     "commonActionPublishingProgress": "게시물 발행 중...",
-    "commonActionPublishingSuccess": "게시물 발행 마침",
     "commonActionPublishingFailure": "게시물 발행 실패함",
     "commonActionSchedulingProgress": "게시물 예약 중...",
     "commonActionSchedulingSuccess": "예약한 게시물",

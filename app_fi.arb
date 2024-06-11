@@ -237,7 +237,6 @@
     "commonActionUpdatingFilterSuccess": "Suodatin ${filter} päivitetty",
     "commonActionUpdatingFilterFailure": "Suodattimen ${filter} päivitys epäonnistui",
     "commonActionPublishingProgress": "Julkaistaan...",
-    "commonActionPublishingSuccess": "Julkaistu",
     "commonActionPublishingFailure": "Julkaisu epäonnistui",
     "commonActionSchedulingProgress": "Julkaisu ajoitetaan...",
     "commonActionSchedulingSuccess": "Ajoitettu julkaisu",

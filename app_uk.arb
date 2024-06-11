@@ -37,5 +37,10 @@
     "oops": "Упс, щось пішло не так",
     "about": "Про застосунок",
     "unableToLoad": "Не вдається завантажити контент",
-    "filterAll": "усі"
+    "filterAll": "усі",
+    "visibilityPublic": "Публічний",
+    "adaptiveHomeNavDestinationHome": "головна",
+    "adaptiveHomeSettingsPopupButton": "налаштування",
+    "adaptiveHomeMarkAsReadButton": "відмітити як прочитане",
+    "adminReportNotificationContextAccount": "аккаунт"
 }
