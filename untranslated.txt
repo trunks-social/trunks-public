@@ -612,9 +612,6 @@
   "es": [
     "notificationsPageAdminSignUpFilter",
     "notificationsPageAdminReportFilter",
-    "commonActionPublishingSuccess",
-    "commonActionPublishingMultipleProgress",
-    "commonActionPublishingMultipleSuccess",
     "trendingConfigPageTitle",
     "trendingConfigPageEmpty",
     "trendingConfigPageRemoveTooltip",
