@@ -3821,7 +3821,7 @@
     "description": "The settings page suppress non following user replies option description."
   },
 
-  "settingsPagePostLanguageOption": "Posting locale/language",
+  "settingsPagePostLanguageOption": "Posting language",
   "@settingsPagePostLanguageOption": {
     "description": "The settings page post language setting."
   },
