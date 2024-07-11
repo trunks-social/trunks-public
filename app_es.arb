@@ -673,7 +673,6 @@
     "settingsPageSuppressOtherServerRepliesOptionDescription": "Ocultar las respuestas a tus posts y menciones desde otros servidores. No impacta las notificaciones push.",
     "settingsPageSuppressNonFollowingRepliesOption": "Ocultar respuestas y menciones de no seguidores",
     "settingsPageSuppressNonFollowingRepliesOptionDescription": "Ocultar respuestas a tus posts y menciones de usuarios que no sigues. No impacta las notificaciones push.",
-    "settingsPagePostLanguageOption": "Ubicación/idioma de publicación",
     "settingsPageAccountsSection": "Cuentas",
     "settingsPageSignOutOption": "Cerrar sesión de cuenta",
     "settingsPageManageAccountsOption": "Administrar cuentas",
