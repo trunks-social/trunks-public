@@ -1,0 +1,11 @@
+{
+    "helloWorld": "Hola, món!",
+    "accept": "Acceptar",
+    "create": "Crear",
+    "cancel": "Cancel·lar",
+    "reset": "Restableix",
+    "delete": "Eliminar",
+    "add": "Afegir",
+    "edit": "Editar",
+    "clear": "Netejar"
+}
