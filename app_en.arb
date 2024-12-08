@@ -282,6 +282,17 @@
     }
   },
 
+  "nQuantityServers": "{serverCount, plural, =0{no servers} =1{1 server} other{{serverCount} servers}}",
+  "@nQuantityServers": {
+    "description": "Quantity of servers",
+    "placeholders": {
+      "serverCount": {
+        "type": "int",
+        "example": "13"
+      }
+    }
+  },
+
   "visibilityPublic": "Public",
   "@visibilityPublic": {
     "description": "The public visibility of a post."
@@ -3664,6 +3675,66 @@
   "themeSettingsAndroidDynamicToggleDescription":  "Dynamic theme will utilize various operating system theming attributes to create a color palette for light and dark mode.",
   "@themeSettingsAndroidDynamicToggleDescription": {
     "description": "The theme settings page android dynamic theme toggle description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmTitle": "Dynamic color scheme algorithm",
+  "@themeSettingsDynamicSchemeAlgorithmTitle": {
+    "description": "The theme settings page dynamic color scheme algorithm settings title."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmDescription":  "Choose which algorithm to use for color scheme generation.",
+  "@themeSettingsDynamicSchemeAlgorithmDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings title."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptTitle": "Dynamic color scheme algorithm",
+  "@themeSettingsDynamicSchemeAlgorithmPromptTitle": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt title."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptTonalDescription": "Default for Material theme colors. Builds pastel palettes with a low chroma.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptTonalDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt tonal option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptFidelityDescription": "The resulting color palettes match seed color, even if the seed color is very bright (high chroma).",
+  "@themeSettingsDynamicSchemeAlgorithmPromptFidelityDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt fidelity option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptMonochromeDescription": "All colors are grayscale, no chroma.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptMonochromeDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt monochrome option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptNeutralDescription": "Close to grayscale, a hint of chroma.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptNeutralDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt neutral option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptVibrantDescription": "Pastel colors, high chroma palettes. The primary palette's chroma is at maximum.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptVibrantDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt vibrant option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptExpressiveDescription": "Pastel colors, medium chroma palettes. The primary palette's hue is different from the seed color, for variety.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptExpressiveDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt expressive option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptContentDescription": "Tokens and palettes match the seed color. The tertiary palette is analogue of the seed color.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptContentDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt content option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptRainbowDescription": "A playful theme - the seed color's hue does not appear in the theme.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptRainbowDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt rainbow option description."
+  },
+
+  "themeSettingsDynamicSchemeAlgorithmPromptFruitSaladDescription": "An alternative playful theme - the seed color's hue does not appear in the theme.",
+  "@themeSettingsDynamicSchemeAlgorithmPromptFruitSaladDescription": {
+    "description": "The theme settings page dynamic color scheme algorithm settings prompt fruit salad option description."
   },
 
   "themeSettingsConfigurationSection": "Configure theme",
