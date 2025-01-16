@@ -1600,7 +1600,7 @@
         }
       }
   },
-  "commonActionRemovingFailure": "Failed to add remove @{account}",
+  "commonActionRemovingFailure": "Failed to remove @{account}",
   "@commonActionRemovingFailure": {
       "description": "The action text, with account placeholder, for removing an account to a list.",
       "placeholders": {

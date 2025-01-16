@@ -262,7 +262,6 @@
     "commonActionAddingFailure": "Hinzufügen von @{account} fehlgeschlagen",
     "commonActionRemovingProgress": "Wird entfernt...",
     "commonActionRemovingSuccess": "@{account} entfernt",
-    "commonActionRemovingFailure": "Entfernen von @{account} fehlgeschlagen",
     "commonActionDeleteListPrompt": "Liste löschen?",
     "commonActionDeleteListPromptAreYouSure": "Bist du sicher, dass du diese Liste löschen möchtest?",
     "commonActionDeleteListPromptAction": "Löschen",

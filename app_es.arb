@@ -260,7 +260,6 @@
     "commonActionAddingFailure": "No se pudo añadir la cuenta @{account}",
     "commonActionRemovingProgress": "Removiendo...",
     "commonActionRemovingSuccess": "Se removió @{account}",
-    "commonActionRemovingFailure": "No se pudo remover @{account}",
     "commonActionDeleteListPrompt": "¿Borrar lista?",
     "commonActionDeleteListPromptAreYouSure": "¿Seguro que quieres borrar esta lista?",
     "commonActionDeleteListPromptAction": "Borrar",

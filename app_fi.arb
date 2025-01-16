@@ -254,7 +254,6 @@
     "commonActionAddingFailure": "Tilin @{account} lisääminen epäonnistui",
     "commonActionRemovingProgress": "Poistetaan...",
     "commonActionRemovingSuccess": "Tili @{account} poistettu",
-    "commonActionRemovingFailure": "Tilin @{account} poistaminen epäonnistui",
     "commonActionDeleteListPrompt": "Poista lista?",
     "commonActionDeleteListPromptAreYouSure": "Oletko varma, että haluat poistaa tämän listan?",
     "commonActionDeleteListPromptAction": "Poista",
