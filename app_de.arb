@@ -404,7 +404,6 @@
     "searchPageActionTooltip": "Suche durchführen",
     "searchPageAdvancedSearchDialogTitle": "Erweiterte Suche",
     "searchPageAdvancedSearchDialogFromMeTitle": "\"from:me\"",
-    "searchPageAdvancedSearchDialogFromMeSubtitle": "Nur in Beiträgen suchen, die du selbst erstellt hast.",
     "searchPageAdvancedSearchDialogFromSomeoneElseTitle": "\"from:<user@server>\"",
     "searchPageAdvancedSearchDialogFromSomeoneElseSubtitle": "Nur Beiträge in Beiträgen von user@server suchen.",
     "searchPageAdvancedSearchDialogInLibraryTitle": "\"in:library\"",

@@ -398,7 +398,6 @@
     "searchPageActionTooltip": "Realizar búsqueda",
     "searchPageAdvancedSearchDialogTitle": "Búsqueda avanzada",
     "searchPageAdvancedSearchDialogFromMeTitle": "\"de:mí\"",
-    "searchPageAdvancedSearchDialogFromMeSubtitle": "Añadir a tu muestra de búsqueda solamente contenido tuyo.",
     "searchPageAdvancedSearchDialogFromSomeoneElseTitle": "\"de:<user@server>\"",
     "searchPageAdvancedSearchDialogFromSomeoneElseSubtitle": "Añadir a tu búsqueda que sólo muestre contenido de ese usuario específico.",
     "searchPageAdvancedSearchDialogInLibraryTitle": "\"en:biblioteca\"",
