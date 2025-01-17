@@ -2382,7 +2382,7 @@
     "description": "Search page advanced search dialog from me row title."
   },
 
-  "searchPageAdvancedSearchDialogFromMeSubtitle": "Add to your search show only content from yourself.",
+  "searchPageAdvancedSearchDialogFromMeSubtitle": "Add to your search to show only content from yourself.",
   "@searchPageAdvancedSearchDialogFromMeSubtitle": {
     "description": "Search page advanced search dialog from me row subtitle."
   },
