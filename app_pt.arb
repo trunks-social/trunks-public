@@ -1,8 +1,8 @@
 {
     "helloWorld": "Olá, mundo!",
     "ok": "Ok",
-    "on": "On",
-    "off": "Off",
+    "on": "Ativado",
+    "off": "Desativado",
     "accept": "Aceitar",
     "create": "Criar",
     "cancel": "Cancelar",
