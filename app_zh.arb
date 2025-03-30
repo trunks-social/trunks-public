@@ -734,5 +734,6 @@
     "securityPageOption": "安全 & 隐私",
     "notificationActionViewPost": "查看帖文",
     "notificationActionViewProfile": "查看资料",
-    "notificationActionReply": "回复"
+    "notificationActionReply": "回复",
+    "dynamicPostActionFormatted": "已优化排版"
 }

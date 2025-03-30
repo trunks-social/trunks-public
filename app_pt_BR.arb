@@ -734,5 +734,6 @@
     "securityPageOption": "Segurança e privacidade",
     "notificationActionViewPost": "Ver post",
     "notificationActionViewProfile": "Ver perfil",
-    "notificationActionReply": "Responder"
+    "notificationActionReply": "Responder",
+    "dynamicPostActionFormatted": "formatado"
 }

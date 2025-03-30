@@ -4106,5 +4106,10 @@
   "notificationActionReply": "Reply",
   "@notificationActionReply": {
     "description": "The reply notification action."
+  },
+
+  "dynamicPostActionFormatted": "formatted",
+  "@dynamicPostActionFormatted": {
+    "description": "The dynamic action that shows up on a post that highlights it as formatted."
   }
 }

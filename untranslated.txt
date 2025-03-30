@@ -726,7 +726,8 @@
     "securityPageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "de": [
@@ -735,7 +736,6 @@
     "searchPageAdvancedSearchDialogFromMeSubtitle",
     "themeSettingsDynamicSchemeAlgorithmTitle",
     "themeSettingsDynamicSchemeAlgorithmDescription",
-    "themeSettingsDynamicSchemeAlgorithmPromptTitle",
     "themeSettingsDynamicSchemeAlgorithmPromptTonalDescription",
     "themeSettingsDynamicSchemeAlgorithmPromptFidelityDescription",
     "themeSettingsDynamicSchemeAlgorithmPromptMonochromeDescription",
@@ -744,7 +744,12 @@
     "themeSettingsDynamicSchemeAlgorithmPromptExpressiveDescription",
     "themeSettingsDynamicSchemeAlgorithmPromptContentDescription",
     "themeSettingsDynamicSchemeAlgorithmPromptRainbowDescription",
-    "themeSettingsDynamicSchemeAlgorithmPromptFruitSaladDescription"
+    "themeSettingsDynamicSchemeAlgorithmPromptFruitSaladDescription",
+    "dynamicPostActionFormatted"
+  ],
+
+  "el": [
+    "dynamicPostActionFormatted"
   ],
 
   "es": [
@@ -773,7 +778,8 @@
     "settingsPagePostLanguageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "fi": [
@@ -852,7 +858,8 @@
     "viewMoreCommentsInThread",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "fr": [
@@ -1588,7 +1595,8 @@
     "securityPageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "it": [
@@ -2135,7 +2143,8 @@
     "securityPageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "ko": [
@@ -2498,7 +2507,12 @@
     "viewMoreCommentsInThread",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
+  ],
+
+  "nl": [
+    "dynamicPostActionFormatted"
   ],
 
   "pt": [
@@ -3180,7 +3194,8 @@
     "securityPageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "ru": [
@@ -3858,7 +3873,8 @@
     "securityPageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "sv": [
@@ -4470,7 +4486,8 @@
     "pinnedShortcutsConfigurePageHeader",
     "viewMoreCommentsInThread",
     "securitySettingsPageTitle",
-    "securityPageOption"
+    "securityPageOption",
+    "dynamicPostActionFormatted"
   ],
 
   "tr": [
@@ -5073,7 +5090,8 @@
     "securityPageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ],
 
   "uk": [
@@ -5768,6 +5786,7 @@
     "securityPageOption",
     "notificationActionViewPost",
     "notificationActionViewProfile",
-    "notificationActionReply"
+    "notificationActionReply",
+    "dynamicPostActionFormatted"
   ]
 }
